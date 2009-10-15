@@ -16,6 +16,8 @@
 
 package com.android.camera;
 
+import com.android.gallery.R;
+
 import android.appwidget.AppWidgetManager;
 import android.appwidget.AppWidgetProvider;
 import android.content.ContentValues;

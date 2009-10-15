@@ -15,7 +15,7 @@
 -->
 
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
-        xmlns:camera="http://schemas.android.com/apk/res/com.android.camera">
+        xmlns:camera="http://schemas.android.com/apk/res/com.android.gallery">
     <PreferenceCategory android:title="@string/pref_camera_settings_category">
         <com.android.camera.IconListPreference
                 android:key="pref_camera_flashmode_key"

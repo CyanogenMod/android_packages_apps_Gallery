@@ -1,5 +1,7 @@
 package com.android.camera;
 
+import com.android.gallery.R;
+
 import android.content.Context;
 import android.graphics.PixelFormat;
 import android.os.Handler;

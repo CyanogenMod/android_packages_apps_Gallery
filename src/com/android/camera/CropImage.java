@@ -16,6 +16,8 @@
 
 package com.android.camera;
 
+import com.android.gallery.R;
+
 import com.android.camera.gallery.IImage;
 import com.android.camera.gallery.IImageList;
 

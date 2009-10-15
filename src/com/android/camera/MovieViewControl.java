@@ -16,6 +16,8 @@
 
 package com.android.camera;
 
+import com.android.gallery.R;
+
 import android.app.AlertDialog;
 import android.content.ContentResolver;
 import android.content.ContentValues;

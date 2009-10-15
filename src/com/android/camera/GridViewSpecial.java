@@ -16,6 +16,8 @@
 
 package com.android.camera;
 
+import com.android.gallery.R;
+
 import static com.android.camera.Util.Assert;
 
 import android.app.Activity;

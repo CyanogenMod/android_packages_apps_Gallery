@@ -16,6 +16,8 @@
 
 package com.android.camera;
 
+import com.android.gallery.R;
+
 import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Paint;

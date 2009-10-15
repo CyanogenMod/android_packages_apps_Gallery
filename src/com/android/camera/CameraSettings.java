@@ -1,5 +1,7 @@
 package com.android.camera;
 
+import com.android.gallery.R;
+
 import android.app.Activity;
 import android.content.Context;
 import android.content.SharedPreferences;

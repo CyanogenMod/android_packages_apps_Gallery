@@ -5,7 +5,7 @@ LOCAL_MODULE_TAGS := user
 
 LOCAL_SRC_FILES := $(call all-java-files-under, src)
 
-LOCAL_PACKAGE_NAME := Camera
+LOCAL_PACKAGE_NAME := Gallery
 LOCAL_CERTIFICATE := media
 
 include $(BUILD_PACKAGE)

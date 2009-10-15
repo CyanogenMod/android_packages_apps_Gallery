@@ -16,6 +16,8 @@
 
 package com.android.camera;
 
+import com.android.gallery.R;
+
 import android.os.Bundle;
 import android.preference.PreferenceActivity;
 
