@@ -55,7 +55,7 @@ import java.util.Random;
 // the user view one image at a time, and can click "previous" and "next"
 // button to see the previous or next image. In slide show mode it shows one
 // image after another, with some transition effect.
-public class ViewImage extends Activity implements View.OnClickListener {
+public class ViewImage extends NoSearchActivity implements View.OnClickListener {
     private static final String PREF_SLIDESHOW_REPEAT =
             "pref_gallery_slideshow_repeat_key";
     private static final String PREF_SHUFFLE_SLIDESHOW =
@@ -329,6 +329,7 @@ public class ViewImage extends Activity implements View.OnClickListener {
         @Override
         public boolean onScroll(MotionEvent e1, MotionEvent e2,
                 float distanceX, float distanceY) {
+            if (mPaused) return false;
             ImageViewTouch imageView = mImageView;
             if (imageView.getScale() > 1F) {
                 imageView.postTranslateCenter(-distanceX, -distanceY);
@@ -338,12 +339,14 @@ public class ViewImage extends Activity implements View.OnClickListener {
 
         @Override
         public boolean onSingleTapUp(MotionEvent e) {
+            if (mPaused) return false;
             setMode(MODE_NORMAL);
             return true;
         }
 
         @Override
         public boolean onSingleTapConfirmed(MotionEvent e) {
+            if (mPaused) return false;
             showOnScreenControls();
             scheduleDismissOnScreenControls();
             return true;
@@ -351,6 +354,7 @@ public class ViewImage extends Activity implements View.OnClickListener {
 
         @Override
         public boolean onDoubleTap(MotionEvent e) {
+            if (mPaused) return false;
             ImageViewTouch imageView = mImageView;
 
             // Switch between the original scale and 3x scale.
@@ -402,8 +406,12 @@ public class ViewImage extends Activity implements View.OnClickListener {
                         Uri uri = image.fullSizeImageUri();
                         cb.run(uri, image);
 
-                        mImageView.clear();
-                        setImage(mCurrentPosition, false);
+                        // We might have deleted all images in the callback, so
+                        // call setImage() only if we still have some images.
+                        if (mAllImages.getCount() > 0) {
+                            mImageView.clear();
+                            setImage(mCurrentPosition, false);
+                        }
                     }
                 });
 
@@ -897,6 +905,7 @@ public class ViewImage extends Activity implements View.OnClickListener {
     private Uri getCurrentUri() {
         if (mAllImages.getCount() == 0) return null;
         IImage image = mAllImages.getImageAt(mCurrentPosition);
+        if (image == null) return null;
         return image.fullSizeImageUri();
     }
 

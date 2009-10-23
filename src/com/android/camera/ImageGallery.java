@@ -64,7 +64,7 @@ import com.android.camera.gallery.VideoObject;
 import java.util.ArrayList;
 import java.util.HashSet;
 
-public class ImageGallery extends Activity implements
+public class ImageGallery extends NoSearchActivity implements
         GridViewSpecial.Listener, GridViewSpecial.DrawAdapter {
     private static final String STATE_SCROLL_POSITION = "scroll_position";
     private static final String STATE_SELECTED_INDEX = "first_index";
@@ -941,6 +941,7 @@ public class ImageGallery extends Activity implements
     }
 
     private void onShareMultipleClicked() {
+        if (mMultiSelected == null) return;
         if (mMultiSelected.size() > 1) {
             Intent intent = new Intent();
             intent.setAction(Intent.ACTION_SEND_MULTIPLE);
@@ -980,6 +981,7 @@ public class ImageGallery extends Activity implements
     }
 
     private void onDeleteMultipleClicked() {
+        if (mMultiSelected == null) return;
         Runnable action = new Runnable() {
             public void run() {
                 ArrayList<Uri> uriList = new ArrayList<Uri>();

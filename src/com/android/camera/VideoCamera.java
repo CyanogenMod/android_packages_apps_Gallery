@@ -83,7 +83,7 @@ import java.util.HashMap;
 /**
  * The Camcorder activity.
  */
-public class VideoCamera extends Activity implements View.OnClickListener,
+public class VideoCamera extends NoSearchActivity implements View.OnClickListener,
         ShutterButton.OnShutterButtonListener, SurfaceHolder.Callback,
         MediaRecorder.OnErrorListener, MediaRecorder.OnInfoListener,
         Switcher.OnSwitchListener, OnSharedPreferenceChangeListener,
@@ -391,6 +391,7 @@ public class VideoCamera extends Activity implements View.OnClickListener,
             }
             case R.id.review_thumbnail: {
                 stopVideoRecordingAndShowReview();
+                initializeRecorder();
                 break;
             }
         }
@@ -1384,13 +1385,6 @@ public class VideoCamera extends Activity implements View.OnClickListener,
             mRecordingTimeView.setTextColor(color);
         }
 
-        // Work around a limitation of the T-Mobile G1: The T-Mobile
-        // hardware blitter can't pixel-accurately scale and clip at the
-        // same time, and the SurfaceFlinger doesn't attempt to work around
-        // this limitation. In order to avoid visual corruption we must
-        // manually refresh the entire surface view when changing any
-        // overlapping view's contents.
-        mVideoPreview.invalidate();
         mHandler.sendEmptyMessageDelayed(
                 UPDATE_RECORD_TIME, next_update_delay);
     }

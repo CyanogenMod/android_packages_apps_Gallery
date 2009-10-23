@@ -30,11 +30,14 @@ import android.view.View;
 /**
  * This activity plays a video from a specified URI.
  */
-public class MovieView extends Activity  {
+public class MovieView extends NoSearchActivity  {
     private static final String TAG = "MovieView";
 
     private MovieViewControl mControl;
     private boolean mFinishOnCompletion;
+    private boolean mResumed = false;  // Whether this activity has been resumed.
+    private boolean mFocused = false;  // Whether this window has focus.
+    private boolean mControlResumed = false;  // Whether the MovieViewControl is resumed.
 
     @Override
     public void onCreate(Bundle icicle) {
@@ -64,15 +67,30 @@ public class MovieView extends Activity  {
 
     @Override
     public void onPause() {
-        mControl.onPause();
         super.onPause();
+        mResumed = false;
+        if (mControlResumed) {
+            mControl.onPause();
+            mControlResumed = false;
+        }
+    }
+
+    @Override
+    public void onResume() {
+        super.onResume();
+        mResumed = true;
+        if (mFocused && mResumed && !mControlResumed) {
+            mControl.onResume();
+            mControlResumed = true;
+        }
     }
 
     @Override
     public void onWindowFocusChanged(boolean hasFocus) {
-        if (hasFocus) {
-            Log.v(TAG, "hasFocus");
+        mFocused = hasFocus;
+        if (mFocused && mResumed && !mControlResumed) {
             mControl.onResume();
+            mControlResumed = true;
         }
     }
 }
