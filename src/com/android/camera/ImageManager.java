@@ -161,29 +161,6 @@ public class ImageManager {
         }
     }
 
-    public static int roundOrientation(int orientationInput) {
-        int orientation = orientationInput;
-        if (orientation == -1) {
-            orientation = 0;
-        }
-
-        orientation = orientation % 360;
-        int retVal;
-        if (orientation < (0 * 90) + 45) {
-            retVal = 0;
-        } else if (orientation < (1 * 90) + 45) {
-            retVal = 90;
-        } else if (orientation < (2 * 90) + 45) {
-            retVal = 180;
-        } else if (orientation < (3 * 90) + 45) {
-            retVal = 270;
-        } else {
-            retVal = 0;
-        }
-
-        return retVal;
-    }
-
     /**
      * @return true if the mimetype is an image mimetype.
      */
@@ -214,12 +191,6 @@ public class ImageManager {
         // This is the right implementation, but we use instanceof for speed.
         //return isVideoMimeType(image.getMimeType());
         return (image instanceof VideoObject);
-    }
-
-    public static void setImageSize(ContentResolver cr, Uri uri, long size) {
-        ContentValues values = new ContentValues();
-        values.put(Images.Media.SIZE, size);
-        cr.update(uri, values, null, null);
     }
 
     //
@@ -558,20 +529,5 @@ public class ImageManager {
         }
 
         return result;
-    }
-
-    public static String getLastImageThumbPath() {
-        return Environment.getExternalStorageDirectory().toString() +
-               "/DCIM/.thumbnails/image_last_thumb";
-    }
-
-    public static String getLastVideoThumbPath() {
-        return Environment.getExternalStorageDirectory().toString() +
-               "/DCIM/.thumbnails/video_last_thumb";
-    }
-
-    public static String getTempJpegPath() {
-        return Environment.getExternalStorageDirectory().toString() +
-               "/DCIM/.tempjpeg";
     }
 }

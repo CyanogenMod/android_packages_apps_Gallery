@@ -15,23 +15,6 @@
     <application android:icon="@drawable/ic_launcher_camera"
             android:label="@string/camera_label"
             android:taskAffinity="">
-        <service android:name="UploadService" android:process="android.process.media" />
-        <activity android:name="com.android.camera.Camera"
-                android:configChanges="orientation|keyboardHidden"
-                android:theme="@style/CustomTheme"
-                android:screenOrientation="landscape"
-                android:clearTaskOnLaunch="true"
-                android:taskAffinity="android.task.camera">
-        </activity>
-        <activity android:name="com.android.camera.VideoCamera"
-                android:label="@string/video_camera_label"
-                android:configChanges="orientation|keyboardHidden"
-                android:icon="@drawable/ic_launcher_video_camera"
-                android:theme="@style/CustomTheme"
-                android:screenOrientation="landscape"
-                android:clearTaskOnLaunch="true"
-                android:taskAffinity="android.task.camcorder">
-        </activity>
         <activity android:name="com.android.camera.GalleryPicker"
                 android:label="@string/gallery_picker_label"
                 android:configChanges="orientation|keyboardHidden"
@@ -98,13 +81,6 @@
                 <category android:name="android.intent.category.ALTERNATIVE" />
                 <category android:name="android.intent.category.SELECTED_ALTERNATIVE" />
             </intent-filter>
-        </activity>
-        <activity android:name="com.android.camera.ReviewImage"
-                android:label="@string/view_label"
-                android:theme="@style/CustomTheme"
-                android:screenOrientation="behind"
-                android:configChanges="orientation|keyboardHidden"
-                android:exported="true">
         </activity>
         <activity android:name="com.android.camera.ViewImage"
                 android:label="@string/view_label"
@@ -175,7 +151,6 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
-
         <receiver android:name="com.android.camera.PhotoAppWidgetProvider"
                 android:label="@string/gadget_title"
                 android:icon="@drawable/ic_launcher_gallery">

@@ -864,10 +864,6 @@ public class MenuHelper {
         deleteImpl(activity, onDelete, true);
     }
 
-    static void deleteVideo(Activity activity, Runnable onDelete) {
-        deleteImpl(activity, onDelete, false);
-    }
-
     static void deleteImage(
             Activity activity, Runnable onDelete, IImage image) {
         deleteImpl(activity, onDelete, ImageManager.isImage(image));
@@ -921,54 +917,6 @@ public class MenuHelper {
             .setNegativeButton(android.R.string.cancel, listener)
             .create()
             .show();
-    }
-
-    private static void startCameraActivity(Activity activity, String action) {
-        Intent intent = new Intent(action);
-        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
-        intent.addFlags(Intent.FLAG_ACTIVITY_FORWARD_RESULT);
-
-        // Keep the camera instance for a while.
-        // This avoids re-opening the camera and saves time.
-        CameraHolder.instance().keep();
-
-        activity.startActivity(intent);
-    }
-
-    public static void gotoVideoMode(Activity activity) {
-        startCameraActivity(activity, MediaStore.INTENT_ACTION_VIDEO_CAMERA);
-    }
-
-    public static void gotoCameraMode(Activity activity) {
-        startCameraActivity(
-                activity, MediaStore.INTENT_ACTION_STILL_IMAGE_CAMERA);
-    }
-
-    public static void gotoCameraImageGallery(Activity activity) {
-        gotoGallery(activity, R.string.gallery_camera_bucket_name,
-                ImageManager.INCLUDE_IMAGES);
-    }
-
-    public static void gotoCameraVideoGallery(Activity activity) {
-        gotoGallery(activity, R.string.gallery_camera_videos_bucket_name,
-                ImageManager.INCLUDE_VIDEOS);
-    }
-
-    private static void gotoGallery(Activity activity, int windowTitleId,
-            int mediaTypes) {
-        Uri target = Images.Media.INTERNAL_CONTENT_URI.buildUpon()
-                .appendQueryParameter("bucketId",
-                ImageManager.CAMERA_IMAGE_BUCKET_ID).build();
-        Intent intent = new Intent(Intent.ACTION_VIEW, target);
-        intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
-        intent.putExtra("windowTitle", activity.getString(windowTitleId));
-        intent.putExtra("mediaTypes", mediaTypes);
-
-        try {
-            activity.startActivity(intent);
-        } catch (ActivityNotFoundException e) {
-            Log.e(TAG, "Could not start gallery activity", e);
-        }
     }
 
     static void addCapturePictureMenuItems(Menu menu, final Activity activity) {

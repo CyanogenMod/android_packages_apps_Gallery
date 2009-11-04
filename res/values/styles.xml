@@ -18,24 +18,6 @@
 -->
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
-    <style name="OnScreenHintTextAppearance">
-        <item name="android:textColor">@android:color/primary_text_dark</item>
-        <item name="android:textColorHighlight">#FFFF9200</item>
-        <item name="android:textColorHint">#808080</item>
-        <item name="android:textColorLink">#5C5CFF</item>
-        <item name="android:textSize">16sp</item>
-        <item name="android:textStyle">normal</item>
-    </style>
-    <style name="OnScreenHintTextAppearance.Small">
-        <item name="android:textSize">14sp</item>
-        <item name="android:textStyle">normal</item>
-        <item name="android:textColor">@android:color/secondary_text_dark</item>
-    </style>
-    <style name="Animation" />
-    <style name="Animation.OnScreenHint">
-        <item name="android:windowEnterAnimation">@anim/on_screen_hint_enter</item>
-        <item name="android:windowExitAnimation">@anim/on_screen_hint_exit</item>
-    </style>
     <style name="OnscreenActionIcon">
         <item name="android:focusable">false</item>
         <item name="android:clickable">true</item>
@@ -50,40 +32,6 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:drawablePadding">3dip</item>
     </style>
-    <style name="ReviewControlText">
-        <item name="android:textSize">12sp</item>
-        <item name="android:gravity">center</item>
-        <item name="android:ellipsize">end</item>
-        <item name="android:maxLines">2</item>
-        <item name="android:layout_width">fill_parent</item>
-        <item name="android:layout_height">wrap_content</item>
-    </style>
-    <style name="ReviewControlIcon">
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:layout_width">wrap_content</item>
-        <item name="android:scaleType">center</item>
-        <item name="android:clickable">true</item>
-        <item name="android:focusable">true</item>
-        <item name="android:background">@drawable/btn_camera_review</item>
-    </style>
-    <style name="ReviewControlGroup">
-        <item name="android:orientation">vertical</item>
-        <item name="android:gravity">top|center_horizontal</item>
-        <item name="android:layout_height">wrap_content</item>
-        <item name="android:layout_width">fill_parent</item>
-    </style>
     <style name="Theme.DeleteImageDialog" parent="android:style/Theme.Dialog.Alert">
-    </style>
-    <style name="NoEnterExitAnimation">
-        <item name="android:windowEnterAnimation">@null</item>
-        <item name="android:windowExitAnimation">@null</item>
-    </style>
-    <style name="CustomTheme"
-           parent="@android:style/Theme.Black.NoTitleBar.Fullscreen">
-        <item name="android:windowAnimationStyle">@style/NoEnterExitAnimation</item>
-    </style>
-    <style name="Animation_OnScreenMenu">
-        <item name="android:windowEnterAnimation">@anim/on_screen_menu_appear</item>
-        <item name="android:windowExitAnimation">@anim/on_screen_menu_disappear</item>
     </style>
 </resources>

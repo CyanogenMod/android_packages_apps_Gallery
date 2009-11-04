@@ -6,6 +6,10 @@ import android.test.AndroidTestCase;
 
 public class ImageListUberUnitTests extends AndroidTestCase {
 
+    private MockImage getImageAt(ImageListUber uber, int index) {
+        return (MockImage) uber.getImageAt(index);
+    }
+
     public void testTheOrderOfGetImageAt() {
         MockImageList listA = new MockImageList();
         MockImageList listB = new MockImageList();
@@ -15,16 +19,16 @@ public class ImageListUberUnitTests extends AndroidTestCase {
         ImageListUber uber = new ImageListUber(
                 new IImageList[] {listA, listB}, ImageManager.SORT_DESCENDING);
 
-        assertEquals(2, uber.getImageAt(0).fullSizeImageId());
-        assertEquals(1, uber.getImageAt(1).fullSizeImageId());
-        assertEquals(0, uber.getImageAt(2).fullSizeImageId());
+        assertEquals(2, getImageAt(uber, 0).fullSizeImageId());
+        assertEquals(1, getImageAt(uber, 1).fullSizeImageId());
+        assertEquals(0, getImageAt(uber, 2).fullSizeImageId());
         uber.close();
 
         uber = new ImageListUber(
                 new IImageList[] {listA, listB}, ImageManager.SORT_DESCENDING);
-        assertEquals(2, uber.getImageAt(0).fullSizeImageId());
-        assertEquals(1, uber.getImageAt(1).fullSizeImageId());
-        assertEquals(0, uber.getImageAt(2).fullSizeImageId());
+        assertEquals(2, getImageAt(uber, 0).fullSizeImageId());
+        assertEquals(1, getImageAt(uber, 1).fullSizeImageId());
+        assertEquals(0, getImageAt(uber, 2).fullSizeImageId());
         uber.close();
     }
 
@@ -37,17 +41,17 @@ public class ImageListUberUnitTests extends AndroidTestCase {
         ImageListUber uber = new ImageListUber(
                 new IImageList[] {listB, listA}, ImageManager.SORT_DESCENDING);
 
-        assertEquals(2, uber.getImageAt(0).fullSizeImageId());
-        assertEquals(1, uber.getImageAt(1).fullSizeImageId());
-        assertEquals(0, uber.getImageAt(2).fullSizeImageId());
+        assertEquals(2, getImageAt(uber, 0).fullSizeImageId());
+        assertEquals(1, getImageAt(uber, 1).fullSizeImageId());
+        assertEquals(0, getImageAt(uber, 2).fullSizeImageId());
         uber.close();
 
         uber = new ImageListUber(
                 new IImageList[] {listA, listB}, ImageManager.SORT_DESCENDING);
 
-        assertEquals(2, uber.getImageAt(0).fullSizeImageId());
-        assertEquals(1, uber.getImageAt(1).fullSizeImageId());
-        assertEquals(0, uber.getImageAt(2).fullSizeImageId());
+        assertEquals(2, getImageAt(uber, 0).fullSizeImageId());
+        assertEquals(1, getImageAt(uber, 1).fullSizeImageId());
+        assertEquals(0, getImageAt(uber, 2).fullSizeImageId());
         uber.close();
     }
 
@@ -61,11 +65,11 @@ public class ImageListUberUnitTests extends AndroidTestCase {
         ImageListUber uber = new ImageListUber(
                 new IImageList[] {listB, listA}, ImageManager.SORT_DESCENDING);
         uber.removeImage(target);
-        assertEquals(2, uber.getImageAt(0).fullSizeImageId());
-        assertEquals(0, uber.getImageAt(1).fullSizeImageId());
+        assertEquals(2, getImageAt(uber, 0).fullSizeImageId());
+        assertEquals(0, getImageAt(uber, 1).fullSizeImageId());
 
-        assertEquals(0, uber.getImageIndex(uber.getImageAt(0)));
-        assertEquals(1, uber.getImageIndex(uber.getImageAt(1)));
+        assertEquals(0, uber.getImageIndex(getImageAt(uber, 0)));
+        assertEquals(1, uber.getImageIndex(getImageAt(uber, 1)));
         uber.close();
     }
 
@@ -79,11 +83,11 @@ public class ImageListUberUnitTests extends AndroidTestCase {
         ImageListUber uber = new ImageListUber(
                 new IImageList[] {listB, listA}, ImageManager.SORT_DESCENDING);
         uber.removeImageAt(1);
-        assertEquals(2, uber.getImageAt(0).fullSizeImageId());
-        assertEquals(0, uber.getImageAt(1).fullSizeImageId());
+        assertEquals(2, getImageAt(uber, 0).fullSizeImageId());
+        assertEquals(0, getImageAt(uber, 1).fullSizeImageId());
 
-        assertEquals(0, uber.getImageIndex(uber.getImageAt(0)));
-        assertEquals(1, uber.getImageIndex(uber.getImageAt(1)));
+        assertEquals(0, uber.getImageIndex(getImageAt(uber, 0)));
+        assertEquals(1, uber.getImageIndex(getImageAt(uber, 1)));
         uber.close();
     }
 }

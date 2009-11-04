@@ -330,30 +330,6 @@ public class Util {
         }
     }
 
-    public static Bitmap makeBitmap(byte[] jpegData, int maxNumOfPixels) {
-        try {
-            BitmapFactory.Options options = new BitmapFactory.Options();
-            options.inJustDecodeBounds = true;
-            BitmapFactory.decodeByteArray(jpegData, 0, jpegData.length,
-                    options);
-            if (options.mCancel || options.outWidth == -1
-                    || options.outHeight == -1) {
-                return null;
-            }
-            options.inSampleSize = computeSampleSize(
-                    options, IImage.UNCONSTRAINED, maxNumOfPixels);
-            options.inJustDecodeBounds = false;
-
-            options.inDither = false;
-            options.inPreferredConfig = Bitmap.Config.ARGB_8888;
-            return BitmapFactory.decodeByteArray(jpegData, 0, jpegData.length,
-                    options);
-        } catch (OutOfMemoryError ex) {
-            Log.e(TAG, "Got oom exception ", ex);
-            return null;
-        }
-    }
-
     private static ParcelFileDescriptor makeInputStream(
             Uri uri, ContentResolver cr) {
         try {
@@ -458,70 +434,5 @@ public class Util {
         BitmapFactory.Options options = new BitmapFactory.Options();
         options.inNativeAlloc = true;
         return options;
-    }
-
-    public static void showFatalErrorAndFinish(
-            final Activity activity, String title, String message) {
-        DialogInterface.OnClickListener buttonListener =
-                new DialogInterface.OnClickListener() {
-            public void onClick(DialogInterface dialog, int which) {
-                activity.finish();
-            }
-        };
-        new AlertDialog.Builder(activity)
-                .setCancelable(false)
-                .setIcon(android.R.drawable.ic_dialog_alert)
-                .setTitle(title)
-                .setMessage(message)
-                .setNeutralButton(R.string.details_ok, buttonListener)
-                .show();
-    }
-
-    public static Animation slideOut(View view, int to) {
-        view.setVisibility(View.INVISIBLE);
-        Animation anim;
-        switch (to) {
-            case DIRECTION_LEFT:
-                anim = new TranslateAnimation(0, -view.getWidth(), 0, 0);
-                break;
-            case DIRECTION_RIGHT:
-                anim = new TranslateAnimation(0, view.getWidth(), 0, 0);
-                break;
-            case DIRECTION_UP:
-                anim = new TranslateAnimation(0, 0, 0, -view.getHeight());
-                break;
-            case DIRECTION_DOWN:
-                anim = new TranslateAnimation(0, 0, 0, view.getHeight());
-                break;
-            default:
-                throw new IllegalArgumentException(Integer.toString(to));
-        }
-        anim.setDuration(500);
-        view.startAnimation(anim);
-        return anim;
-    }
-
-    public static Animation slideIn(View view, int from) {
-        view.setVisibility(View.VISIBLE);
-        Animation anim;
-        switch (from) {
-            case DIRECTION_LEFT:
-                anim = new TranslateAnimation(-view.getWidth(), 0, 0, 0);
-                break;
-            case DIRECTION_RIGHT:
-                anim = new TranslateAnimation(view.getWidth(), 0, 0, 0);
-                break;
-            case DIRECTION_UP:
-                anim = new TranslateAnimation(0, 0, -view.getHeight(), 0);
-                break;
-            case DIRECTION_DOWN:
-                anim = new TranslateAnimation(0, 0, view.getHeight(), 0);
-                break;
-            default:
-                throw new IllegalArgumentException(Integer.toString(from));
-        }
-        anim.setDuration(500);
-        view.startAnimation(anim);
-        return anim;
     }
 }
