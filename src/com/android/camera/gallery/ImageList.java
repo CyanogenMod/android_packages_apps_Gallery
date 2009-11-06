@@ -58,10 +58,9 @@ public class ImageList extends BaseImageList implements IImageList {
     /**
      * ImageList constructor.
      */
-    public ImageList(ContentResolver resolver, Uri imageUri, Uri thumbUri,
+    public ImageList(ContentResolver resolver, Uri imageUri,
             int sort, String bucketId) {
         super(resolver, imageUri, sort, bucketId);
-        mThumbUri = thumbUri;
     }
 
     private static final String WHERE_CLAUSE =
@@ -134,7 +133,7 @@ public class ImageList extends BaseImageList implements IImageList {
         }
         String displayName = title;
         return new Image(this, mContentResolver, id, cursor.getPosition(),
-                contentUri(id), dataPath, miniThumbMagic, mimeType, dateTaken,
-                title, displayName, orientation);
+                contentUri(id), dataPath, mimeType, dateTaken, title,
+                displayName, orientation);
     }
 }

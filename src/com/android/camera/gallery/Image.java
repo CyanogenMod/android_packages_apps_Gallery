@@ -43,10 +43,10 @@ public class Image extends BaseImage implements IImage {
     private int mRotation;
 
     public Image(BaseImageList container, ContentResolver cr,
-            long id, int index, Uri uri, String dataPath, long miniThumbMagic,
+            long id, int index, Uri uri, String dataPath,
             String mimeType, long dateTaken, String title, String displayName,
             int rotation) {
-        super(container, cr, id, index, uri, dataPath, miniThumbMagic,
+        super(container, cr, id, index, uri, dataPath,
                 mimeType, dateTaken, title, displayName);
         mRotation = rotation;
     }

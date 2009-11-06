@@ -71,7 +71,7 @@ public class VideoList extends BaseImageList {
 
         return new VideoObject(this, mContentResolver,
                 id, cursor.getPosition(), contentUri(id), dataPath,
-                miniThumbMagic, mimeType, dateTaken, title, displayName);
+                mimeType, dateTaken, title, displayName);
     }
 
     public VideoList(ContentResolver resolver, Uri uri, int sort,

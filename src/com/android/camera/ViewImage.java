@@ -741,9 +741,6 @@ public class ViewImage extends NoSearchActivity implements View.OnClickListener 
             }
 
             ImageViewTouchBase dst = mImageView;
-            dst.mLastXTouchPos = -1;
-            dst.mLastYTouchPos = -1;
-
             for (ImageViewTouchBase ivt : mSlideShowImageViews) {
                 ivt.clear();
             }

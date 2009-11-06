@@ -43,9 +43,9 @@ public class VideoObject extends BaseImage implements IImage {
      * @param cr        the content resolver
      */
     protected VideoObject(BaseImageList container, ContentResolver cr,
-            long id, int index, Uri uri, String dataPath, long miniThumbMagic,
+            long id, int index, Uri uri, String dataPath,
             String mimeType, long dateTaken, String title, String displayName) {
-        super(container, cr, id, index, uri, dataPath, miniThumbMagic,
+        super(container, cr, id, index, uri, dataPath,
                 mimeType, dateTaken, title, displayName);
     }
 

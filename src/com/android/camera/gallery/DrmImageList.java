@@ -40,7 +40,7 @@ public class DrmImageList extends ImageList implements IImageList {
 
     public DrmImageList(ContentResolver resolver, Uri imageUri, int sort,
             String bucketId) {
-        super(resolver, imageUri, null, sort, bucketId);
+        super(resolver, imageUri, sort, bucketId);
     }
 
     @Override
@@ -61,7 +61,7 @@ public class DrmImageList extends ImageList implements IImageList {
                 long id, int index, Uri uri, String dataPath,
                 long miniThumbMagic, String mimeType, long dateTaken,
                 String title, String displayName, int rotation) {
-            super(container, cr, id, index, uri, dataPath, miniThumbMagic,
+            super(container, cr, id, index, uri, dataPath,
                     mimeType, dateTaken, title, displayName, rotation);
         }
 
