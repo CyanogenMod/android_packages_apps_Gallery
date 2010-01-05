@@ -44,9 +44,9 @@ public class VideoObject extends BaseImage implements IImage {
      */
     protected VideoObject(BaseImageList container, ContentResolver cr,
             long id, int index, Uri uri, String dataPath,
-            String mimeType, long dateTaken, String title, String displayName) {
+            String mimeType, long dateTaken, String title) {
         super(container, cr, id, index, uri, dataPath,
-                mimeType, dateTaken, title, displayName);
+                mimeType, dateTaken, title);
     }
 
     @Override

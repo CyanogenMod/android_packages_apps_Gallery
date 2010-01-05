@@ -131,9 +131,8 @@ public class ImageList extends BaseImageList implements IImageList {
         if (title == null || title.length() == 0) {
             title = dataPath;
         }
-        String displayName = title;
         return new Image(this, mContentResolver, id, cursor.getPosition(),
                 contentUri(id), dataPath, mimeType, dateTaken, title,
-                displayName, orientation);
+                orientation);
     }
 }
