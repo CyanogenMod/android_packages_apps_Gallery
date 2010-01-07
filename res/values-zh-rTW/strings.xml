@@ -96,7 +96,7 @@
     <item msgid="9006732482485375438">"隨機選取"</item>
   </string-array>
     <string name="pref_gallery_slideshow_repeat_title" msgid="6512135022461429738">"重複播放投影片"</string>
-    <string name="pref_gallery_slideshow_repeat_summary" msgid="8289230397431855268">"旋環播放投影片"</string>
+    <string name="pref_gallery_slideshow_repeat_summary" msgid="8289230397431855268">"循環播放投影片"</string>
     <string name="pref_gallery_slideshow_shuffle_title" msgid="3677508579783015598">"隨機播放投影片"</string>
     <string name="pref_gallery_slideshow_shuffle_summary" msgid="8566948749149325715">"隨機顯示相片"</string>
     <string name="camerasettings" msgid="2433519618178453928">"設定"</string>
