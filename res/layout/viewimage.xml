@@ -16,32 +16,32 @@
 
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:id="@+id/rootLayout"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent">
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
 
     <AbsoluteLayout android:id="@+id/slideShowContainer"
-            android:layout_width="fill_parent"
-            android:layout_height="fill_parent">
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
         <com.android.camera.ImageViewTouch android:id="@+id/image1_slideShow"
                 android:background="#00000000"
-                android:layout_width="fill_parent"
-                android:layout_height="fill_parent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
         />
         <com.android.camera.ImageViewTouch android:id="@+id/image2_slideShow"
                 android:background="#00000000"
-                android:layout_width="fill_parent"
-                android:layout_height="fill_parent"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
         />
     </AbsoluteLayout>
 
     <AbsoluteLayout android:id="@+id/abs"
-            android:layout_width="fill_parent"
-            android:layout_height="fill_parent">
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
         <com.android.camera.ImageViewTouch android:id="@+id/image"
                     android:background="#FF000000"
                     android:focusableInTouchMode="true"
-                    android:layout_width="fill_parent"
-                    android:layout_height="fill_parent" />
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
     </AbsoluteLayout>
     <ImageView android:id="@+id/prev_image"
             android:clickable="true"
@@ -69,7 +69,7 @@
             android:visibility="gone"
             android:id="@+id/action_icon_panel"
             android:layout_marginTop="20dp"
-            android:layout_width="fill_parent"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content">
         <com.android.camera.ActionMenuButton
                 android:id="@+id/setas"

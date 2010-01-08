@@ -35,6 +35,6 @@
             android:singleLine="true"
             android:textColor="#ffffffff"
             android:ellipsize="marquee"
-            android:layout_width="fill_parent"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content" />
 </LinearLayout>
