@@ -16,7 +16,6 @@
 
 package com.android.camera;
 
-import android.app.Activity;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
@@ -38,8 +37,7 @@ public class Wallpaper extends NoSearchActivity {
         Uri imageToUse = getIntent().getData();
         if (imageToUse != null) {
             Intent intent = new Intent();
-            intent.setClassName("com.android.camera",
-                                "com.android.camera.CropImage");
+            intent.setClass(this, CropImage.class);
             intent.setData(imageToUse);
             formatIntent(intent);
             startActivityForResult(intent, CROP_DONE);
