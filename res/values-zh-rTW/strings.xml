@@ -45,7 +45,7 @@
     <string name="capture_picture" msgid="4114265595549284643">"拍攝照片"</string>
     <string name="capture_video" msgid="4047046282358697155">"拍攝影片"</string>
     <string name="crop_save_text" msgid="8140440041190264400">"儲存"</string>
-    <string name="crop_discard_text" msgid="5303657888280340603">"放棄"</string>
+    <string name="crop_discard_text" msgid="5303657888280340603">"捨棄"</string>
     <string name="confirm_delete_title" msgid="263478358046514887">"刪除"</string>
     <string name="confirm_delete_message" msgid="4161389939579284604">"刪除相片？"</string>
     <string name="confirm_delete_video_message" msgid="5796154324948010221">"刪除這部影片？"</string>
