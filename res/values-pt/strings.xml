@@ -31,7 +31,7 @@
     <string name="no_storage" msgid="820691042667338625">"Insira um cartão SD antes de usar a câmera."</string>
     <string name="not_enough_space" msgid="6655334407957844653">"O seu cartão SD está cheio."</string>
     <string name="preparing_sd" msgid="2914969119574812666">"Preparando o cartão SD…"</string>
-    <string name="wallpaper" msgid="9222901738515471972">"Configurando o papel de parede, aguarde…"</string>
+    <string name="wallpaper" msgid="9222901738515471972">"Configurando o plano de fundo, aguarde…"</string>
     <string name="savingImage" msgid="3051745378545909260">"Salvando imagem…"</string>
     <string name="runningFaceDetection" msgid="2293932204708167704">"Aguarde..."</string>
     <string name="view" msgid="6277795271119411881">"Exibir"</string>
@@ -62,7 +62,7 @@
     <string name="no_way_to_share" msgid="863323712875014752">"Não há aplicativo disponível para compartilhar os arquivos de mídia."</string>
     <string name="video_play" msgid="5287787282508002895">"Reproduzir"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"Imagens"</string>
-    <string name="camera_setas_wallpaper" msgid="797463183863414289">"Papel de parede"</string>
+    <string name="camera_setas_wallpaper" msgid="797463183863414289">"Plano de fundo"</string>
     <string name="pref_gallery_category" msgid="5826488887237959433">"Configurações gerais"</string>
     <string name="pref_slideshow_category" msgid="9097962086335681667">"Configurações da apresentação de slides"</string>
     <string name="pref_gallery_size_title" msgid="1363406603879434418">"Tamanho da exibição"</string>
@@ -144,7 +144,7 @@
     <string name="resume_playing_message" msgid="7293000708492271389">"Retomar reprodução a partir de <xliff:g id="DURATION">%s</xliff:g> ?"</string>
     <string name="resume_playing_resume" msgid="3847915469173852416">"Retomar a reprodução"</string>
     <string name="resume_playing_restart" msgid="5471008499835769292">"Reiniciar"</string>
-    <string name="gadget_title" msgid="259405922673466798">"Frame da imagem"</string>
+    <string name="gadget_title" msgid="259405922673466798">"Moldura de uma imagem"</string>
     <string name="file_info_title" msgid="1628963357466012538">"Informações do arquivo:"</string>
     <string name="video_exceed_mms_limit" msgid="3835075281230780010">"O vídeo gravado é muito grande para ser enviado via MMS. Tente gravar um clipe mais curto."</string>
     <string name="multiselect_share" msgid="5261644537749253581">"Compartilhar"</string>

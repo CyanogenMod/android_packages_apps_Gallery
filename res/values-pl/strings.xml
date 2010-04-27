@@ -144,7 +144,7 @@
     <string name="resume_playing_message" msgid="7293000708492271389">"Wznowić odtwarzanie od momentu <xliff:g id="DURATION">%s</xliff:g>?"</string>
     <string name="resume_playing_resume" msgid="3847915469173852416">"Wznów odtwarzanie"</string>
     <string name="resume_playing_restart" msgid="5471008499835769292">"Rozpocznij"</string>
-    <string name="gadget_title" msgid="259405922673466798">"Ramka zdjęcia"</string>
+    <string name="gadget_title" msgid="259405922673466798">"Ramka ze zdjęciem"</string>
     <string name="file_info_title" msgid="1628963357466012538">"Informacje o pliku:"</string>
     <string name="video_exceed_mms_limit" msgid="3835075281230780010">"Nagrany film wideo jest zbyt duży, aby wysłać go w wiadomości MMS. Spróbuj nagrać krótszy film wideo."</string>
     <string name="multiselect_share" msgid="5261644537749253581">"Udostępnij"</string>
