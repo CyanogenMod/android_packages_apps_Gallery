@@ -34,6 +34,7 @@ import android.view.KeyEvent;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.MotionEvent;
+import android.view.ScaleGestureDetector;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
@@ -55,7 +56,7 @@ import java.util.Random;
 // the user view one image at a time, and can click "previous" and "next"
 // button to see the previous or next image. In slide show mode it shows one
 // image after another, with some transition effect.
-public class ViewImage extends Activity implements View.OnClickListener {
+public class ViewImage extends Activity implements View.OnClickListener, ScaleGestureDetector.OnScaleGestureListener {
     private static final String PREF_SLIDESHOW_REPEAT =
             "pref_gallery_slideshow_repeat_key";
     private static final String PREF_SHUFFLE_SLIDESHOW =
@@ -125,6 +126,8 @@ public class ViewImage extends Activity implements View.OnClickListener {
     GestureDetector mGestureDetector;
     private ZoomButtonsController mZoomButtonsController;
 
+    private ScaleGestureDetector mScaleGestureDetector;
+    
     // The image view displayed for normal mode.
     private ImageViewTouch mImageView;
     // This is the cache for thumbnail bitmaps.
@@ -294,7 +297,8 @@ public class ViewImage extends Activity implements View.OnClickListener {
 
     private void setupOnTouchListeners(View rootView) {
         mGestureDetector = new GestureDetector(this, new MyGestureListener());
-
+        mScaleGestureDetector = new ScaleGestureDetector(this, this);
+        
         // If the user touches anywhere on the panel (including the
         // next/prev button). We show the on-screen controls. In addition
         // to that, if the touch is not on the prev/next button, we
@@ -310,7 +314,8 @@ public class ViewImage extends Activity implements View.OnClickListener {
             public boolean onTouch(View v, MotionEvent event) {
                 buttonListener.onTouch(v, event);
                 mGestureDetector.onTouchEvent(event);
-
+                mScaleGestureDetector.onTouchEvent(event);
+                
                 // We do not use the return value of
                 // mGestureDetector.onTouchEvent because we will not receive
                 // the "up" event if we return false for the "down" event.
@@ -361,6 +366,33 @@ public class ViewImage extends Activity implements View.OnClickListener {
             }
             return true;
         }
+    }
+
+    @Override
+    public boolean onScale(ScaleGestureDetector detector) {
+        float scale = detector.getScaleFactor();
+        float currentScale = mImageView.getScale();
+        Log.d("STRETCHY", "scale: " + scale + " currentScale: " + currentScale);
+        
+        if (currentScale < 0.7f && scale < 1.0f) {
+            scale = 1.0f;
+        }
+        if (currentScale > 8.0f && scale > 1.0f) {
+            scale = 1.0f;
+        }
+
+        mImageView.zoomToPoint(currentScale * scale, detector.getFocusX(), detector.getFocusY());
+        return true;
+    }
+
+    @Override
+    public boolean onScaleBegin(ScaleGestureDetector detector) {
+        return true;
+    }
+
+    @Override
+    public void onScaleEnd(ScaleGestureDetector detector) {
+        
     }
 
     boolean isPickIntent() {
