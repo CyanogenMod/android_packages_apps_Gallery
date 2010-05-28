@@ -391,7 +391,6 @@ public class ViewImage extends Activity implements View.OnClickListener, ScaleGe
         }
     }
 
-    @Override
     public boolean onScale(ScaleGestureDetector detector) {
         float scale = detector.getScaleFactor();
         float currentScale = mImageView.getScale();
@@ -407,12 +406,10 @@ public class ViewImage extends Activity implements View.OnClickListener, ScaleGe
         return true;
     }
 
-    @Override
     public boolean onScaleBegin(ScaleGestureDetector detector) {
         return true;
     }
 
-    @Override
     public void onScaleEnd(ScaleGestureDetector detector) {
         
     }
