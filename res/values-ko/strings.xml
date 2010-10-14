@@ -28,11 +28,11 @@
     <string name="view_label" msgid="4450531507947335704">"사진 보기"</string>
     <string name="preferences_label" msgid="5955678162525051163">"카메라 설정"</string>
     <string name="wait" msgid="8600187532323801552">"잠시 기다려 주세요..."</string>
-    <!-- outdated translation 820691042667338625 -->     <string name="no_storage" product="nosdcard" msgid="852782056902429852">"카메라를 사용하려면 SD 카드를 넣으세요."</string>
+    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"카메라를 사용하기 전에 공유 저장용량을 마운트하세요."</string>
     <string name="no_storage" product="default" msgid="820691042667338625">"카메라를 사용하려면 SD 카드를 넣으세요."</string>
-    <!-- outdated translation 6655334407957844653 -->     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"SD 카드가 꽉 찼습니다."</string>
+    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"공유 저장용량이 꽉 찼습니다."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"SD 카드가 꽉 찼습니다."</string>
-    <!-- outdated translation 2914969119574812666 -->     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"SD 카드 준비중..."</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"공유 저장용량 준비 중…"</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"SD 카드 준비중..."</string>
     <string name="wallpaper" msgid="9222901738515471972">"배경화면을 설정하는 중입니다. 잠시 기다려 주세요..."</string>
     <string name="savingImage" msgid="3051745378545909260">"사진 저장 중..."</string>

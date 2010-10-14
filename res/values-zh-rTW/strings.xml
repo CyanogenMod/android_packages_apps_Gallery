@@ -28,11 +28,11 @@
     <string name="view_label" msgid="4450531507947335704">"檢視相片"</string>
     <string name="preferences_label" msgid="5955678162525051163">"相機設定"</string>
     <string name="wait" msgid="8600187532323801552">"請稍候…"</string>
-    <!-- outdated translation 820691042667338625 -->     <string name="no_storage" product="nosdcard" msgid="852782056902429852">"使用相機前請先插入 SD 卡。"</string>
+    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"使用相機前，請先掛接共用儲存裝置。"</string>
     <string name="no_storage" product="default" msgid="820691042667338625">"使用相機前請先插入 SD 卡。"</string>
-    <!-- outdated translation 6655334407957844653 -->     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"SD 卡已滿。"</string>
+    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"您的共用儲存裝置已滿。"</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"SD 卡已滿。"</string>
-    <!-- outdated translation 2914969119574812666 -->     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"正在準備 SD 卡..."</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"正在準備共用儲存裝置..."</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"正在準備 SD 卡..."</string>
     <string name="wallpaper" msgid="9222901738515471972">"設定桌布中，請稍候…"</string>
     <string name="savingImage" msgid="3051745378545909260">"儲存相片中…"</string>

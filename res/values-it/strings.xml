@@ -28,11 +28,11 @@
     <string name="view_label" msgid="4450531507947335704">"Visualizza foto"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Impostazioni fotocamera"</string>
     <string name="wait" msgid="8600187532323801552">"Attendere..."</string>
-    <!-- outdated translation 820691042667338625 -->     <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Per usare la fotocamera devi inserire una scheda SD."</string>
+    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Monta l\'archivio condiviso prima di utilizzare la fotocamera."</string>
     <string name="no_storage" product="default" msgid="820691042667338625">"Per usare la fotocamera devi inserire una scheda SD."</string>
-    <!-- outdated translation 6655334407957844653 -->     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"La scheda SD è piena."</string>
+    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"L\'archivio condiviso è pieno."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"La scheda SD è piena."</string>
-    <!-- outdated translation 2914969119574812666 -->     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Preparazione scheda SD…"</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Preparazione dell\'archivio condiviso in corso…"</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"Preparazione scheda SD…"</string>
     <string name="wallpaper" msgid="9222901738515471972">"Impostazione sfondo, attendi..."</string>
     <string name="savingImage" msgid="3051745378545909260">"Salvataggio foto..."</string>

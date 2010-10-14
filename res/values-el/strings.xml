@@ -28,11 +28,11 @@
     <string name="view_label" msgid="4450531507947335704">"Προβολή εικόνας"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Ρυθμίσεις φωτογραφικής μηχανής"</string>
     <string name="wait" msgid="8600187532323801552">"Περιμένετε..."</string>
-    <!-- outdated translation 820691042667338625 -->     <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Πριν χρησιμοποιήσετε τη φωτογραφική μηχανή, εισάγετε μία κάρτα SD."</string>
+    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Προσαρτήστε τον κοινόχρηστο αποθηκευτικό χώρο προτού κάνετε χρήση της φωτογραφικής μηχανής."</string>
     <string name="no_storage" product="default" msgid="820691042667338625">"Πριν χρησιμοποιήσετε τη φωτογραφική μηχανή, εισάγετε μία κάρτα SD."</string>
-    <!-- outdated translation 6655334407957844653 -->     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Η κάρτα SD είναι πλήρης."</string>
+    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Ο κοινόχρηστος χώρος αποθήκευσής σας είναι πλήρης."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"Η κάρτα SD είναι πλήρης."</string>
-    <!-- outdated translation 2914969119574812666 -->     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Προετοιμασία κάρτας SD…"</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Προετοιμασία κοινόχρηστου χώρου αποθήκευσης…"</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"Προετοιμασία κάρτας SD…"</string>
     <string name="wallpaper" msgid="9222901738515471972">"Ρύθμιση ταπετσαρίας, περιμένετε..."</string>
     <string name="savingImage" msgid="3051745378545909260">"Αποθήκευση εικόνας..."</string>

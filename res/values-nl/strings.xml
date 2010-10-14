@@ -28,11 +28,11 @@
     <string name="view_label" msgid="4450531507947335704">"Foto weergeven"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Camera-instellingen"</string>
     <string name="wait" msgid="8600187532323801552">"Een ogenblik geduld..."</string>
-    <!-- outdated translation 820691042667338625 -->     <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Plaats een SD-kaart voordat u de camera gebruikt."</string>
+    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Koppel de gedeelde opslag voordat u de camera gebruikt."</string>
     <string name="no_storage" product="default" msgid="820691042667338625">"Plaats een SD-kaart voordat u de camera gebruikt."</string>
-    <!-- outdated translation 6655334407957844653 -->     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"De SD-kaart is vol."</string>
+    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Uw gedeelde opslag is vol."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"De SD-kaart is vol."</string>
-    <!-- outdated translation 2914969119574812666 -->     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"SD-kaart voorbereiden…"</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Gedeelde opslag voorbereiden…"</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"SD-kaart voorbereiden…"</string>
     <string name="wallpaper" msgid="9222901738515471972">"Achtergrond wordt ingesteld. Een ogenblik geduld..."</string>
     <string name="savingImage" msgid="3051745378545909260">"Foto opslaan..."</string>
