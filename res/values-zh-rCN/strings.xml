@@ -28,9 +28,12 @@
     <string name="view_label" msgid="4450531507947335704">"查看照片"</string>
     <string name="preferences_label" msgid="5955678162525051163">"相机设置"</string>
     <string name="wait" msgid="8600187532323801552">"请稍候..."</string>
-    <string name="no_storage" msgid="820691042667338625">"使用相机前请先插入 SD 卡。"</string>
-    <string name="not_enough_space" msgid="6655334407957844653">"SD 卡已满。"</string>
-    <string name="preparing_sd" msgid="2914969119574812666">"正在准备 SD 卡..."</string>
+    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"请先装载共享存储设备，再使用相机。"</string>
+    <string name="no_storage" product="default" msgid="820691042667338625">"使用相机前请先插入 SD 卡。"</string>
+    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"共享存储设备空间已满。"</string>
+    <string name="not_enough_space" product="default" msgid="6655334407957844653">"SD 卡已满。"</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"正在准备共享存储设备..."</string>
+    <string name="preparing_sd" product="default" msgid="2914969119574812666">"正在准备 SD 卡..."</string>
     <string name="wallpaper" msgid="9222901738515471972">"正在设置壁纸，请稍候..."</string>
     <string name="savingImage" msgid="3051745378545909260">"正在保存照片..."</string>
     <string name="runningFaceDetection" msgid="2293932204708167704">"请稍候..."</string>

@@ -28,9 +28,12 @@
     <string name="view_label" msgid="4450531507947335704">"Ver imagem"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Definições da câmara"</string>
     <string name="wait" msgid="8600187532323801552">"Aguarde..."</string>
-    <string name="no_storage" msgid="820691042667338625">"Insira um cartão SD antes de utilizar a câmara."</string>
-    <string name="not_enough_space" msgid="6655334407957844653">"O cartão SD está cheio."</string>
-    <string name="preparing_sd" msgid="2914969119574812666">"A preparar o cartão SD..."</string>
+    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Monte o armazenamento partilhado antes de utilizar a câmara."</string>
+    <string name="no_storage" product="default" msgid="820691042667338625">"Insira um cartão SD antes de utilizar a câmara."</string>
+    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"O armazenamento partilhado está cheio."</string>
+    <string name="not_enough_space" product="default" msgid="6655334407957844653">"O cartão SD está cheio."</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"A preparar armazenamento partilhado…"</string>
+    <string name="preparing_sd" product="default" msgid="2914969119574812666">"A preparar o cartão SD..."</string>
     <string name="wallpaper" msgid="9222901738515471972">"A definir a imagem de fundo, aguarde..."</string>
     <string name="savingImage" msgid="3051745378545909260">"A guardar imagem..."</string>
     <string name="runningFaceDetection" msgid="2293932204708167704">"Aguarde..."</string>

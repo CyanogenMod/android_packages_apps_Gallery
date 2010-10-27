@@ -28,9 +28,12 @@
     <string name="view_label" msgid="4450531507947335704">"Se på bilde"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Kamerainnstillinger"</string>
     <string name="wait" msgid="8600187532323801552">"Vent litt…"</string>
-    <string name="no_storage" msgid="820691042667338625">"Sett inn et minnekort før du bruker kameraet."</string>
-    <string name="not_enough_space" msgid="6655334407957844653">"Minnekortet er fullt."</string>
-    <string name="preparing_sd" msgid="2914969119574812666">"Forbereder minnekort…"</string>
+    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Sett inn enhet for delt lagring før du bruker kameraet."</string>
+    <string name="no_storage" product="default" msgid="820691042667338625">"Sett inn et minnekort før du bruker kameraet."</string>
+    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Delt lagring er full."</string>
+    <string name="not_enough_space" product="default" msgid="6655334407957844653">"Minnekortet er fullt."</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Forbereder delt lagring ..."</string>
+    <string name="preparing_sd" product="default" msgid="2914969119574812666">"Forbereder minnekort…"</string>
     <string name="wallpaper" msgid="9222901738515471972">"Setter bakgrunnsbilde, vent litt…"</string>
     <string name="savingImage" msgid="3051745378545909260">"Lagrer bilde…"</string>
     <string name="runningFaceDetection" msgid="2293932204708167704">"Vent litt…"</string>
