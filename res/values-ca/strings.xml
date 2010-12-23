@@ -28,11 +28,11 @@
     <string name="view_label" msgid="4450531507947335704">"Visualitza la imatge"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Configuració de la càmera"</string>
     <string name="wait" msgid="8600187532323801552">"Espereu-vos…"</string>
-    <!-- outdated translation 820691042667338625 -->     <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Inseriu una targeta SD abans d\'utilitzar la càmera."</string>
+    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Instal·la l\'emmagatzematge compartit abans d\'utilitzar la càmera."</string>
     <string name="no_storage" product="default" msgid="820691042667338625">"Inseriu una targeta SD abans d\'utilitzar la càmera."</string>
-    <!-- outdated translation 6655334407957844653 -->     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"La targeta SD és plena."</string>
+    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"L\'emmagatzematge compartit és ple."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"La targeta SD és plena."</string>
-    <!-- outdated translation 2914969119574812666 -->     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"S\'està preparant la targeta SD…"</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"S\'està preparant l\'emmagatzematge compartit..."</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"S\'està preparant la targeta SD…"</string>
     <string name="wallpaper" msgid="9222901738515471972">"S\'està definint l\'empaperat, espereu-vos…"</string>
     <string name="savingImage" msgid="3051745378545909260">"S\'està desant la imatge..."</string>

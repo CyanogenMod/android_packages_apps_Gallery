@@ -28,11 +28,11 @@
     <string name="view_label" msgid="4450531507947335704">"Vizualizaţi fotografia"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Setările camerei foto"</string>
     <string name="wait" msgid="8600187532323801552">"Aşteptaţi…"</string>
-    <!-- outdated translation 820691042667338625 -->     <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Inseraţi un card SD înainte de a utiliza camera foto."</string>
+    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Înainte de a utiliza camera foto, montaţi spaţiul de stocare distribuit."</string>
     <string name="no_storage" product="default" msgid="820691042667338625">"Inseraţi un card SD înainte de a utiliza camera foto."</string>
-    <!-- outdated translation 6655334407957844653 -->     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Cardul SD este plin."</string>
+    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Spaţiul de stocare distribuit s-a terminat."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"Cardul SD este plin."</string>
-    <!-- outdated translation 2914969119574812666 -->     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Se pregăteşte cardul SD..."</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Se pregăteşte stocarea distribuită..."</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"Se pregăteşte cardul SD..."</string>
     <string name="wallpaper" msgid="9222901738515471972">"Se setează imaginea de fundal. Aşteptaţi..."</string>
     <string name="savingImage" msgid="3051745378545909260">"Se salvează fotografia..."</string>

@@ -28,11 +28,11 @@
     <string name="view_label" msgid="4450531507947335704">"ดูภาพ"</string>
     <string name="preferences_label" msgid="5955678162525051163">"การตั้งค่ากล้องถ่ายรูป"</string>
     <string name="wait" msgid="8600187532323801552">"โปรดรอสักครู่..."</string>
-    <!-- outdated translation 820691042667338625 -->     <string name="no_storage" product="nosdcard" msgid="852782056902429852">"โปรดใส่การ์ด SD ก่อนใช้กล้องถ่ายรูป"</string>
+    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"โปรดต่อเชื่อมที่เก็บข้อมูลที่ใช้ร่วมกันก่อนใช้กล้องถ่ายรูป"</string>
     <string name="no_storage" product="default" msgid="820691042667338625">"โปรดใส่การ์ด SD ก่อนใช้กล้องถ่ายรูป"</string>
-    <!-- outdated translation 6655334407957844653 -->     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"การ์ด SD ของคุณเต็ม"</string>
+    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"ที่เก็บข้อมูลที่ใช้ร่วมกันของคุณเต็ม"</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"การ์ด SD ของคุณเต็ม"</string>
-    <!-- outdated translation 2914969119574812666 -->     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"กำลังเตรียมการ์ด SD…"</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"กำลังเตรียมที่เก็บข้อมูลที่ใช้ร่วมกัน..."</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"กำลังเตรียมการ์ด SD…"</string>
     <string name="wallpaper" msgid="9222901738515471972">"กำลังตั้งค่าวอลเปเปอร์ โปรดรอสักครู่..."</string>
     <string name="savingImage" msgid="3051745378545909260">"กำลังบันทึกภาพ..."</string>

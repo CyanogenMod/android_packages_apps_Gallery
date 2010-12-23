@@ -28,11 +28,11 @@
     <string name="view_label" msgid="4450531507947335704">"Lihat gambar"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Setelan kamera"</string>
     <string name="wait" msgid="8600187532323801552">"Harap tunggu…"</string>
-    <!-- outdated translation 820691042667338625 -->     <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Masukkan kartu SD sebelum menggunakan kamera."</string>
+    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Pasang penyimpanan bersama sebelum menggunakan kamera."</string>
     <string name="no_storage" product="default" msgid="820691042667338625">"Masukkan kartu SD sebelum menggunakan kamera."</string>
-    <!-- outdated translation 6655334407957844653 -->     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Kartu SD Anda penuh."</string>
+    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Penyimpanan bersama sudah penuh."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"Kartu SD Anda penuh."</string>
-    <!-- outdated translation 2914969119574812666 -->     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Menyiapkan kartu SD…"</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Menyiapkan penyimpanan bersama..."</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"Menyiapkan kartu SD…"</string>
     <string name="wallpaper" msgid="9222901738515471972">"Menyetel wallpaper, harap tunggu..."</string>
     <string name="savingImage" msgid="3051745378545909260">"Menyimpan gambar…"</string>

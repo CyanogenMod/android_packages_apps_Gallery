@@ -28,11 +28,11 @@
     <string name="view_label" msgid="4450531507947335704">"Näytä kuva"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Kameran asetukset"</string>
     <string name="wait" msgid="8600187532323801552">"Odota…"</string>
-    <!-- outdated translation 820691042667338625 -->     <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Aseta SD-kortti ennen kameran käyttämistä."</string>
+    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Ota jaettu tallennustila käyttöön ennen kameran käyttöä."</string>
     <string name="no_storage" product="default" msgid="820691042667338625">"Aseta SD-kortti ennen kameran käyttämistä."</string>
-    <!-- outdated translation 6655334407957844653 -->     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"SD-kortti on täynnä."</string>
+    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Jaettu tallennustilasi on täynnä."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"SD-kortti on täynnä."</string>
-    <!-- outdated translation 2914969119574812666 -->     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Valmistellaan SD-korttia…"</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Valmistellaan jaettua tallennustilaa..."</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"Valmistellaan SD-korttia…"</string>
     <string name="wallpaper" msgid="9222901738515471972">"Asetetaan taustakuvaa, odota…"</string>
     <string name="savingImage" msgid="3051745378545909260">"Tallennetaan kuvaa…"</string>

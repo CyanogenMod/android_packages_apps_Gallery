@@ -28,11 +28,11 @@
     <string name="view_label" msgid="4450531507947335704">"مشاهده تصویر"</string>
     <string name="preferences_label" msgid="5955678162525051163">"تنظیمات دوربین"</string>
     <string name="wait" msgid="8600187532323801552">"لطفاً منتظر بمانید…"</string>
-    <!-- outdated translation 820691042667338625 -->     <string name="no_storage" product="nosdcard" msgid="852782056902429852">"لطفاً قبل از استفاده از دوربین، یک کارت SD وارد کنید."</string>
+    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"قبل از استفاده از دوربین لطفاً حافظه مشترک را وصل کنید."</string>
     <string name="no_storage" product="default" msgid="820691042667338625">"لطفاً قبل از استفاده از دوربین، یک کارت SD وارد کنید."</string>
-    <!-- outdated translation 6655334407957844653 -->     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"کارت SD شما پر است."</string>
+    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"حافظه مشترک شما پر است."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"کارت SD شما پر است."</string>
-    <!-- outdated translation 2914969119574812666 -->     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"در حال آماده سازی کارت SD..."</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"آماده سازی حافظه مشترک..."</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"در حال آماده سازی کارت SD..."</string>
     <string name="wallpaper" msgid="9222901738515471972">"تنظیم تصویر زمینه، لطفاً منتظر بمانید..."</string>
     <string name="savingImage" msgid="3051745378545909260">"در حال ذخیره عکس..."</string>

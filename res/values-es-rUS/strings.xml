@@ -24,7 +24,7 @@
     <string name="gallery_camera_bucket_name" msgid="2924618424339240831">"Imágenes de la cámara"</string>
     <string name="gallery_camera_videos_bucket_name" msgid="3369151581398551623">"Videos de la cámara"</string>
     <string name="gallery_camera_media_bucket_name" msgid="5560926838411387511">"Medios de cámara"</string>
-    <string name="crop_label" msgid="521114301871349328">"Cortar la imagen"</string>
+    <string name="crop_label" msgid="521114301871349328">"Recortar imagen"</string>
     <string name="view_label" msgid="4450531507947335704">"Ver imagen"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Configuración de cámara"</string>
     <string name="wait" msgid="8600187532323801552">"Espera, por favor..."</string>
@@ -59,7 +59,7 @@
     <string name="camera_play" msgid="8248000517869959980">"Reproducir"</string>
     <string name="camera_attach" msgid="4048659554893435232">"Adjuntar"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"Cancelar"</string>
-    <string name="camera_crop" msgid="5584000454518174632">"Cortar"</string>
+    <string name="camera_crop" msgid="5584000454518174632">"Recortar"</string>
     <string name="no_way_to_share_image" msgid="5011985309980187927">"No hay aplicación disponible para compartir la imagen."</string>
     <string name="no_way_to_share_video" msgid="3684571102267072206">"No hay aplicación disponible para compartir el video."</string>
     <string name="no_way_to_share" msgid="863323712875014752">"No hay aplicación disponible para compartir el/los archivo/s de medios."</string>

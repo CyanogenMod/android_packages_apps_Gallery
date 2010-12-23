@@ -28,11 +28,11 @@
     <string name="view_label" msgid="4450531507947335704">"Xem ảnh"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Cài đặt máy ảnh"</string>
     <string name="wait" msgid="8600187532323801552">"Vui lòng đợi..."</string>
-    <!-- outdated translation 820691042667338625 -->     <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Vui lòng lắp thẻ SD trước khi sử dụng máy ảnh."</string>
+    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Vui lòng kết nối bộ nhớ dùng chung trước khi sử dụng máy ảnh."</string>
     <string name="no_storage" product="default" msgid="820691042667338625">"Vui lòng lắp thẻ SD trước khi sử dụng máy ảnh."</string>
-    <!-- outdated translation 6655334407957844653 -->     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Thẻ SD của bạn đã đầy."</string>
+    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Bộ nhớ dùng chung của bạn đầy."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"Thẻ SD của bạn đã đầy."</string>
-    <!-- outdated translation 2914969119574812666 -->     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Đang chuẩn bị thẻ SD…"</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Đang chuẩn bị bộ nhớ dùng chung…"</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"Đang chuẩn bị thẻ SD…"</string>
     <string name="wallpaper" msgid="9222901738515471972">"Đang đặt hình nền, vui lòng đợi…"</string>
     <string name="savingImage" msgid="3051745378545909260">"Đang lưu ảnh…"</string>
