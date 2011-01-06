@@ -394,6 +394,15 @@ public class MenuHelper {
                     .findViewById(R.id.details_file_size_value))
                     .setText(lengthString);
 
+                d.findViewById(R.id.details_frame_rate_row)
+                            .setVisibility(View.GONE);
+                d.findViewById(R.id.details_bit_rate_row)
+                            .setVisibility(View.GONE);
+                d.findViewById(R.id.details_format_row)
+                            .setVisibility(View.GONE);
+                d.findViewById(R.id.details_codec_row)
+                            .setVisibility(View.GONE);
+
                 int dimensionWidth = 0;
                 int dimensionHeight = 0;
                 if (ImageManager.isImage(image)) {
@@ -402,116 +411,6 @@ public class MenuHelper {
                     dimensionHeight = image.getHeight();
                     d.findViewById(R.id.details_duration_row)
                             .setVisibility(View.GONE);
-                    d.findViewById(R.id.details_frame_rate_row)
-                            .setVisibility(View.GONE);
-                    d.findViewById(R.id.details_bit_rate_row)
-                            .setVisibility(View.GONE);
-                    d.findViewById(R.id.details_format_row)
-                            .setVisibility(View.GONE);
-                    d.findViewById(R.id.details_codec_row)
-                            .setVisibility(View.GONE);
-                } else {
-                    MediaMetadataRetriever retriever
-                            = new MediaMetadataRetriever();
-                    try {
-                        retriever.setMode(MediaMetadataRetriever
-                                .MODE_GET_METADATA_ONLY);
-                        retriever.setDataSource(image.getDataPath());
-                        try {
-                            dimensionWidth = Integer.parseInt(
-                                    retriever.extractMetadata(
-                                    MediaMetadataRetriever
-                                    .METADATA_KEY_VIDEO_WIDTH));
-                            dimensionHeight = Integer.parseInt(
-                                    retriever.extractMetadata(
-                                    MediaMetadataRetriever
-                                    .METADATA_KEY_VIDEO_HEIGHT));
-                        } catch (NumberFormatException e) {
-                            dimensionWidth = 0;
-                            dimensionHeight = 0;
-                        }
-
-                        try {
-                            int durationMs = Integer.parseInt(
-                                    retriever.extractMetadata(
-                                    MediaMetadataRetriever
-                                    .METADATA_KEY_DURATION));
-                            String durationValue = formatDuration(
-                                    activity, durationMs);
-                            ((TextView) d.findViewById(
-                                R.id.details_duration_value))
-                                .setText(durationValue);
-                        } catch (NumberFormatException e) {
-                            d.findViewById(
-                                    R.id.details_frame_rate_row)
-                                    .setVisibility(View.GONE);
-                        }
-
-                        try {
-                            String frameRate = String.format(
-                                    activity.getString(R.string.details_fps),
-                                    Integer.parseInt(
-                                            retriever.extractMetadata(
-                                            MediaMetadataRetriever
-                                            .METADATA_KEY_FRAME_RATE)));
-                            ((TextView) d.findViewById(
-                                R.id.details_frame_rate_value))
-                                .setText(frameRate);
-                        } catch (NumberFormatException e) {
-                            d.findViewById(
-                                    R.id.details_frame_rate_row)
-                                    .setVisibility(View.GONE);
-                        }
-
-                        try {
-                            long bitRate = Long.parseLong(
-                                    retriever.extractMetadata(
-                                    MediaMetadataRetriever
-                                    .METADATA_KEY_BIT_RATE));
-                            String bps;
-                            if (bitRate < 1000000) {
-                                bps = String.format(
-                                        activity.getString(
-                                        R.string.details_kbps),
-                                        bitRate / 1000);
-                            } else {
-                                bps = String.format(
-                                        activity.getString(
-                                        R.string.details_mbps),
-                                        (bitRate) / 1000000.0);
-                            }
-                            ((TextView) d.findViewById(
-                                    R.id.details_bit_rate_value))
-                                    .setText(bps);
-                        } catch (NumberFormatException e) {
-                            d.findViewById(R.id.details_bit_rate_row)
-                                    .setVisibility(View.GONE);
-                        }
-
-                        String format = retriever.extractMetadata(
-                                MediaMetadataRetriever
-                                .METADATA_KEY_VIDEO_FORMAT);
-                        ((TextView) d.findViewById(
-                                R.id.details_format_value))
-                                .setText(format);
-
-                        String codec = retriever.extractMetadata(
-                                MediaMetadataRetriever.METADATA_KEY_CODEC);
-                        if (codec != null) {
-                            setDetailsValue(d, codec, R.id.details_codec_value);
-                        } else {
-                            hideDetailsRow(d, R.id.details_codec_row);
-                        }
-
-                    } catch (RuntimeException ex) {
-                        // Assume this is a corrupt video file.
-                    } finally {
-                        try {
-                            retriever.release();
-                        } catch (RuntimeException ex) {
-                            // Ignore failures while cleaning up.
-                        }
-                    }
                 }
 
                 String value = null;
