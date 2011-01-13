@@ -57,7 +57,7 @@
     <string name="camera_share" msgid="8207701858325694182">"分享"</string>
     <string name="camera_set" msgid="3422192914806971182">"设置为"</string>
     <string name="camera_play" msgid="8248000517869959980">"播放"</string>
-    <string name="camera_attach" msgid="4048659554893435232">"附加"</string>
+    <string name="camera_attach" msgid="4048659554893435232">"附件"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"取消"</string>
     <string name="camera_crop" msgid="5584000454518174632">"修剪"</string>
     <string name="no_way_to_share_image" msgid="5011985309980187927">"没有可用于分享照片的应用程序。"</string>
