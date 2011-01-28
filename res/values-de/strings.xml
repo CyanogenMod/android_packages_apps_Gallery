@@ -139,7 +139,7 @@
     <string name="pick_videos_gallery_title" msgid="326727095201227333">"Video auswählen"</string>
     <string name="sendImage" msgid="7279510542799399570">"Bild senden via"</string>
     <string name="setImage" msgid="7246975856983303047">"Bild festlegen als"</string>
-    <string name="sendVideo" msgid="3598567735831863073">"Video weiterleiten via"</string>
+    <string name="sendVideo" msgid="3598567735831863073">"Video weiterleiten über"</string>
     <string name="send_media_files" msgid="8201083279723850611">"Mediendateien weitergeben über"</string>
     <string name="movieviewlabel" msgid="7363495772706775465">"Filme"</string>
     <string name="loading_video" msgid="4013492720121891585">"Video wird geladen..."</string>
