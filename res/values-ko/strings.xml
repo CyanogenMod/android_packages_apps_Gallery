@@ -145,8 +145,8 @@
     <string name="loading_video" msgid="4013492720121891585">"동영상 로드 중..."</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"동영상 다시 시작"</string>
     <string name="resume_playing_message" msgid="7293000708492271389">"<xliff:g id="DURATION">%s</xliff:g>에서 재생을 다시 시작하시겠습니까?"</string>
-    <string name="resume_playing_resume" msgid="3847915469173852416">"재생 다시 시작"</string>
-    <string name="resume_playing_restart" msgid="5471008499835769292">"시작"</string>
+    <string name="resume_playing_resume" msgid="3847915469173852416">"이어서 보기"</string>
+    <string name="resume_playing_restart" msgid="5471008499835769292">"처음부터 보기"</string>
     <string name="gadget_title" msgid="259405922673466798">"사진 액자"</string>
     <string name="file_info_title" msgid="1628963357466012538">"파일 정보:"</string>
     <string name="video_exceed_mms_limit" msgid="3835075281230780010">"녹화한 동영상이 너무 커서 MMS를 통해 전송할 수 없습니다. 클립의 길이를 더 짧게 녹화하세요."</string>
