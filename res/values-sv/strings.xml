@@ -132,7 +132,7 @@
     <string name="details_ok" msgid="6848594369924424312">"OK"</string>
     <string name="context_menu_header" msgid="1185348426222302182">"Bildalternativ"</string>
     <string name="video_context_menu_header" msgid="7318971116949475029">"Videoalternativ"</string>
-    <string name="multiface_crop_help" msgid="3127018992717032779">"Peka på ett ansikte när du vill börja."</string>
+    <string name="multiface_crop_help" msgid="3127018992717032779">"Knacka lätt på ett ansikte när du vill börja."</string>
     <string name="photos_gallery_title" msgid="6914406246471015448">"Galleri"</string>
     <string name="pick_photos_gallery_title" msgid="12912682424915943">"Välj bild"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"Galleri"</string>
