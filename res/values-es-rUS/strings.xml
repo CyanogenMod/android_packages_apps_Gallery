@@ -132,7 +132,7 @@
     <string name="details_ok" msgid="6848594369924424312">"Aceptar"</string>
     <string name="context_menu_header" msgid="1185348426222302182">"Opciones de imagen"</string>
     <string name="video_context_menu_header" msgid="7318971116949475029">"Opciones de video"</string>
-    <string name="multiface_crop_help" msgid="3127018992717032779">"Golpea una cara para comenzar."</string>
+    <string name="multiface_crop_help" msgid="3127018992717032779">"Toca una cara para empezar."</string>
     <string name="photos_gallery_title" msgid="6914406246471015448">"Galería"</string>
     <string name="pick_photos_gallery_title" msgid="12912682424915943">"Seleccionar imagen"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"Galería"</string>

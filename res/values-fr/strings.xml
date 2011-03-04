@@ -28,7 +28,7 @@
     <string name="view_label" msgid="4450531507947335704">"Afficher l\'image"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Paramètres de l\'appareil photo"</string>
     <string name="wait" msgid="8600187532323801552">"Veuillez patienter..."</string>
-    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Veuillez monter un stockage partagé avant d\'utiliser l\'appareil photo."</string>
+    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Veuillez installer un stockage partagé avant d\'utiliser l\'appareil photo."</string>
     <string name="no_storage" product="default" msgid="820691042667338625">"Veuillez insérer une carte SD avant d\'utiliser l\'appareil photo."</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Votre stockage partagé est plein."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"Votre carte SD est pleine."</string>
