@@ -28,11 +28,11 @@
     <string name="view_label" msgid="4450531507947335704">"Afficher l\'image"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Paramètres de l\'appareil photo"</string>
     <string name="wait" msgid="8600187532323801552">"Veuillez patienter..."</string>
-    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Veuillez installer un stockage partagé avant d\'utiliser l\'appareil photo."</string>
+    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Veuillez installer une mémoire de stockage partagée avant d\'utiliser l\'appareil photo."</string>
     <string name="no_storage" product="default" msgid="820691042667338625">"Veuillez insérer une carte SD avant d\'utiliser l\'appareil photo."</string>
-    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Votre stockage partagé est plein."</string>
+    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Votre mémoire de stockage partagée est pleine."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"Votre carte SD est pleine."</string>
-    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Préparation du stockage partagé…"</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Préparation de la mémoire de stockage partagée…"</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"Préparation de la carte SD..."</string>
     <string name="wallpaper" msgid="9222901738515471972">"Configuration du fond d\'écran en cours. Veuillez patienter..."</string>
     <string name="savingImage" msgid="3051745378545909260">"Enregistrement de l\'image"</string>
