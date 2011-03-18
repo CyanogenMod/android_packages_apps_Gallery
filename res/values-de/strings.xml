@@ -60,8 +60,8 @@
     <string name="camera_attach" msgid="4048659554893435232">"Anhängen"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"Abbrechen"</string>
     <string name="camera_crop" msgid="5584000454518174632">"Zuschneiden"</string>
-    <string name="no_way_to_share_image" msgid="5011985309980187927">"Keine Anwendung zur Freigabe des Bilds verfügbar"</string>
-    <string name="no_way_to_share_video" msgid="3684571102267072206">"Keine Anwendung zur Freigabe des Videos verfügbar"</string>
+    <string name="no_way_to_share_image" msgid="5011985309980187927">"Keine Anwendung zum Weitergeben des Bildes verfügbar"</string>
+    <string name="no_way_to_share_video" msgid="3684571102267072206">"Keine Anwendung zum Weitergeben des Videos verfügbar"</string>
     <string name="no_way_to_share" msgid="863323712875014752">"Keine Anwendung zur Freigabe der Mediendatei(en) verfügbar"</string>
     <string name="video_play" msgid="5287787282508002895">"Wiedergeben"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"Bilder"</string>
@@ -132,14 +132,14 @@
     <string name="details_ok" msgid="6848594369924424312">"OK"</string>
     <string name="context_menu_header" msgid="1185348426222302182">"Bildoptionen"</string>
     <string name="video_context_menu_header" msgid="7318971116949475029">"Videooptionen"</string>
-    <string name="multiface_crop_help" msgid="3127018992717032779">"Tippen Sie zum Beginnen auf ein Gesicht."</string>
+    <string name="multiface_crop_help" msgid="3127018992717032779">"Zum Beginnen auf ein Gesicht tippen"</string>
     <string name="photos_gallery_title" msgid="6914406246471015448">"Galerie"</string>
     <string name="pick_photos_gallery_title" msgid="12912682424915943">"Bild auswählen"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"Galerie"</string>
     <string name="pick_videos_gallery_title" msgid="326727095201227333">"Video auswählen"</string>
-    <string name="sendImage" msgid="7279510542799399570">"Bild senden via"</string>
+    <string name="sendImage" msgid="7279510542799399570">"Bild weitergeben über"</string>
     <string name="setImage" msgid="7246975856983303047">"Bild festlegen als"</string>
-    <string name="sendVideo" msgid="3598567735831863073">"Video weiterleiten über"</string>
+    <string name="sendVideo" msgid="3598567735831863073">"Video weitergeben über"</string>
     <string name="send_media_files" msgid="8201083279723850611">"Mediendateien weitergeben über"</string>
     <string name="movieviewlabel" msgid="7363495772706775465">"Filme"</string>
     <string name="loading_video" msgid="4013492720121891585">"Video wird geladen..."</string>

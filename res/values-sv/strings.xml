@@ -60,9 +60,9 @@
     <string name="camera_attach" msgid="4048659554893435232">"Bifoga"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"Avbryt"</string>
     <string name="camera_crop" msgid="5584000454518174632">"Beskär"</string>
-    <string name="no_way_to_share_image" msgid="5011985309980187927">"Det finns inget program som kan dela bilden."</string>
-    <string name="no_way_to_share_video" msgid="3684571102267072206">"Det finns inget program som kan dela videoklippet."</string>
-    <string name="no_way_to_share" msgid="863323712875014752">"Det finns inget program som kan dela mediefilerna."</string>
+    <string name="no_way_to_share_image" msgid="5011985309980187927">"Det finns ingen app som kan dela bilden."</string>
+    <string name="no_way_to_share_video" msgid="3684571102267072206">"Det finns inga appar som kan dela videoklippet."</string>
+    <string name="no_way_to_share" msgid="863323712875014752">"Det finns inga tillgängliga appar som kan dela mediefilerna."</string>
     <string name="video_play" msgid="5287787282508002895">"Spela"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"Bilder"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"Bakgrund"</string>
@@ -132,7 +132,7 @@
     <string name="details_ok" msgid="6848594369924424312">"OK"</string>
     <string name="context_menu_header" msgid="1185348426222302182">"Bildalternativ"</string>
     <string name="video_context_menu_header" msgid="7318971116949475029">"Videoalternativ"</string>
-    <string name="multiface_crop_help" msgid="3127018992717032779">"Peka på ett ansikte när du vill börja."</string>
+    <string name="multiface_crop_help" msgid="3127018992717032779">"Knacka lätt på ett ansikte när du vill börja."</string>
     <string name="photos_gallery_title" msgid="6914406246471015448">"Galleri"</string>
     <string name="pick_photos_gallery_title" msgid="12912682424915943">"Välj bild"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"Galleri"</string>
