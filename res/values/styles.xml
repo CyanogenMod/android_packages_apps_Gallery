@@ -32,6 +32,10 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:drawablePadding">3dip</item>
     </style>
-    <style name="Theme.DeleteImageDialog" parent="android:style/Theme.Dialog.Alert">
+    
+    <color name="transparent">#00000000</color>
+    <style name="Theme.DeleteImageDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
     </style>
 </resources>
