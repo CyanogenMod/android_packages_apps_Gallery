@@ -20,8 +20,7 @@
     <string name="all_videos" msgid="3380966619230896013">"Semua video"</string>
     <string name="camera_label" msgid="6346560772074764302">"Kamera"</string>
     <string name="gallery_picker_label" msgid="3080425245006492787">"Galeri"</string>
-    <!-- no translation found for gallery_label (7119609703856708011) -->
-    <skip />
+    <string name="gallery_label" msgid="7119609703856708011">"Galeri"</string>
     <string name="gallery_camera_bucket_name" msgid="2924618424339240831">"Gambar kamera"</string>
     <string name="gallery_camera_videos_bucket_name" msgid="3369151581398551623">"Kamera video"</string>
     <string name="gallery_camera_media_bucket_name" msgid="5560926838411387511">"Media kamera"</string>
@@ -29,11 +28,11 @@
     <string name="view_label" msgid="4450531507947335704">"Lihat gambar"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Tetapan kamera"</string>
     <string name="wait" msgid="8600187532323801552">"Sila tunggu..."</string>
-    <!-- outdated translation 820691042667338625 -->     <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Sila masukkan kad SD sebelum menggunakan kamera."</string>
+    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Sila lekapkan storan kongsi sebelum menggunakan kamera."</string>
     <string name="no_storage" product="default" msgid="820691042667338625">"Sila masukkan kad SD sebelum menggunakan kamera."</string>
-    <!-- outdated translation 6655334407957844653 -->     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Kad SD anda penuh."</string>
+    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Storan kongsi anda penuh."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"Kad SD anda penuh."</string>
-    <!-- outdated translation 2914969119574812666 -->     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Menyediakan kad SD..."</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Menyediakan storan kongsi..."</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"Menyediakan kad SD..."</string>
     <string name="wallpaper" msgid="9222901738515471972">"Menetapkan kertas dinding, sila tunggu..."</string>
     <string name="savingImage" msgid="3051745378545909260">"Menyimpan gambar..."</string>
@@ -61,12 +60,9 @@
     <string name="camera_attach" msgid="4048659554893435232">"Lampirkan"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"Batal"</string>
     <string name="camera_crop" msgid="5584000454518174632">"Pangkas"</string>
-    <!-- no translation found for no_way_to_share_image (5011985309980187927) -->
-    <skip />
-    <!-- no translation found for no_way_to_share_video (3684571102267072206) -->
-    <skip />
-    <!-- no translation found for no_way_to_share (863323712875014752) -->
-    <skip />
+    <string name="no_way_to_share_image" msgid="5011985309980187927">"Tiada aplikasi tersedia untuk berkongsi gambar itu."</string>
+    <string name="no_way_to_share_video" msgid="3684571102267072206">"Tiada aplikasi tersedia untuk berkongsi video itu."</string>
+    <string name="no_way_to_share" msgid="863323712875014752">"Tiada aplikasi tersedia untuk berkongsi fail media."</string>
     <string name="video_play" msgid="5287787282508002895">"Main"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"Gambar"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"Kertas dinding"</string>
@@ -127,18 +123,12 @@
     <string name="details_bit_rate" msgid="5632311789455402186">"Kadar bit:"</string>
     <string name="details_codec" msgid="5580300450432398126">"Codec:"</string>
     <string name="details_format" msgid="3700860266600796363">"Format:"</string>
-    <!-- no translation found for details_dimension_x (4923037334136168978) -->
-    <skip />
-    <!-- no translation found for details_ms (7574063760642857397) -->
-    <skip />
-    <!-- no translation found for details_hms (772340067838331166) -->
-    <skip />
-    <!-- no translation found for details_fps (5450871169477340537) -->
-    <skip />
-    <!-- no translation found for details_kbps (1515369011744784592) -->
-    <skip />
-    <!-- no translation found for details_mbps (3291428849607323284) -->
-    <skip />
+    <string name="details_dimension_x" msgid="4923037334136168978">"<xliff:g id="WIDTH">%1$d</xliff:g> x <xliff:g id="HEIGHT">%2$d</xliff:g>"</string>
+    <string name="details_ms" msgid="7574063760642857397">"<xliff:g id="MINUTES">%1$02d</xliff:g>:<xliff:g id="SECONDS">%2$02d</xliff:g>"</string>
+    <string name="details_hms" msgid="772340067838331166">"<xliff:g id="HOURS">%1$d</xliff:g>:<xliff:g id="MINUTES">%2$02d</xliff:g>:<xliff:g id="SECONDS">%3$02d</xliff:g>"</string>
+    <string name="details_fps" msgid="5450871169477340537">"<xliff:g id="FRAMES">%1$d</xliff:g> fps"</string>
+    <string name="details_kbps" msgid="1515369011744784592">"<xliff:g id="SPEED">%1$d</xliff:g> Kbps"</string>
+    <string name="details_mbps" msgid="3291428849607323284">"<xliff:g id="SPEED">%1$g</xliff:g> Mbps"</string>
     <string name="details_ok" msgid="6848594369924424312">"OK"</string>
     <string name="context_menu_header" msgid="1185348426222302182">"Pilihan gambar"</string>
     <string name="video_context_menu_header" msgid="7318971116949475029">"Pilihan video"</string>
@@ -150,13 +140,11 @@
     <string name="sendImage" msgid="7279510542799399570">"Berkongsi gambar melalui"</string>
     <string name="setImage" msgid="7246975856983303047">"Tetapkan gambar sebagai"</string>
     <string name="sendVideo" msgid="3598567735831863073">"Berkongsi video melalui"</string>
-    <!-- no translation found for send_media_files (8201083279723850611) -->
-    <skip />
+    <string name="send_media_files" msgid="8201083279723850611">"Kongsi fail media melalui"</string>
     <string name="movieviewlabel" msgid="7363495772706775465">"Wayang"</string>
     <string name="loading_video" msgid="4013492720121891585">"Memuatkan video..."</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"Sambung semula video"</string>
-    <!-- no translation found for resume_playing_message (7293000708492271389) -->
-    <skip />
+    <string name="resume_playing_message" msgid="7293000708492271389">"Sambung semula proses main dari <xliff:g id="DURATION">%s</xliff:g> ?"</string>
     <string name="resume_playing_resume" msgid="3847915469173852416">"Sambung semula proses main"</string>
     <string name="resume_playing_restart" msgid="5471008499835769292">"Mainkan semula dari mula"</string>
     <string name="gadget_title" msgid="259405922673466798">"Bingkai gambar"</string>
@@ -164,7 +152,6 @@
     <string name="video_exceed_mms_limit" msgid="3835075281230780010">"Video yang anda rakamkan terlalu besar untuk dihantar melalui MMS. Cuba rakamkan klip yang lebih pendek."</string>
     <string name="multiselect_share" msgid="5261644537749253581">"Kongsi"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"Padam"</string>
-    <!-- no translation found for multiselect_cancel (5969428692864002165) -->
-    <skip />
+    <string name="multiselect_cancel" msgid="5969428692864002165">"Batal"</string>
     <string name="delete_images_message" msgid="4504926868037899430">"Memadamkan imej, sila tunggu..."</string>
 </resources>

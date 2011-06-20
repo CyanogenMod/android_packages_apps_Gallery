@@ -60,9 +60,9 @@
     <string name="camera_attach" msgid="4048659554893435232">"Vedhæft"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"Annuller"</string>
     <string name="camera_crop" msgid="5584000454518174632">"Beskær"</string>
-    <string name="no_way_to_share_image" msgid="5011985309980187927">"Der er intet program tilgængeligt til deling af billedet."</string>
-    <string name="no_way_to_share_video" msgid="3684571102267072206">"Der er intet program tilgængeligt til deling af videoen."</string>
-    <string name="no_way_to_share" msgid="863323712875014752">"Der er intet program tilgængeligt til deling af mediefilen/-filerne."</string>
+    <string name="no_way_to_share_image" msgid="5011985309980187927">"Der er ingen applikation tilgængelig til deling af billedet."</string>
+    <string name="no_way_to_share_video" msgid="3684571102267072206">"Der er ingen applikation tilgængelig til deling af videoen."</string>
+    <string name="no_way_to_share" msgid="863323712875014752">"Der er ingen applikation tilgængelig til deling af mediefilen/-filerne."</string>
     <string name="video_play" msgid="5287787282508002895">"Afspil"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"Billeder"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"Tapet"</string>

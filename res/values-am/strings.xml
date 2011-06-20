@@ -35,9 +35,9 @@
     <!-- no translation found for wait (8600187532323801552) -->
     <skip />
     <string name="no_storage" product="nosdcard" msgid="852782056902429852">"እባክዎ ካሜራውን ከመጠቀምዎ በፊት የተጋራውን ማከማቻ ይስቀሉ።"</string>
-    <!-- outdated translation 852782056902429852 -->     <string name="no_storage" product="default" msgid="820691042667338625">"እባክዎ ካሜራውን ከመጠቀምዎ በፊት የተጋራውን ማከማቻ ይስቀሉ።"</string>
+    <!-- outdated translation 5876548364041592119 -->     <string name="no_storage" product="default" msgid="820691042667338625">"እባክዎካሜራ ከመጠቀምዎ በፊት USB ይሰኩ።"</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"የእርስዎ የተጋራ ማከማቻ ሙሉ ነው።"</string>
-    <!-- outdated translation 7966388882416357252 -->     <string name="not_enough_space" product="default" msgid="6655334407957844653">"የእርስዎ የተጋራ ማከማቻ ሙሉ ነው።"</string>
+    <!-- outdated translation 6452370395538050134 -->     <string name="not_enough_space" product="default" msgid="6655334407957844653">"የUSB  ማከማቻዎ ሙሉ ነው።"</string>
     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"የተጋራ ማከማቻ በማዘጋጀት ላይ....."</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"የ SD  ካርድ በማዘጋጀት ላይ..."</string>
     <!-- no translation found for wallpaper (9222901738515471972) -->
@@ -60,8 +60,7 @@
     <string name="multiselect" msgid="4761682939945434146">"ብዙ መምረጫ"</string>
     <string name="capture_picture" msgid="4114265595549284643">"ፎቶ አንሳ"</string>
     <string name="capture_video" msgid="4047046282358697155">"ቪዲዮ አንሳ"</string>
-    <!-- no translation found for crop_save_text (8140440041190264400) -->
-    <skip />
+    <!-- outdated translation 8821167985419282305 -->     <string name="crop_save_text" msgid="8140440041190264400">"እሺ"</string>
     <!-- no translation found for crop_discard_text (5303657888280340603) -->
     <skip />
     <!-- no translation found for confirm_delete_title (263478358046514887) -->
