@@ -139,7 +139,7 @@
     <string name="pick_videos_gallery_title" msgid="326727095201227333">"ቪዲዮ ምረጥ"</string>
     <string name="sendImage" msgid="7279510542799399570">"ፎቶ በበኩል አጋራ"</string>
     <string name="setImage" msgid="7246975856983303047">"ፎቶ እንደ አዘጋጅ"</string>
-    <string name="sendVideo" msgid="3598567735831863073">"ቪዲዮ በበኩል አጋራ"</string>
+    <string name="sendVideo" msgid="3598567735831863073">"ቪዲዮ በኩል አጋራ"</string>
     <string name="send_media_files" msgid="8201083279723850611">"የማህደር መረጃ ፋይሎችን በ በኩል"</string>
     <string name="movieviewlabel" msgid="7363495772706775465">"ፊልሞች"</string>
     <string name="loading_video" msgid="4013492720121891585">"ቪዲዮ በማስገባት ላይ"</string>
