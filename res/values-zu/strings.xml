@@ -101,7 +101,7 @@
   </string-array>
     <string name="pref_gallery_slideshow_repeat_title" msgid="6512135022461429738">"Phinda umbukiso weslaydi"</string>
     <string name="pref_gallery_slideshow_repeat_summary" msgid="8289230397431855268">"Dlala umbukiso weslaydi ngaphezu kwesikhathi esisodwa"</string>
-    <string name="pref_gallery_slideshow_shuffle_title" msgid="3677508579783015598">"Xuba amaslaydi"</string>
+    <string name="pref_gallery_slideshow_shuffle_title" msgid="3677508579783015598">"Shova amaslaydi"</string>
     <string name="pref_gallery_slideshow_shuffle_summary" msgid="8566948749149325715">"Bonisa izithombe ngokuma okungahleliwe"</string>
     <string name="camerasettings" msgid="2433519618178453928">"Izilungiselelo"</string>
     <string name="image_gallery_NoImageView_text" msgid="409595259802877447">"Ayikho imidiya etholakele."</string>
@@ -110,7 +110,7 @@
     <string name="no_location_image" msgid="6929172123058811834">"Akukho ulwazi lweNdawo okuqukethwe kulo mfanekiso."</string>
     <string name="details_panel_title" msgid="4753347516759338122">"Imininingwane"</string>
     <string name="details_file_size" msgid="2468878774843246797">"Usayizi wefayela:"</string>
-    <string name="details_image_resolution" msgid="8773315928100529437">"Isixazululo:"</string>
+    <string name="details_image_resolution" msgid="8773315928100529437">"Ukulungiswa:"</string>
     <string name="details_image_make" msgid="2888477930210903540">"Umkhiqizi:"</string>
     <string name="details_image_model" msgid="3608007849933924336">"Uhlobo:"</string>
     <string name="details_image_whitebalance" msgid="4412514247882436065">"Ukulingana Okumhlophe:"</string>
@@ -118,7 +118,7 @@
     <string name="details_image_longitude" msgid="5583629669864057389">"Ubude be-GPS:"</string>
     <string name="details_image_location" msgid="6460201074393148978">"Indawo:"</string>
     <string name="details_duration" msgid="1028116471387901402">"Ubude besikhathi:"</string>
-    <string name="details_date_taken" msgid="348356840586463178">"Usuku ethathwe ngalo:"</string>
+    <string name="details_date_taken" msgid="348356840586463178">"Idethi ethathwe ngalo:"</string>
     <string name="details_frame_rate" msgid="122397836963498191">"Ukukala kozimele:"</string>
     <string name="details_bit_rate" msgid="5632311789455402186">"Ukukala kwebhithi:"</string>
     <string name="details_codec" msgid="5580300450432398126">"Ikhodekhi:"</string>
