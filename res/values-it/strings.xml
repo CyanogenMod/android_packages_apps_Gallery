@@ -32,7 +32,7 @@
     <string name="no_storage" product="default" msgid="820691042667338625">"Per usare la fotocamera devi inserire una scheda SD."</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"L\'archivio condiviso è pieno."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"La scheda SD è piena."</string>
-    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Preparazione dell\'archivio condiviso in corso…"</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Preparazione dell\'archivio condiviso..."</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"Preparazione scheda SD…"</string>
     <string name="wallpaper" msgid="9222901738515471972">"Impostazione sfondo, attendi..."</string>
     <string name="savingImage" msgid="3051745378545909260">"Salvataggio foto..."</string>
