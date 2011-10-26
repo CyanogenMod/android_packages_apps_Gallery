@@ -45,7 +45,7 @@
     <string name="rotate_right" msgid="6776325835923384839">"Повернуть вправо"</string>
     <string name="slide_show" msgid="1965192737233824143">"Слайд-шоу"</string>
     <string name="multiselect" msgid="4761682939945434146">"Множественный выбор"</string>
-    <string name="capture_picture" msgid="4114265595549284643">"Сделать фотографию"</string>
+    <string name="capture_picture" msgid="4114265595549284643">"Снять фото"</string>
     <string name="capture_video" msgid="4047046282358697155">"Снять видео"</string>
     <string name="crop_save_text" msgid="8140440041190264400">"Сохранить"</string>
     <string name="crop_discard_text" msgid="5303657888280340603">"Отменить"</string>
