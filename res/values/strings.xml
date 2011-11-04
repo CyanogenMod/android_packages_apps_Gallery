@@ -55,9 +55,9 @@
     <string name="wait">Please wait\u2026</string>
 
     <!-- alert to the user to that shared storage must be available before using the camera [CHAR LIMIT=NONE] -->
-    <string name="no_storage" product="nosdcard">Please mount the shared storage before using the camera.</string>
+    <string name="no_storage" product="nosdcard">You need to mount the shared storage before using the camera.</string>
     <!-- alert to the user to that an SD card must be installed before using the camera -->
-    <string name="no_storage" product="default">Please insert an SD card before using the camera.</string>
+    <string name="no_storage" product="default">You need to insert an SD card before using the camera.</string>
 
     <!-- alert to the user to that the shared storage is too full to complete the operation [CHAR LIMIT=NONE] -->
     <string name="not_enough_space" product="nosdcard">Your shared storage is full.</string>
@@ -70,7 +70,7 @@
     <string name="preparing_sd" product="default">Preparing SD card\u2026</string>
 
     <!-- Toast/alert after saving wallpaper -->
-    <string name="wallpaper">Setting wallpaper, please wait\u2026</string>
+    <string name="wallpaper">Setting wallpaper\u2026</string>
 
     <!-- Settings stuff -->
 
@@ -119,12 +119,12 @@
     <!-- Confirmation dialog title after deleting a picture -->
     <string name="confirm_delete_title">Delete</string>
     <!-- Confirmation dialog message after deleting a picture -->
-    <string name="confirm_delete_message">The picture will be deleted.</string>
+    <string name="confirm_delete_message">Delete this picture?</string>
     <!-- Confirmation dialog message after deleting a video -->
-    <string name="confirm_delete_video_message">The video will be deleted.</string>
+    <string name="confirm_delete_video_message">Delete this video?</string>
 
     <!-- Confirmation dialog message after deleting a multiple media files -->
-    <string name="confirm_delete_multiple_message">These media files will be deleted.</string>
+    <string name="confirm_delete_multiple_message">Delete these media files?</string>
 
     <!-- button indicating that the picture just taken should be deleted -->
     <string name="camera_toss">Delete</string>
@@ -148,13 +148,13 @@
     <string name="camera_crop">Crop</string>
 
     <!-- Toast after trying to share a picture indicating that there are no applications which are capable of so doing. -->
-    <string name="no_way_to_share_image">No application available to share the picture.</string>
+    <string name="no_way_to_share_image">There\'s no app available to share the picture.</string>
 
     <!-- Toast after trying to share a video indicating that there are no applications which are capable of so doing. -->
-    <string name="no_way_to_share_video">No application available to share the video.</string>
+    <string name="no_way_to_share_video">There\'s no app available to share the video.</string>
 
     <!-- Toast after trying to share multiple media files indicating that there are no applications which are capable of so doing. -->
-    <string name="no_way_to_share">No application available to share the media file(s).</string>
+    <string name="no_way_to_share">There\'s no app available to share the media file(s).</string>
 
     <!-- Menu item for playing the video. -->
     <string name="video_play">Play</string>
@@ -173,7 +173,7 @@
     <string name="pref_gallery_size_title">Display size</string>
 
     <!-- Settings screen, title for preference for image size to be used in the im -->
-    <string name="pref_gallery_size_summary">Select the display size of pictures and videos</string>
+    <string name="pref_gallery_size_summary">Choose the display size of pictures and videos</string>
     <!-- Title of dialog that appears after selecting Picture size setting option -->
     <string name="pref_gallery_size_dialogtitle">Picture size</string>
     <!-- Options in dialog that appears after selecting Picture size setting option -->
@@ -193,7 +193,7 @@
     <!-- Settings screen, setting option name -->
     <string name="pref_gallery_sort_title">Sort order</string>
     <!-- Settings screen, setting summary text -->
-    <string name="pref_gallery_sort_summary">Select the sort order of pictures and videos</string>
+    <string name="pref_gallery_sort_summary">Choose the sort order of pictures and videos</string>
     <!-- Title of dialog that appears after selecting Picture sort setting option -->
     <string name="pref_gallery_sort_dialogtitle">Picture sort</string>
     <!-- Options in dialog that appears after selecting Picture sort setting option -->
@@ -213,7 +213,7 @@
     <!-- Settings screen, setting option name -->
     <string name="pref_gallery_slideshow_interval_title">Slideshow interval</string>
     <!-- Settings screen, setting summary text -->
-    <string name="pref_gallery_slideshow_interval_summary">Select how long each slide displays in the show</string>
+    <string name="pref_gallery_slideshow_interval_summary">Choose how long each slide displays in the show</string>
     <!-- Title of dialog that appears after selecting Slideshow interval setting option -->
     <string name="pref_gallery_slideshow_interval_dialogtitle">Slideshow interval</string>
     <!-- Options in dialog that appears after selecting Slideshow interval setting option -->
@@ -236,7 +236,7 @@
     <!-- Settings screen, setting option name -->
     <string name="pref_gallery_slideshow_transition_title">Slideshow transition</string>
     <!-- Settings screen, setting summary text -->
-    <string name="pref_gallery_slideshow_transition_summary">Select the effect used when moving from one slide to the next</string>
+    <string name="pref_gallery_slideshow_transition_summary">Choose the effect used when moving from one slide to the next</string>
     <!-- Title of dialog that appears after selecting Slideshow transition setting option -->
     <string name="pref_gallery_slideshow_transition_dialogtitle">Slideshow transition</string>
     <!-- Options in dialog that appears after selecting Slideshow transition
@@ -287,7 +287,7 @@
     <string name="pref_gallery_confirm_delete_summary">Show confirmation before deleting a picture or video</string>
 
     <!-- Message to show when there's no lat/lng information in the image -->
-    <string name="no_location_image">No Location information contained in this image.</string>
+    <string name="no_location_image">There\'s no location information stored in this image.</string>
     <!-- Title of Details dialog  -->
     <string name="details_panel_title">Details</string>
     <!-- Label in message of Details dialog  -->
@@ -301,9 +301,9 @@
     <!-- Label in message of Details dialog  -->
     <string name="details_image_whitebalance">WhiteBalance:</string>
     <!-- Label in message of Details dialog  -->
-    <string name="details_image_latitude">GPS Latitude:</string>
+    <string name="details_image_latitude">GPS latitude:</string>
     <!-- Label in message of Details dialog  -->
-    <string name="details_image_longitude">GPS Longitude:</string>
+    <string name="details_image_longitude">GPS longitude:</string>
     <!-- Label in message of Details dialog  -->
     <string name="details_image_location">Location:</string>
     <!-- Label in message of Details dialog  -->
@@ -339,19 +339,19 @@
     <!-- Text of context menu when a video is selected -->
     <string name="video_context_menu_header">Video options</string>
     <!-- Hint that appears when cropping an image with more than one face -->
-    <string name="multiface_crop_help">Tap a face to begin.</string>
+    <string name="multiface_crop_help">Touch a face to begin.</string>
 
     <!-- Activity title when in the image gallery to see pictures -->
     <string name="photos_gallery_title">Gallery</string>
 
     <!-- Activity title when in the image gallery to select a picture -->
-    <string name="pick_photos_gallery_title">Select picture</string>
+    <string name="pick_photos_gallery_title">Choose picture</string>
 
     <!-- Activity title when in the image gallery to see videos -->
     <string name="videos_gallery_title">Gallery</string>
 
     <!-- Activity title when in the image gallery to select a video -->
-    <string name="pick_videos_gallery_title">Select video</string>
+    <string name="pick_videos_gallery_title">Choose video</string>
 
     <!-- Displayed in the title of the dialog for things to do with a picture that
          is to be sent to another application: -->
@@ -378,7 +378,7 @@
     <string name="resume_playing_title">Resume video</string>
 
     <!-- Movie View Start Playing dialog title -->
-    <string name="resume_playing_message">Resume playing from <xliff:g id="duration" example="5:30">%s</xliff:g> ?</string>
+    <string name="resume_playing_message">Resume playing video from <xliff:g id="duration" example="5:30">%s</xliff:g>?</string>
 
     <!-- Movie View Start Playing button "Resume from bookmark" -->
     <string name="resume_playing_resume">Resume playing</string>
@@ -405,5 +405,5 @@
     <string name="multiselect_cancel">Cancel</string>
 
     <!-- The messsage shown on progress dialog when deleting images -->
-    <string name="delete_images_message">Deleting images, please wait\u2026</string>
+    <string name="delete_images_message">Deleting images\u2026</string>
 </resources>
