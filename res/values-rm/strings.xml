@@ -28,13 +28,13 @@
     <string name="view_label" msgid="4450531507947335704">"Mussar il maletg"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Parameters da la camera"</string>
     <string name="wait" msgid="8600187532323801552">"Spetgar..."</string>
-    <!-- outdated translation 820691042667338625 -->     <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Inseri per plaschair ina carta SD avant che utilisar la camera."</string>
-    <string name="no_storage" product="default" msgid="820691042667338625">"Inseri per plaschair ina carta SD avant che utilisar la camera."</string>
+    <!-- outdated translation 820691042667338625 -->     <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Inseri per plaschair ina carta SD avant che utilisar la camera."</string>
+    <!-- outdated translation 820691042667338625 -->     <string name="no_storage" product="default" msgid="6680362958795677723">"Inseri per plaschair ina carta SD avant che utilisar la camera."</string>
     <!-- outdated translation 6655334407957844653 -->     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Vossa carta SD è plaina."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"Vossa carta SD è plaina."</string>
     <!-- outdated translation 2914969119574812666 -->     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Preparar la carta SD..."</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"Preparar la carta SD..."</string>
-    <string name="wallpaper" msgid="9222901738515471972">"La culissa vegn configurada. Spetgai per plaschair..."</string>
+    <!-- outdated translation 9222901738515471972 -->     <string name="wallpaper" msgid="140165383777262070">"La culissa vegn configurada. Spetgai per plaschair..."</string>
     <string name="savingImage" msgid="3051745378545909260">"Memorisar il maletg..."</string>
     <string name="runningFaceDetection" msgid="2293932204708167704">"Spetgar..."</string>
     <string name="view" msgid="6277795271119411881">"Mussar"</string>
@@ -50,9 +50,9 @@
     <string name="crop_save_text" msgid="8140440041190264400">"Memorisar"</string>
     <string name="crop_discard_text" msgid="5303657888280340603">"Annullar"</string>
     <string name="confirm_delete_title" msgid="263478358046514887">"Stizzar"</string>
-    <string name="confirm_delete_message" msgid="4161389939579284604">"Il maletg vegn stizzà."</string>
-    <string name="confirm_delete_video_message" msgid="5796154324948010221">"Il video vegn stizzà."</string>
-    <string name="confirm_delete_multiple_message" msgid="5962369828035778779">"Questas datotecas vegnan stizzadas."</string>
+    <!-- outdated translation 4161389939579284604 -->     <string name="confirm_delete_message" msgid="2141726810668595858">"Il maletg vegn stizzà."</string>
+    <!-- outdated translation 5796154324948010221 -->     <string name="confirm_delete_video_message" msgid="800016540763376529">"Il video vegn stizzà."</string>
+    <!-- outdated translation 5962369828035778779 -->     <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"Questas datotecas vegnan stizzadas."</string>
     <string name="camera_toss" msgid="3781186798552460833">"Stizzar"</string>
     <string name="camera_share" msgid="8207701858325694182">"Cundivider"</string>
     <string name="camera_set" msgid="3422192914806971182">"Definir sco"</string>
@@ -60,30 +60,30 @@
     <string name="camera_attach" msgid="4048659554893435232">"Agiuntar"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"Interrumper"</string>
     <string name="camera_crop" msgid="5584000454518174632">"Retagliar"</string>
-    <string name="no_way_to_share_image" msgid="5011985309980187927">"Nagina applicaziun disponibla per cundivider il maletg"</string>
-    <string name="no_way_to_share_video" msgid="3684571102267072206">"Nagina applicaziun disponibla per cundivider il video."</string>
-    <string name="no_way_to_share" msgid="863323712875014752">"Nagina applicaziun disponibla per cundivider la(s) datoteca(s) da multimedia"</string>
+    <!-- outdated translation 5011985309980187927 -->     <string name="no_way_to_share_image" msgid="7980215622010396797">"Nagina applicaziun disponibla per cundivider il maletg"</string>
+    <!-- outdated translation 3684571102267072206 -->     <string name="no_way_to_share_video" msgid="4506167265329982928">"Nagina applicaziun disponibla per cundivider il video."</string>
+    <!-- outdated translation 863323712875014752 -->     <string name="no_way_to_share" msgid="5276805314940059662">"Nagina applicaziun disponibla per cundivider la(s) datoteca(s) da multimedia"</string>
     <string name="video_play" msgid="5287787282508002895">"Far ir"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"Maletgs"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"Culissa"</string>
     <string name="pref_gallery_category" msgid="5826488887237959433">"Parameters generals"</string>
     <string name="pref_slideshow_category" msgid="9097962086335681667">"Parameters da la preschentaziun da dias"</string>
     <string name="pref_gallery_size_title" msgid="1363406603879434418">"Grondezza da visualisaziun"</string>
-    <string name="pref_gallery_size_summary" msgid="8179967445295243638">"Tscherner la grondezza da visualisaziun da maletgs e videos"</string>
+    <!-- outdated translation 8179967445295243638 -->     <string name="pref_gallery_size_summary" msgid="7365675768755956361">"Tscherner la grondezza da visualisaziun da maletgs e videos"</string>
     <string name="pref_gallery_size_dialogtitle" msgid="757380558320647503">"Grondezza dal maletg"</string>
   <string-array name="pref_gallery_size_choices">
     <item msgid="7157691836846678936">"Grond"</item>
     <item msgid="1033164600689216410">"Pitschen"</item>
   </string-array>
     <string name="pref_gallery_sort_title" msgid="7447949250045443386">"Urden da zavrar"</string>
-    <string name="pref_gallery_sort_summary" msgid="6644398051645595214">"Tscherner l\'urden da zavrar da maletgs e videos"</string>
+    <!-- outdated translation 6644398051645595214 -->     <string name="pref_gallery_sort_summary" msgid="4406174975925645225">"Tscherner l\'urden da zavrar da maletgs e videos"</string>
     <string name="pref_gallery_sort_dialogtitle" msgid="5787417105532562739">"Urden da zavrar dals maletgs"</string>
   <string-array name="pref_gallery_sort_choices">
     <item msgid="5546009539334018063">"La pli nova l\'emprim"</item>
     <item msgid="7931283047572866748">"La pli nova sco ultima"</item>
   </string-array>
     <string name="pref_gallery_slideshow_interval_title" msgid="6534904787962619832">"Interval tranter las fotos"</string>
-    <string name="pref_gallery_slideshow_interval_summary" msgid="329876327077905033">"Tscherner la durada durant la quala mintga dia vegn mussà en la preschentaziun"</string>
+    <!-- outdated translation 329876327077905033 -->     <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"Tscherner la durada durant la quala mintga dia vegn mussà en la preschentaziun"</string>
     <string name="pref_gallery_slideshow_interval_dialogtitle" msgid="6775543119826248900">"Interval da la preschentaziun da dias"</string>
   <string-array name="pref_gallery_slideshow_interval_choices">
     <item msgid="3089037742117543119">"2 secundas"</item>
@@ -91,7 +91,7 @@
     <item msgid="5670078787463530498">"4 secundas"</item>
   </string-array>
     <string name="pref_gallery_slideshow_transition_title" msgid="3235158556228218846">"Transiziun da la preschentaziun da dias"</string>
-    <string name="pref_gallery_slideshow_transition_summary" msgid="2390320265891546846">"Tscherner l\'effect che duai vegnir utilisà per la transiziun dad in dia al proxim"</string>
+    <!-- outdated translation 2390320265891546846 -->     <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"Tscherner l\'effect che duai vegnir utilisà per la transiziun dad in dia al proxim"</string>
     <string name="pref_gallery_slideshow_transition_dialogtitle" msgid="5483406447721500371">"Transiziun da la preschentaziun da dias"</string>
   <string-array name="pref_gallery_slideshow_transition_choices">
     <item msgid="2825716730899894863">"Inserir e tschessentar (fade in &amp; out)"</item>
@@ -107,15 +107,15 @@
     <string name="image_gallery_NoImageView_text" msgid="409595259802877447">"Chattà nagina datoteca."</string>
     <string name="pref_gallery_confirm_delete_title" msgid="642429032687845907">"Confermar il stizzar"</string>
     <string name="pref_gallery_confirm_delete_summary" msgid="5253456492765525245">"Mussar ina dumonda da conferma avant che stizzar in maletg u video"</string>
-    <string name="no_location_image" msgid="6929172123058811834">"Quest maletg na cuntegna naginas infurmaziuns davart la posiziun geografica."</string>
+    <!-- outdated translation 6929172123058811834 -->     <string name="no_location_image" msgid="8907867717568887559">"Quest maletg na cuntegna naginas infurmaziuns davart la posiziun geografica."</string>
     <string name="details_panel_title" msgid="4753347516759338122">"Detagls"</string>
     <string name="details_file_size" msgid="2468878774843246797">"Grondezza da la datoteca:"</string>
     <string name="details_image_resolution" msgid="8773315928100529437">"Resoluziun:"</string>
     <string name="details_image_make" msgid="2888477930210903540">"Producent:"</string>
     <string name="details_image_model" msgid="3608007849933924336">"Model:"</string>
     <string name="details_image_whitebalance" msgid="4412514247882436065">"Equiliber da l\'alv:"</string>
-    <string name="details_image_latitude" msgid="6701704806314765468">"Grad da ladezza GPS:"</string>
-    <string name="details_image_longitude" msgid="5583629669864057389">"Longhituda GPS:"</string>
+    <!-- outdated translation 6701704806314765468 -->     <string name="details_image_latitude" msgid="58222150203989546">"Grad da ladezza GPS:"</string>
+    <!-- outdated translation 5583629669864057389 -->     <string name="details_image_longitude" msgid="3792725587390654278">"Longhituda GPS:"</string>
     <string name="details_image_location" msgid="6460201074393148978">"Lieu:"</string>
     <string name="details_duration" msgid="1028116471387901402">"Durada:"</string>
     <string name="details_date_taken" msgid="348356840586463178">"Data da creaziun:"</string>
@@ -132,11 +132,11 @@
     <string name="details_ok" msgid="6848594369924424312">"OK"</string>
     <string name="context_menu_header" msgid="1185348426222302182">"Opziuns dal maletg"</string>
     <string name="video_context_menu_header" msgid="7318971116949475029">"Opziuns da video"</string>
-    <string name="multiface_crop_help" msgid="3127018992717032779">"Smatgai sin ina fatscha per cumenzar."</string>
+    <!-- outdated translation 3127018992717032779 -->     <string name="multiface_crop_help" msgid="2554690102655855657">"Smatgai sin ina fatscha per cumenzar."</string>
     <string name="photos_gallery_title" msgid="6914406246471015448">"Catalog"</string>
-    <string name="pick_photos_gallery_title" msgid="12912682424915943">"Tscherni in maletg"</string>
+    <!-- outdated translation 12912682424915943 -->     <string name="pick_photos_gallery_title" msgid="8356086704733473321">"Tscherni in maletg"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"Catalog"</string>
-    <string name="pick_videos_gallery_title" msgid="326727095201227333">"Tscherner in video"</string>
+    <!-- outdated translation 326727095201227333 -->     <string name="pick_videos_gallery_title" msgid="568436323607491495">"Tscherner in video"</string>
     <string name="sendImage" msgid="7279510542799399570">"Cundivider il maletg cun agid da"</string>
     <string name="setImage" msgid="7246975856983303047">"Definir il maletg sco"</string>
     <string name="sendVideo" msgid="3598567735831863073">"Cundivider il video cun agid da"</string>
@@ -144,7 +144,8 @@
     <string name="movieviewlabel" msgid="7363495772706775465">"Films"</string>
     <string name="loading_video" msgid="4013492720121891585">"Chargiar il video…"</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"Cuntinuar cun il video"</string>
-    <string name="resume_playing_message" msgid="7293000708492271389">"Cuntinuar la reproducziun davent da <xliff:g id="DURATION">%s</xliff:g>?"</string>
+    <!-- no translation found for resume_playing_message (8480340146814638566) -->
+    <skip />
     <string name="resume_playing_resume" msgid="3847915469173852416">"Cuntinuar la reproducziun"</string>
     <string name="resume_playing_restart" msgid="5471008499835769292">"Cumenzar"</string>
     <string name="gadget_title" msgid="259405922673466798">"Rom da maletgs"</string>
@@ -153,5 +154,5 @@
     <string name="multiselect_share" msgid="5261644537749253581">"Cundivider"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"Stizzar"</string>
     <string name="multiselect_cancel" msgid="5969428692864002165">"Interrumper"</string>
-    <string name="delete_images_message" msgid="4504926868037899430">"\"Stizzar ils maletgs, spetgar per plaschair...\""</string>
+    <!-- outdated translation 4504926868037899430 -->     <string name="delete_images_message" msgid="2332683687700452577">"\"Stizzar ils maletgs, spetgar per plaschair...\""</string>
 </resources>

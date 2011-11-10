@@ -28,13 +28,13 @@
     <string name="view_label" msgid="4450531507947335704">"Prikaz slike"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Nastavitve fotoaparata"</string>
     <string name="wait" msgid="8600187532323801552">"Počakajte ..."</string>
-    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Vpnite pomnilnik v skupni rabi pred uporabo kamere."</string>
-    <string name="no_storage" product="default" msgid="820691042667338625">"Vstavite kartico SD pred uporabo fotoaparata."</string>
+    <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Pred uporabo fotoaparata vpnite pomnilnik v skupni rabi."</string>
+    <string name="no_storage" product="default" msgid="6680362958795677723">"Pred uporabo fotoaparata vstavite kartico SD."</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Pomnilnik v skupni rabi je poln."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"Kartica SD je polna."</string>
     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Priprava pomnilnika v skupni rabi ..."</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"Priprava kartice SD ..."</string>
-    <string name="wallpaper" msgid="9222901738515471972">"Nastavljanje slike za ozadje, počakajte ..."</string>
+    <string name="wallpaper" msgid="140165383777262070">"Nastavljanje slike za ozadje ..."</string>
     <string name="savingImage" msgid="3051745378545909260">"Shranjevanje slike ..."</string>
     <string name="runningFaceDetection" msgid="2293932204708167704">"Počakajte ..."</string>
     <string name="view" msgid="6277795271119411881">"Prikaz"</string>
@@ -50,9 +50,9 @@
     <string name="crop_save_text" msgid="8140440041190264400">"Shrani"</string>
     <string name="crop_discard_text" msgid="5303657888280340603">"Zavrzi"</string>
     <string name="confirm_delete_title" msgid="263478358046514887">"Izbriši"</string>
-    <string name="confirm_delete_message" msgid="4161389939579284604">"Slika bo izbrisana."</string>
-    <string name="confirm_delete_video_message" msgid="5796154324948010221">"Videoposnetek bo izbrisan."</string>
-    <string name="confirm_delete_multiple_message" msgid="5962369828035778779">"Predstavnostne datoteke bodo izbrisane."</string>
+    <string name="confirm_delete_message" msgid="2141726810668595858">"Želite izbrisati to sliko?"</string>
+    <string name="confirm_delete_video_message" msgid="800016540763376529">"Ali želite izbrisati ta videoposnetek?"</string>
+    <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"Želite izbrisati te predstavnostne datoteke?"</string>
     <string name="camera_toss" msgid="3781186798552460833">"Izbriši"</string>
     <string name="camera_share" msgid="8207701858325694182">"Skupna raba"</string>
     <string name="camera_set" msgid="3422192914806971182">"Nastavi kot"</string>
@@ -60,30 +60,30 @@
     <string name="camera_attach" msgid="4048659554893435232">"Pripni"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"Prekliči"</string>
     <string name="camera_crop" msgid="5584000454518174632">"Obreži"</string>
-    <string name="no_way_to_share_image" msgid="5011985309980187927">"Program za skupno rabo slike ni na voljo."</string>
-    <string name="no_way_to_share_video" msgid="3684571102267072206">"Program za skupno rabo videoposnetka ni na voljo."</string>
-    <string name="no_way_to_share" msgid="863323712875014752">"Program za skupno rabo medijskih datotek ni na voljo."</string>
+    <string name="no_way_to_share_image" msgid="7980215622010396797">"Ni programa za deljenje slike."</string>
+    <string name="no_way_to_share_video" msgid="4506167265329982928">"Ni programa za deljenje videoposnetka."</string>
+    <string name="no_way_to_share" msgid="5276805314940059662">"Ni programa za deljenje predstavnostnih datotek."</string>
     <string name="video_play" msgid="5287787282508002895">"Predvajaj"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"Slike"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"Slika za ozadje"</string>
     <string name="pref_gallery_category" msgid="5826488887237959433">"Splošne nastavitve"</string>
     <string name="pref_slideshow_category" msgid="9097962086335681667">"Nastavitve diaprojekcije"</string>
     <string name="pref_gallery_size_title" msgid="1363406603879434418">"Velikost prikaza"</string>
-    <string name="pref_gallery_size_summary" msgid="8179967445295243638">"Izberite velikost prikaza slik in videoposnetkov"</string>
+    <string name="pref_gallery_size_summary" msgid="7365675768755956361">"Izberite velikost prikaza slik in videoposnetkov"</string>
     <string name="pref_gallery_size_dialogtitle" msgid="757380558320647503">"Velikost slike"</string>
   <string-array name="pref_gallery_size_choices">
     <item msgid="7157691836846678936">"Velika"</item>
     <item msgid="1033164600689216410">"Majhna"</item>
   </string-array>
     <string name="pref_gallery_sort_title" msgid="7447949250045443386">"Način razvrščanja"</string>
-    <string name="pref_gallery_sort_summary" msgid="6644398051645595214">"Izberite vrstni red slik in videoposnetkov"</string>
+    <string name="pref_gallery_sort_summary" msgid="4406174975925645225">"Izbira vrstnega reda slik in videoposnetkov"</string>
     <string name="pref_gallery_sort_dialogtitle" msgid="5787417105532562739">"Razvrščanje slik"</string>
   <string-array name="pref_gallery_sort_choices">
     <item msgid="5546009539334018063">"Najnovejši najprej"</item>
     <item msgid="7931283047572866748">"Najnovejši nazadnje"</item>
   </string-array>
     <string name="pref_gallery_slideshow_interval_title" msgid="6534904787962619832">"Presledek diaprojekcije"</string>
-    <string name="pref_gallery_slideshow_interval_summary" msgid="329876327077905033">"Izberite dolžino predvajanja vsakega diapozitiva v projekciji"</string>
+    <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"Izberite dolžino predvajanja vsakega diapozitiva v projekciji"</string>
     <string name="pref_gallery_slideshow_interval_dialogtitle" msgid="6775543119826248900">"Presledek diaprojekcije"</string>
   <string-array name="pref_gallery_slideshow_interval_choices">
     <item msgid="3089037742117543119">"2 sekundi"</item>
@@ -91,7 +91,7 @@
     <item msgid="5670078787463530498">"4 sekunde"</item>
   </string-array>
     <string name="pref_gallery_slideshow_transition_title" msgid="3235158556228218846">"Prehod diaprojekcije"</string>
-    <string name="pref_gallery_slideshow_transition_summary" msgid="2390320265891546846">"Izberite učinek za premikanje z enega diapozitiva na drugega"</string>
+    <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"Izberite učinek za premikanje z enega diapozitiva na drugega"</string>
     <string name="pref_gallery_slideshow_transition_dialogtitle" msgid="5483406447721500371">"Prehod diaprojekcije"</string>
   <string-array name="pref_gallery_slideshow_transition_choices">
     <item msgid="2825716730899894863">"Odtemnitev in zatemnitev"</item>
@@ -107,15 +107,15 @@
     <string name="image_gallery_NoImageView_text" msgid="409595259802877447">"Ni medijev."</string>
     <string name="pref_gallery_confirm_delete_title" msgid="642429032687845907">"Potrdi izbrise"</string>
     <string name="pref_gallery_confirm_delete_summary" msgid="5253456492765525245">"Pokaži potrditev pred izbiro slike ali videoposnetka"</string>
-    <string name="no_location_image" msgid="6929172123058811834">"V tej sliki ni lokacijskih podatkov."</string>
+    <string name="no_location_image" msgid="8907867717568887559">"V tej sliki ni podatkov o lokaciji."</string>
     <string name="details_panel_title" msgid="4753347516759338122">"Podrobnosti"</string>
     <string name="details_file_size" msgid="2468878774843246797">"Velikost datoteke:"</string>
     <string name="details_image_resolution" msgid="8773315928100529437">"Ločljivost:"</string>
     <string name="details_image_make" msgid="2888477930210903540">"Izdelovalec:"</string>
     <string name="details_image_model" msgid="3608007849933924336">"Model:"</string>
     <string name="details_image_whitebalance" msgid="4412514247882436065">"Izravnava beline:"</string>
-    <string name="details_image_latitude" msgid="6701704806314765468">"Zemljepisna širina GPS:"</string>
-    <string name="details_image_longitude" msgid="5583629669864057389">"Zemljepisna dolžina GPS:"</string>
+    <string name="details_image_latitude" msgid="58222150203989546">"Zemljepisna širina GPS:"</string>
+    <string name="details_image_longitude" msgid="3792725587390654278">"Zemljepisna dolžina GPS:"</string>
     <string name="details_image_location" msgid="6460201074393148978">"Lokacija:"</string>
     <string name="details_duration" msgid="1028116471387901402">"Trajanje:"</string>
     <string name="details_date_taken" msgid="348356840586463178">"Datum posnetka:"</string>
@@ -132,11 +132,11 @@
     <string name="details_ok" msgid="6848594369924424312">"V redu"</string>
     <string name="context_menu_header" msgid="1185348426222302182">"Možnosti slike"</string>
     <string name="video_context_menu_header" msgid="7318971116949475029">"Možnosti videoposnetka"</string>
-    <string name="multiface_crop_help" msgid="3127018992717032779">"Tapnite obraz, če želite začeti."</string>
+    <string name="multiface_crop_help" msgid="2554690102655855657">"Dotaknite se obraza, če želite začeti."</string>
     <string name="photos_gallery_title" msgid="6914406246471015448">"Galerija"</string>
-    <string name="pick_photos_gallery_title" msgid="12912682424915943">"Izberi sliko"</string>
+    <string name="pick_photos_gallery_title" msgid="8356086704733473321">"Izberite sliko"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"Galerija"</string>
-    <string name="pick_videos_gallery_title" msgid="326727095201227333">"Izberi videoposnetek"</string>
+    <string name="pick_videos_gallery_title" msgid="568436323607491495">"Izberite videoposnetek"</string>
     <string name="sendImage" msgid="7279510542799399570">"Deli sliko prek"</string>
     <string name="setImage" msgid="7246975856983303047">"Nastavi sliko kot"</string>
     <string name="sendVideo" msgid="3598567735831863073">"Deli videoposnetek prek"</string>
@@ -144,7 +144,7 @@
     <string name="movieviewlabel" msgid="7363495772706775465">"Filmi"</string>
     <string name="loading_video" msgid="4013492720121891585">"Nalaganje videoposnetka ..."</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"Nadaljuj predvajanje videoposnetka"</string>
-    <string name="resume_playing_message" msgid="7293000708492271389">"Želite nadaljevati predvajanje od <xliff:g id="DURATION">%s</xliff:g> ?"</string>
+    <string name="resume_playing_message" msgid="8480340146814638566">"Želite nadaljevati predvajanje od <xliff:g id="DURATION">%s</xliff:g>?"</string>
     <string name="resume_playing_resume" msgid="3847915469173852416">"Nadaljuj predvajanje"</string>
     <string name="resume_playing_restart" msgid="5471008499835769292">"Začni znova"</string>
     <string name="gadget_title" msgid="259405922673466798">"Okvir slike"</string>
@@ -153,5 +153,5 @@
     <string name="multiselect_share" msgid="5261644537749253581">"Skupna raba"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"Izbriši"</string>
     <string name="multiselect_cancel" msgid="5969428692864002165">"Prekliči"</string>
-    <string name="delete_images_message" msgid="4504926868037899430">"Brisanje slik, počakajte ..."</string>
+    <string name="delete_images_message" msgid="2332683687700452577">"Brisanje slik ..."</string>
 </resources>

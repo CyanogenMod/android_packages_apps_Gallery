@@ -28,13 +28,13 @@
     <string name="view_label" msgid="4450531507947335704">"Vizualizaţi fotografia"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Setările camerei foto"</string>
     <string name="wait" msgid="8600187532323801552">"Aşteptaţi…"</string>
-    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Înainte de a utiliza camera foto, montaţi spaţiul de stocare distribuit."</string>
-    <string name="no_storage" product="default" msgid="820691042667338625">"Inseraţi un card SD înainte de a utiliza camera foto."</string>
+    <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Înainte de a utiliza camera foto, trebuie să montaţi spaţiul de stocare distribuit."</string>
+    <string name="no_storage" product="default" msgid="6680362958795677723">"Înainte de a utiliza camera foto, trebuie să inseraţi un card SD."</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Spaţiul de stocare distribuit s-a terminat."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"Cardul SD este plin."</string>
     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Se pregăteşte stocarea distribuită..."</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"Se pregăteşte cardul SD..."</string>
-    <string name="wallpaper" msgid="9222901738515471972">"Se setează imaginea de fundal. Aşteptaţi..."</string>
+    <string name="wallpaper" msgid="140165383777262070">"Se setează imaginea de fundal..."</string>
     <string name="savingImage" msgid="3051745378545909260">"Se salvează fotografia..."</string>
     <string name="runningFaceDetection" msgid="2293932204708167704">"Aşteptaţi…"</string>
     <string name="view" msgid="6277795271119411881">"Vizualizaţi"</string>
@@ -50,9 +50,9 @@
     <string name="crop_save_text" msgid="8140440041190264400">"Salvaţi"</string>
     <string name="crop_discard_text" msgid="5303657888280340603">"Renunţaţi"</string>
     <string name="confirm_delete_title" msgid="263478358046514887">"Ştergeţi"</string>
-    <string name="confirm_delete_message" msgid="4161389939579284604">"Fotografia va fi ştearsă."</string>
-    <string name="confirm_delete_video_message" msgid="5796154324948010221">"Videoclipul va fi şters."</string>
-    <string name="confirm_delete_multiple_message" msgid="5962369828035778779">"Aceste fişiere media vor fi şterse."</string>
+    <string name="confirm_delete_message" msgid="2141726810668595858">"Ştergeţi această imagine?"</string>
+    <string name="confirm_delete_video_message" msgid="800016540763376529">"Ştergeţi acest videoclip?"</string>
+    <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"Ştergeţi aceste fişiere media?"</string>
     <string name="camera_toss" msgid="3781186798552460833">"Ştergeţi"</string>
     <string name="camera_share" msgid="8207701858325694182">"Distribuiţi"</string>
     <string name="camera_set" msgid="3422192914806971182">"Setaţi ca"</string>
@@ -60,30 +60,30 @@
     <string name="camera_attach" msgid="4048659554893435232">"Ataşaţi"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"Anulaţi"</string>
     <string name="camera_crop" msgid="5584000454518174632">"Decupaţi"</string>
-    <string name="no_way_to_share_image" msgid="5011985309980187927">"Nicio aplicaţie disponibilă pentru a distribui fotografia."</string>
-    <string name="no_way_to_share_video" msgid="3684571102267072206">"Nicio aplicaţie disponibilă pentru a distribui videoclipul."</string>
-    <string name="no_way_to_share" msgid="863323712875014752">"Nicio aplicaţie nu este disponibilă pentru a distribui fişierul/fişierele media."</string>
+    <string name="no_way_to_share_image" msgid="7980215622010396797">"Nu există nicio aplicaţie disponibilă pentru a distribui imaginea."</string>
+    <string name="no_way_to_share_video" msgid="4506167265329982928">"Nu există nicio aplicaţie disponibilă pentru a distribui videoclipul."</string>
+    <string name="no_way_to_share" msgid="5276805314940059662">"Nu există nicio aplicaţie disponibilă pentru a distribui fişierele media."</string>
     <string name="video_play" msgid="5287787282508002895">"Redaţi"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"Fotografii"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"Imagine de fundal"</string>
     <string name="pref_gallery_category" msgid="5826488887237959433">"Setări generale"</string>
     <string name="pref_slideshow_category" msgid="9097962086335681667">"Setări prezentare"</string>
     <string name="pref_gallery_size_title" msgid="1363406603879434418">"Dimensiune de afişare"</string>
-    <string name="pref_gallery_size_summary" msgid="8179967445295243638">"Selectaţi dimensiunea de afişare a fotografiilor şi videoclipurilor"</string>
+    <string name="pref_gallery_size_summary" msgid="7365675768755956361">"Alegeţi dimensiunea de afişare a fotografiilor şi videoclipurilor"</string>
     <string name="pref_gallery_size_dialogtitle" msgid="757380558320647503">"Dimensiune fotografie"</string>
   <string-array name="pref_gallery_size_choices">
     <item msgid="7157691836846678936">"Mare"</item>
     <item msgid="1033164600689216410">"Mică"</item>
   </string-array>
     <string name="pref_gallery_sort_title" msgid="7447949250045443386">"Ordinea de sortare"</string>
-    <string name="pref_gallery_sort_summary" msgid="6644398051645595214">"Selectaţi ordinea de sortare a fotografiilor şi a videoclipurilor"</string>
+    <string name="pref_gallery_sort_summary" msgid="4406174975925645225">"Alegeţi ordinea de sortare a fotografiilor şi a videoclipurilor"</string>
     <string name="pref_gallery_sort_dialogtitle" msgid="5787417105532562739">"Sortare fotografii"</string>
   <string-array name="pref_gallery_sort_choices">
     <item msgid="5546009539334018063">"Întâi cel mai nou"</item>
     <item msgid="7931283047572866748">"Cea mai recentă ultima"</item>
   </string-array>
     <string name="pref_gallery_slideshow_interval_title" msgid="6534904787962619832">"Interval de prezentare"</string>
-    <string name="pref_gallery_slideshow_interval_summary" msgid="329876327077905033">"Selectaţi cât timp va fi afişat fiecare diapozitiv în prezentare"</string>
+    <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"Alegeţi cât timp va fi afişat fiecare slide în prezentare"</string>
     <string name="pref_gallery_slideshow_interval_dialogtitle" msgid="6775543119826248900">"Interval de prezentare"</string>
   <string-array name="pref_gallery_slideshow_interval_choices">
     <item msgid="3089037742117543119">"2 secunde"</item>
@@ -91,7 +91,7 @@
     <item msgid="5670078787463530498">"4 secunde"</item>
   </string-array>
     <string name="pref_gallery_slideshow_transition_title" msgid="3235158556228218846">"Tranziţia prezentării"</string>
-    <string name="pref_gallery_slideshow_transition_summary" msgid="2390320265891546846">"Selectaţi efectele pentru trecerea de la un diapozitiv la altul"</string>
+    <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"Alegeţi efectele pentru trecerea de la un slide la altul"</string>
     <string name="pref_gallery_slideshow_transition_dialogtitle" msgid="5483406447721500371">"Tranziţia prezentării"</string>
   <string-array name="pref_gallery_slideshow_transition_choices">
     <item msgid="2825716730899894863">"Atenuare şi intensificare"</item>
@@ -107,15 +107,15 @@
     <string name="image_gallery_NoImageView_text" msgid="409595259802877447">"Niciun dispozitiv media găsit."</string>
     <string name="pref_gallery_confirm_delete_title" msgid="642429032687845907">"Confirmaţi ştergerile"</string>
     <string name="pref_gallery_confirm_delete_summary" msgid="5253456492765525245">"Afişaţi confirmarea înaintea ştergerii unei fotografii sau a unui videoclip"</string>
-    <string name="no_location_image" msgid="6929172123058811834">"Această imagine nu conţine nicio informaţie despre locaţie."</string>
+    <string name="no_location_image" msgid="8907867717568887559">"Nu există informaţii referitoare la locaţie stocate în această imagine."</string>
     <string name="details_panel_title" msgid="4753347516759338122">"Detalii"</string>
     <string name="details_file_size" msgid="2468878774843246797">"Dimensiune fişier:"</string>
     <string name="details_image_resolution" msgid="8773315928100529437">"Rezoluţie:"</string>
     <string name="details_image_make" msgid="2888477930210903540">"Producător:"</string>
     <string name="details_image_model" msgid="3608007849933924336">"Model:"</string>
     <string name="details_image_whitebalance" msgid="4412514247882436065">"Balanţă de alb:"</string>
-    <string name="details_image_latitude" msgid="6701704806314765468">"Latitude GPS:"</string>
-    <string name="details_image_longitude" msgid="5583629669864057389">"Longitudine GPS:"</string>
+    <string name="details_image_latitude" msgid="58222150203989546">"Latitudine GPS:"</string>
+    <string name="details_image_longitude" msgid="3792725587390654278">"Longitudine GPS:"</string>
     <string name="details_image_location" msgid="6460201074393148978">"Locaţie:"</string>
     <string name="details_duration" msgid="1028116471387901402">"Durata:"</string>
     <string name="details_date_taken" msgid="348356840586463178">"Data realizării:"</string>
@@ -132,11 +132,11 @@
     <string name="details_ok" msgid="6848594369924424312">"OK"</string>
     <string name="context_menu_header" msgid="1185348426222302182">"Opţiunile fotografiei"</string>
     <string name="video_context_menu_header" msgid="7318971116949475029">"Opţiuni video"</string>
-    <string name="multiface_crop_help" msgid="3127018992717032779">"Apăsaţi pe un chip pentru a începe."</string>
+    <string name="multiface_crop_help" msgid="2554690102655855657">"Atingeţi o faţă pentru a începe."</string>
     <string name="photos_gallery_title" msgid="6914406246471015448">"Galerie"</string>
-    <string name="pick_photos_gallery_title" msgid="12912682424915943">"Selectaţi fotografia"</string>
+    <string name="pick_photos_gallery_title" msgid="8356086704733473321">"Alegeţi imaginea"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"Galerie"</string>
-    <string name="pick_videos_gallery_title" msgid="326727095201227333">"Selectaţi videoclipul"</string>
+    <string name="pick_videos_gallery_title" msgid="568436323607491495">"Alegeţi videoclipul"</string>
     <string name="sendImage" msgid="7279510542799399570">"Distribuiţi fotografia prin"</string>
     <string name="setImage" msgid="7246975856983303047">"Setaţi fotografia ca"</string>
     <string name="sendVideo" msgid="3598567735831863073">"Distribuiţi videoclipul prin"</string>
@@ -144,7 +144,7 @@
     <string name="movieviewlabel" msgid="7363495772706775465">"Filme"</string>
     <string name="loading_video" msgid="4013492720121891585">"Se încarcă videoclipul..."</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"Reluaţi videoclipul"</string>
-    <string name="resume_playing_message" msgid="7293000708492271389">"Reluaţi redarea de la <xliff:g id="DURATION">%s</xliff:g>?"</string>
+    <string name="resume_playing_message" msgid="8480340146814638566">"Reluaţi redarea videoclipului de la <xliff:g id="DURATION">%s</xliff:g>?"</string>
     <string name="resume_playing_resume" msgid="3847915469173852416">"Reluaţi redarea"</string>
     <string name="resume_playing_restart" msgid="5471008499835769292">"Începeţi din nou"</string>
     <string name="gadget_title" msgid="259405922673466798">"Ramă foto"</string>
@@ -153,5 +153,5 @@
     <string name="multiselect_share" msgid="5261644537749253581">"Distribuiţi"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"Ştergeţi"</string>
     <string name="multiselect_cancel" msgid="5969428692864002165">"Anulaţi"</string>
-    <string name="delete_images_message" msgid="4504926868037899430">"Se şterg imaginile. Aşteptaţi..."</string>
+    <string name="delete_images_message" msgid="2332683687700452577">"Se şterg imaginile..."</string>
 </resources>

@@ -28,13 +28,13 @@
     <string name="view_label" msgid="4450531507947335704">"Xem ảnh"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Cài đặt máy ảnh"</string>
     <string name="wait" msgid="8600187532323801552">"Vui lòng đợi..."</string>
-    <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Vui lòng kết nối bộ nhớ dùng chung trước khi sử dụng máy ảnh."</string>
-    <string name="no_storage" product="default" msgid="820691042667338625">"Vui lòng lắp thẻ SD trước khi sử dụng máy ảnh."</string>
+    <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Bạn cần kết nối bộ nhớ dùng chung trước khi sử dụng máy ảnh."</string>
+    <string name="no_storage" product="default" msgid="6680362958795677723">"Bạn cần lắp thẻ SD trước khi sử dụng máy ảnh."</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Bộ nhớ dùng chung của bạn đầy."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"Thẻ SD của bạn đã đầy."</string>
     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Đang chuẩn bị bộ nhớ dùng chung…"</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"Đang chuẩn bị thẻ SD…"</string>
-    <string name="wallpaper" msgid="9222901738515471972">"Đang đặt hình nền, vui lòng đợi…"</string>
+    <string name="wallpaper" msgid="140165383777262070">"Đang đặt hình nền..."</string>
     <string name="savingImage" msgid="3051745378545909260">"Đang lưu ảnh…"</string>
     <string name="runningFaceDetection" msgid="2293932204708167704">"Vui lòng đợi..."</string>
     <string name="view" msgid="6277795271119411881">"Xem"</string>
@@ -50,9 +50,9 @@
     <string name="crop_save_text" msgid="8140440041190264400">"Lưu"</string>
     <string name="crop_discard_text" msgid="5303657888280340603">"Hủy"</string>
     <string name="confirm_delete_title" msgid="263478358046514887">"Xoá"</string>
-    <string name="confirm_delete_message" msgid="4161389939579284604">"Ảnh sẽ bị xoá."</string>
-    <string name="confirm_delete_video_message" msgid="5796154324948010221">"Video sẽ bị xoá."</string>
-    <string name="confirm_delete_multiple_message" msgid="5962369828035778779">"Các tệp phương tiện này sẽ bị xoá."</string>
+    <string name="confirm_delete_message" msgid="2141726810668595858">"Xóa ảnh này?"</string>
+    <string name="confirm_delete_video_message" msgid="800016540763376529">"Xóa video này?"</string>
+    <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"Xóa các tệp phương tiện này?"</string>
     <string name="camera_toss" msgid="3781186798552460833">"Xoá"</string>
     <string name="camera_share" msgid="8207701858325694182">"Chia sẻ"</string>
     <string name="camera_set" msgid="3422192914806971182">"Đặt làm"</string>
@@ -60,30 +60,30 @@
     <string name="camera_attach" msgid="4048659554893435232">"Đính kèm"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"Hủy"</string>
     <string name="camera_crop" msgid="5584000454518174632">"Cắt"</string>
-    <string name="no_way_to_share_image" msgid="5011985309980187927">"Không có ứng dụng nào để chia sẻ ảnh."</string>
-    <string name="no_way_to_share_video" msgid="3684571102267072206">"Không có ứng dụng nào để chia sẻ video."</string>
-    <string name="no_way_to_share" msgid="863323712875014752">"Không có ứng dụng nào để chia sẻ tệp phương tiện."</string>
+    <string name="no_way_to_share_image" msgid="7980215622010396797">"Không có ứng dụng nào khả dụng để chia sẻ hình ảnh."</string>
+    <string name="no_way_to_share_video" msgid="4506167265329982928">"Không có ứng dụng nào khả dụng để chia sẻ video."</string>
+    <string name="no_way_to_share" msgid="5276805314940059662">"Không có ứng dụng nào khả dụng để chia sẻ tệp phương tiện."</string>
     <string name="video_play" msgid="5287787282508002895">"Phát"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"Ảnh"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"Hình nền"</string>
     <string name="pref_gallery_category" msgid="5826488887237959433">"Cài đặt chung"</string>
     <string name="pref_slideshow_category" msgid="9097962086335681667">"Cài đặt trình chiếu"</string>
     <string name="pref_gallery_size_title" msgid="1363406603879434418">"Kích thước hiển thị"</string>
-    <string name="pref_gallery_size_summary" msgid="8179967445295243638">"Chọn kích thước hiển thị của ảnh và video"</string>
+    <string name="pref_gallery_size_summary" msgid="7365675768755956361">"Chọn kích thước hiển thị của ảnh và video"</string>
     <string name="pref_gallery_size_dialogtitle" msgid="757380558320647503">"Kích thước ảnh"</string>
   <string-array name="pref_gallery_size_choices">
     <item msgid="7157691836846678936">"Lớn"</item>
     <item msgid="1033164600689216410">"Nhỏ"</item>
   </string-array>
     <string name="pref_gallery_sort_title" msgid="7447949250045443386">"Thứ tự sắp xếp"</string>
-    <string name="pref_gallery_sort_summary" msgid="6644398051645595214">"Chọn thứ tự sắp xếp của ảnh và video"</string>
+    <string name="pref_gallery_sort_summary" msgid="4406174975925645225">"Chọn thứ tự sắp xếp ảnh và video"</string>
     <string name="pref_gallery_sort_dialogtitle" msgid="5787417105532562739">"Sắp xếp ảnh"</string>
   <string-array name="pref_gallery_sort_choices">
     <item msgid="5546009539334018063">"Mới nhất xếp trước"</item>
     <item msgid="7931283047572866748">"Mới nhất xếp cuối"</item>
   </string-array>
     <string name="pref_gallery_slideshow_interval_title" msgid="6534904787962619832">"Khoảng thời gian trình chiếu"</string>
-    <string name="pref_gallery_slideshow_interval_summary" msgid="329876327077905033">"Chọn thời gian mỗi trang trình chiếu hiển trị trong trình chiếu"</string>
+    <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"Chọn thời gian mỗi trang trình bày hiển trị trong trình chiếu"</string>
     <string name="pref_gallery_slideshow_interval_dialogtitle" msgid="6775543119826248900">"Khoảng thời gian trình chiếu"</string>
   <string-array name="pref_gallery_slideshow_interval_choices">
     <item msgid="3089037742117543119">"2 giây"</item>
@@ -91,7 +91,7 @@
     <item msgid="5670078787463530498">"4 giây"</item>
   </string-array>
     <string name="pref_gallery_slideshow_transition_title" msgid="3235158556228218846">"Chuyển tiếp trình chiếu"</string>
-    <string name="pref_gallery_slideshow_transition_summary" msgid="2390320265891546846">"Chọn hiệu ứng được sử dụng khi di chuyển từ trang trình chiếu này sang trang trình chiếu tiếp theo"</string>
+    <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"Chọn hiệu ứng được sử dụng khi di chuyển từ một trang trình bày sang trang trình bày tiếp theo"</string>
     <string name="pref_gallery_slideshow_transition_dialogtitle" msgid="5483406447721500371">"Chuyển tiếp trình chiếu"</string>
   <string-array name="pref_gallery_slideshow_transition_choices">
     <item msgid="2825716730899894863">"Mờ dần &amp; rõ dần"</item>
@@ -107,15 +107,15 @@
     <string name="image_gallery_NoImageView_text" msgid="409595259802877447">"Không tìm thấy phương tiện nào."</string>
     <string name="pref_gallery_confirm_delete_title" msgid="642429032687845907">"Xác nhận xoá"</string>
     <string name="pref_gallery_confirm_delete_summary" msgid="5253456492765525245">"Hiển thị xác nhận trước khi xoá ảnh hoặc video"</string>
-    <string name="no_location_image" msgid="6929172123058811834">"Không có thông tin Vị trí trong hình ảnh này."</string>
+    <string name="no_location_image" msgid="8907867717568887559">"Không có thông tin vị trí nào được lưu trữ trong hình ảnh này."</string>
     <string name="details_panel_title" msgid="4753347516759338122">"Chi tiết"</string>
     <string name="details_file_size" msgid="2468878774843246797">"Kích thước tệp:"</string>
     <string name="details_image_resolution" msgid="8773315928100529437">"Độ phân giải:"</string>
     <string name="details_image_make" msgid="2888477930210903540">"Nhà sản xuất:"</string>
     <string name="details_image_model" msgid="3608007849933924336">"Kiểu:"</string>
     <string name="details_image_whitebalance" msgid="4412514247882436065">"Cân bằng trắng:"</string>
-    <string name="details_image_latitude" msgid="6701704806314765468">"Vĩ độ GPS:"</string>
-    <string name="details_image_longitude" msgid="5583629669864057389">"Kinh độ GPS:"</string>
+    <string name="details_image_latitude" msgid="58222150203989546">"Vĩ độ GPS:"</string>
+    <string name="details_image_longitude" msgid="3792725587390654278">"Kinh độ GPS:"</string>
     <string name="details_image_location" msgid="6460201074393148978">"Vị trí:"</string>
     <string name="details_duration" msgid="1028116471387901402">"Thời lượng:"</string>
     <string name="details_date_taken" msgid="348356840586463178">"Ngày chụp:"</string>
@@ -132,11 +132,11 @@
     <string name="details_ok" msgid="6848594369924424312">"OK"</string>
     <string name="context_menu_header" msgid="1185348426222302182">"Tùy chọn ảnh"</string>
     <string name="video_context_menu_header" msgid="7318971116949475029">"Tùy chọn video"</string>
-    <string name="multiface_crop_help" msgid="3127018992717032779">"Nhấn vào một khuôn mặt để bắt đầu"</string>
+    <string name="multiface_crop_help" msgid="2554690102655855657">"Chạm vào một khuôn  mặt để bắt đầu."</string>
     <string name="photos_gallery_title" msgid="6914406246471015448">"Thư viện"</string>
-    <string name="pick_photos_gallery_title" msgid="12912682424915943">"Chọn ảnh"</string>
+    <string name="pick_photos_gallery_title" msgid="8356086704733473321">"Chọn ảnh"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"Thư viện"</string>
-    <string name="pick_videos_gallery_title" msgid="326727095201227333">"Chọn video"</string>
+    <string name="pick_videos_gallery_title" msgid="568436323607491495">"Chọn video"</string>
     <string name="sendImage" msgid="7279510542799399570">"Chia sẻ ảnh qua"</string>
     <string name="setImage" msgid="7246975856983303047">"Đặt ảnh làm"</string>
     <string name="sendVideo" msgid="3598567735831863073">"Chia sẻ video qua"</string>
@@ -144,7 +144,7 @@
     <string name="movieviewlabel" msgid="7363495772706775465">"Phim"</string>
     <string name="loading_video" msgid="4013492720121891585">"Đang tải video..."</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"Tiếp tục video"</string>
-    <string name="resume_playing_message" msgid="7293000708492271389">"Tiếp tục phát từ <xliff:g id="DURATION">%s</xliff:g> ?"</string>
+    <string name="resume_playing_message" msgid="8480340146814638566">"Tiếp tục phát video từ <xliff:g id="DURATION">%s</xliff:g>?"</string>
     <string name="resume_playing_resume" msgid="3847915469173852416">"Tiếp tục phát"</string>
     <string name="resume_playing_restart" msgid="5471008499835769292">"Bắt đầu lại"</string>
     <string name="gadget_title" msgid="259405922673466798">"Khung ảnh"</string>
@@ -153,5 +153,5 @@
     <string name="multiselect_share" msgid="5261644537749253581">"Chia sẻ"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"Xoá"</string>
     <string name="multiselect_cancel" msgid="5969428692864002165">"Hủy"</string>
-    <string name="delete_images_message" msgid="4504926868037899430">"Đang xoá ảnh, vui lòng đợi…"</string>
+    <string name="delete_images_message" msgid="2332683687700452577">"Đang xóa ảnh…"</string>
 </resources>
