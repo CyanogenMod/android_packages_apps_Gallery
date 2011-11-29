@@ -28,8 +28,8 @@
     <string name="view_label" msgid="4450531507947335704">"画像を表示"</string>
     <string name="preferences_label" msgid="5955678162525051163">"カメラ設定"</string>
     <string name="wait" msgid="8600187532323801552">"お待ちください..."</string>
-    <!-- outdated translation 5876548364041592119 -->     <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"カメラを使用する前にUSBストレージをマウントしてください。"</string>
-    <!-- outdated translation 5876548364041592119 -->     <string name="no_storage" product="default" msgid="6680362958795677723">"カメラを使用する前にUSBストレージをマウントしてください。"</string>
+    <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"カメラを使用する前に共有ストレージをマウントする必要があります。"</string>
+    <string name="no_storage" product="default" msgid="6680362958795677723">"カメラを使用する前にSDカードを挿入する必要があります。"</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"共有ストレージに空き領域がありません。"</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"SDカードがいっぱいです。"</string>
     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"共有ストレージの準備中..."</string>
@@ -50,9 +50,9 @@
     <string name="crop_save_text" msgid="8140440041190264400">"保存"</string>
     <string name="crop_discard_text" msgid="5303657888280340603">"キャンセル"</string>
     <string name="confirm_delete_title" msgid="263478358046514887">"削除"</string>
-    <!-- outdated translation 4161389939579284604 -->     <string name="confirm_delete_message" msgid="2141726810668595858">"画像を削除します。"</string>
-    <!-- outdated translation 5796154324948010221 -->     <string name="confirm_delete_video_message" msgid="800016540763376529">"動画を削除します。"</string>
-    <!-- outdated translation 5962369828035778779 -->     <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"これらのメディアファイルが削除されます。"</string>
+    <string name="confirm_delete_message" msgid="2141726810668595858">"この写真を削除しますか？"</string>
+    <string name="confirm_delete_video_message" msgid="800016540763376529">"この動画を削除しますか？"</string>
+    <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"これらのメディアファイルを削除しますか？"</string>
     <string name="camera_toss" msgid="3781186798552460833">"削除"</string>
     <string name="camera_share" msgid="8207701858325694182">"共有"</string>
     <string name="camera_set" msgid="3422192914806971182">"登録"</string>
@@ -60,30 +60,30 @@
     <string name="camera_attach" msgid="4048659554893435232">"添付"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"キャンセル"</string>
     <string name="camera_crop" msgid="5584000454518174632">"トリミング"</string>
-    <!-- outdated translation 5011985309980187927 -->     <string name="no_way_to_share_image" msgid="7980215622010396797">"写真を共有できるアプリケーションがありません。"</string>
-    <!-- outdated translation 3684571102267072206 -->     <string name="no_way_to_share_video" msgid="4506167265329982928">"動画を共有できるアプリケーションがありません。"</string>
-    <!-- outdated translation 863323712875014752 -->     <string name="no_way_to_share" msgid="5276805314940059662">"メディアファイルを共有できるアプリケーションがありません。"</string>
+    <string name="no_way_to_share_image" msgid="7980215622010396797">"写真を共有できるアプリがありません。"</string>
+    <string name="no_way_to_share_video" msgid="4506167265329982928">"動画を共有できるアプリがありません。"</string>
+    <string name="no_way_to_share" msgid="5276805314940059662">"メディアファイルを共有できるアプリがありません。"</string>
     <string name="video_play" msgid="5287787282508002895">"再生"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"カメラで撮影した画像"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"壁紙"</string>
     <string name="pref_gallery_category" msgid="5826488887237959433">"全般設定"</string>
     <string name="pref_slideshow_category" msgid="9097962086335681667">"スライドショー設定"</string>
     <string name="pref_gallery_size_title" msgid="1363406603879434418">"表示サイズ"</string>
-    <!-- outdated translation 8179967445295243638 -->     <string name="pref_gallery_size_summary" msgid="7365675768755956361">"画像や動画の表示サイズ"</string>
+    <string name="pref_gallery_size_summary" msgid="7365675768755956361">"写真と動画の表示サイズを選択"</string>
     <string name="pref_gallery_size_dialogtitle" msgid="757380558320647503">"表示サイズ"</string>
   <string-array name="pref_gallery_size_choices">
     <item msgid="7157691836846678936">"大"</item>
     <item msgid="1033164600689216410">"小"</item>
   </string-array>
     <string name="pref_gallery_sort_title" msgid="7447949250045443386">"表示順序"</string>
-    <!-- outdated translation 6644398051645595214 -->     <string name="pref_gallery_sort_summary" msgid="4406174975925645225">"画像や動画の表示順序を選択"</string>
+    <string name="pref_gallery_sort_summary" msgid="4406174975925645225">"写真と動画の表示順を選択"</string>
     <string name="pref_gallery_sort_dialogtitle" msgid="5787417105532562739">"表示順序"</string>
   <string-array name="pref_gallery_sort_choices">
     <item msgid="5546009539334018063">"日付の新しい順"</item>
     <item msgid="7931283047572866748">"日付の古い順"</item>
   </string-array>
     <string name="pref_gallery_slideshow_interval_title" msgid="6534904787962619832">"スライドの再生間隔"</string>
-    <!-- outdated translation 329876327077905033 -->     <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"各スライドの表示時間"</string>
+    <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"各スライドの表示時間を選択"</string>
     <string name="pref_gallery_slideshow_interval_dialogtitle" msgid="6775543119826248900">"スライドの再生間隔"</string>
   <string-array name="pref_gallery_slideshow_interval_choices">
     <item msgid="3089037742117543119">"2秒"</item>
@@ -91,7 +91,7 @@
     <item msgid="5670078787463530498">"4秒"</item>
   </string-array>
     <string name="pref_gallery_slideshow_transition_title" msgid="3235158556228218846">"スライド切り替え"</string>
-    <!-- outdated translation 2390320265891546846 -->     <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"スライドが切り替わるときの効果"</string>
+    <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"スライドが切り替わるときの効果を選択"</string>
     <string name="pref_gallery_slideshow_transition_dialogtitle" msgid="5483406447721500371">"スライド切り替え"</string>
   <string-array name="pref_gallery_slideshow_transition_choices">
     <item msgid="2825716730899894863">"フェードイン&amp;アウト"</item>
@@ -107,15 +107,15 @@
     <string name="image_gallery_NoImageView_text" msgid="409595259802877447">"メディアが見つかりません。"</string>
     <string name="pref_gallery_confirm_delete_title" msgid="642429032687845907">"削除確認"</string>
     <string name="pref_gallery_confirm_delete_summary" msgid="5253456492765525245">"画像や動画を削除する前に確認する"</string>
-    <!-- outdated translation 6929172123058811834 -->     <string name="no_location_image" msgid="8907867717568887559">"この画像には位置情報は含まれていません。"</string>
+    <string name="no_location_image" msgid="8907867717568887559">"この画像には位置情報は含まれていません。"</string>
     <string name="details_panel_title" msgid="4753347516759338122">"詳細情報"</string>
     <string name="details_file_size" msgid="2468878774843246797">"ファイルサイズ:"</string>
     <string name="details_image_resolution" msgid="8773315928100529437">"解像度:"</string>
     <string name="details_image_make" msgid="2888477930210903540">"メーカー:"</string>
     <string name="details_image_model" msgid="3608007849933924336">"モデル:"</string>
     <string name="details_image_whitebalance" msgid="4412514247882436065">"ホワイトバランス:"</string>
-    <!-- outdated translation 6701704806314765468 -->     <string name="details_image_latitude" msgid="58222150203989546">"GPS緯度:"</string>
-    <!-- outdated translation 5583629669864057389 -->     <string name="details_image_longitude" msgid="3792725587390654278">"GPS経度:"</string>
+    <string name="details_image_latitude" msgid="58222150203989546">"GPS緯度:"</string>
+    <string name="details_image_longitude" msgid="3792725587390654278">"GPS経度:"</string>
     <string name="details_image_location" msgid="6460201074393148978">"場所:"</string>
     <string name="details_duration" msgid="1028116471387901402">"再生時間:"</string>
     <string name="details_date_taken" msgid="348356840586463178">"撮影日:"</string>
@@ -134,9 +134,9 @@
     <string name="video_context_menu_header" msgid="7318971116949475029">"動画オプション"</string>
     <string name="multiface_crop_help" msgid="2554690102655855657">"始めるには顔をタップします。"</string>
     <string name="photos_gallery_title" msgid="6914406246471015448">"ギャラリー"</string>
-    <!-- outdated translation 12912682424915943 -->     <string name="pick_photos_gallery_title" msgid="8356086704733473321">"画像を選択"</string>
+    <string name="pick_photos_gallery_title" msgid="8356086704733473321">"写真を選択"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"ギャラリー"</string>
-    <!-- outdated translation 326727095201227333 -->     <string name="pick_videos_gallery_title" msgid="568436323607491495">"動画を選択"</string>
+    <string name="pick_videos_gallery_title" msgid="568436323607491495">"動画を選択"</string>
     <string name="sendImage" msgid="7279510542799399570">"画像を共有:"</string>
     <string name="setImage" msgid="7246975856983303047">"登録"</string>
     <string name="sendVideo" msgid="3598567735831863073">"動画を共有"</string>
@@ -144,8 +144,7 @@
     <string name="movieviewlabel" msgid="7363495772706775465">"動画"</string>
     <string name="loading_video" msgid="4013492720121891585">"動画を読み込み中..."</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"動画の再開"</string>
-    <!-- no translation found for resume_playing_message (8480340146814638566) -->
-    <skip />
+    <string name="resume_playing_message" msgid="8480340146814638566">"<xliff:g id="DURATION">%s</xliff:g>から動画の再生を再開しますか？"</string>
     <string name="resume_playing_resume" msgid="3847915469173852416">"再生を再開"</string>
     <string name="resume_playing_restart" msgid="5471008499835769292">"最初から再生"</string>
     <string name="gadget_title" msgid="259405922673466798">"写真フレーム"</string>
@@ -154,5 +153,5 @@
     <string name="multiselect_share" msgid="5261644537749253581">"共有"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"削除"</string>
     <string name="multiselect_cancel" msgid="5969428692864002165">"キャンセル"</string>
-    <!-- outdated translation 4504926868037899430 -->     <string name="delete_images_message" msgid="2332683687700452577">"画像を削除しています。お待ちください..."</string>
+    <string name="delete_images_message" msgid="2332683687700452577">"画像を削除しています..."</string>
 </resources>

@@ -28,8 +28,8 @@
     <string name="view_label" msgid="4450531507947335704">"Ona picha"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Mipangilio ya kamera"</string>
     <string name="wait" msgid="8600187532323801552">"Tafadhali subiri…"</string>
-    <!-- outdated translation 5876548364041592119 -->     <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Tafadhali weka h ifadhi ya USB kabla ya kutumia kamera."</string>
-    <!-- outdated translation 5876548364041592119 -->     <string name="no_storage" product="default" msgid="6680362958795677723">"Tafadhali weka h ifadhi ya USB kabla ya kutumia kamera."</string>
+    <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Unahitaji kupachika hifadhi ambayo imeshirikishwa kabla ya kutumia kamera."</string>
+    <string name="no_storage" product="default" msgid="6680362958795677723">"Unahitaji kuingiza kadi ya SD kabla ya kutumia kamera."</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Hifadhi yako iliyoshirikiwa imejaa."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"Kadi yako ya SD imejaa"</string>
     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Inaandaa hifadhi iliyoshirikiwa..."</string>
@@ -50,9 +50,9 @@
     <string name="crop_save_text" msgid="8140440041190264400">"Hifadhi"</string>
     <string name="crop_discard_text" msgid="5303657888280340603">"Tupa"</string>
     <string name="confirm_delete_title" msgid="263478358046514887">"Futa"</string>
-    <!-- outdated translation 4161389939579284604 -->     <string name="confirm_delete_message" msgid="2141726810668595858">"Picha itafutwa."</string>
-    <!-- outdated translation 5796154324948010221 -->     <string name="confirm_delete_video_message" msgid="800016540763376529">"Video itafutwa."</string>
-    <!-- outdated translation 5962369828035778779 -->     <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"Faili hizi za media zitafutwa."</string>
+    <string name="confirm_delete_message" msgid="2141726810668595858">"Picha hii ifutwe?"</string>
+    <string name="confirm_delete_video_message" msgid="800016540763376529">"Video hii ifutwe?"</string>
+    <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"Faili hizi za vyombo vya habari zifutwe?"</string>
     <string name="camera_toss" msgid="3781186798552460833">"Futa"</string>
     <string name="camera_share" msgid="8207701858325694182">"Shiriki"</string>
     <string name="camera_set" msgid="3422192914806971182">"Weka kama"</string>
@@ -60,30 +60,30 @@
     <string name="camera_attach" msgid="4048659554893435232">"Ambatisha"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"Ghairi"</string>
     <string name="camera_crop" msgid="5584000454518174632">"Kata"</string>
-    <!-- outdated translation 5011985309980187927 -->     <string name="no_way_to_share_image" msgid="7980215622010396797">"Hakuna programu inayopatikana ya kuishiriki picha."</string>
-    <!-- outdated translation 3684571102267072206 -->     <string name="no_way_to_share_video" msgid="4506167265329982928">"Hakuna programu ya kuishiriki video inayopatikana."</string>
-    <!-- outdated translation 863323712875014752 -->     <string name="no_way_to_share" msgid="5276805314940059662">"Hakuna programu inayopatikana kushiriki faili hizo za media."</string>
+    <string name="no_way_to_share_image" msgid="7980215622010396797">"Hakuna programu inayopatikana ili kushiriki picha."</string>
+    <string name="no_way_to_share_video" msgid="4506167265329982928">"Hakuna programu inayopatikana ili kushiriki video."</string>
+    <string name="no_way_to_share" msgid="5276805314940059662">"Hakuna programu inayopatikana ili kushiriki faili za vyombo vya habari."</string>
     <string name="video_play" msgid="5287787282508002895">"Cheza"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"Picha"</string>
-    <string name="camera_setas_wallpaper" msgid="797463183863414289">"Pazia"</string>
+    <string name="camera_setas_wallpaper" msgid="797463183863414289">"Mandhari"</string>
     <string name="pref_gallery_category" msgid="5826488887237959433">"Mipangilio ya kawaida"</string>
     <string name="pref_slideshow_category" msgid="9097962086335681667">"Mipangilio ya onyesho la"</string>
     <string name="pref_gallery_size_title" msgid="1363406603879434418">"Ukubwa wa onyesho"</string>
-    <!-- outdated translation 8179967445295243638 -->     <string name="pref_gallery_size_summary" msgid="7365675768755956361">"Weka ukubwa wa onyesho la picha na video"</string>
+    <string name="pref_gallery_size_summary" msgid="7365675768755956361">"Chagua ukubwa wa onyesho la picha na video"</string>
     <string name="pref_gallery_size_dialogtitle" msgid="757380558320647503">"Ukubwa wa picha"</string>
   <string-array name="pref_gallery_size_choices">
     <item msgid="7157691836846678936">"Kubwa"</item>
     <item msgid="1033164600689216410">"Ndogo"</item>
   </string-array>
     <string name="pref_gallery_sort_title" msgid="7447949250045443386">"Jinsi ya kupanga"</string>
-    <!-- outdated translation 6644398051645595214 -->     <string name="pref_gallery_sort_summary" msgid="4406174975925645225">"Chagua jinsi ya kupanga picha na video"</string>
+    <string name="pref_gallery_sort_summary" msgid="4406174975925645225">"Chagua mpangilio wa kupanga picha na video"</string>
     <string name="pref_gallery_sort_dialogtitle" msgid="5787417105532562739">"Panga picha"</string>
   <string-array name="pref_gallery_sort_choices">
     <item msgid="5546009539334018063">"Mpya kabisa kwanza"</item>
     <item msgid="7931283047572866748">"Mpya kabisa mwisho"</item>
   </string-array>
     <string name="pref_gallery_slideshow_interval_title" msgid="6534904787962619832">"Muda wa kila slaidi"</string>
-    <!-- outdated translation 329876327077905033 -->     <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"Chagua muda ambao kila slaidi inapaswa kuonyeshwa"</string>
+    <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"Chagua muda ambao kila slaidi itaonyeshwa katika onyesho"</string>
     <string name="pref_gallery_slideshow_interval_dialogtitle" msgid="6775543119826248900">"Muda wa kila slaidi"</string>
   <string-array name="pref_gallery_slideshow_interval_choices">
     <item msgid="3089037742117543119">"sekunde 2"</item>
@@ -91,7 +91,7 @@
     <item msgid="5670078787463530498">"sekunde 4"</item>
   </string-array>
     <string name="pref_gallery_slideshow_transition_title" msgid="3235158556228218846">"Mpito wa onyesho la slaidi"</string>
-    <!-- outdated translation 2390320265891546846 -->     <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"Chagua athari inayotumika wakati wa kusonga kutoka slaidi moja hadi nyingine"</string>
+    <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"Chagua athari inayotumika wakati wa kusogeza kutoka slaidi moja hadi nyingine"</string>
     <string name="pref_gallery_slideshow_transition_dialogtitle" msgid="5483406447721500371">"Mpito wa onyesho la slaidi"</string>
   <string-array name="pref_gallery_slideshow_transition_choices">
     <item msgid="2825716730899894863">"Fifisha ndani na nje"</item>
@@ -107,15 +107,15 @@
     <string name="image_gallery_NoImageView_text" msgid="409595259802877447">"Hakuna media iliyopatikana."</string>
     <string name="pref_gallery_confirm_delete_title" msgid="642429032687845907">"Thibitisha ufutaji"</string>
     <string name="pref_gallery_confirm_delete_summary" msgid="5253456492765525245">"Onyesho thibitisho kabla ya kufuta picha au video"</string>
-    <!-- outdated translation 6929172123058811834 -->     <string name="no_location_image" msgid="8907867717568887559">"Hakuna maelezo ya mahali yaliyomo katika picha hii."</string>
+    <string name="no_location_image" msgid="8907867717568887559">"Hakuna taarifa ya eneo iliyohifadhiwa katika picha hii."</string>
     <string name="details_panel_title" msgid="4753347516759338122">"Maelezo"</string>
     <string name="details_file_size" msgid="2468878774843246797">"Ukubwa wa faili:"</string>
     <string name="details_image_resolution" msgid="8773315928100529437">"Msongo:"</string>
     <string name="details_image_make" msgid="2888477930210903540">"Mtengenezaji:"</string>
     <string name="details_image_model" msgid="3608007849933924336">"Aina:"</string>
     <string name="details_image_whitebalance" msgid="4412514247882436065">"Usawazishaji wa Weupe:"</string>
-    <!-- outdated translation 6701704806314765468 -->     <string name="details_image_latitude" msgid="58222150203989546">"Latitudo ya GPS:"</string>
-    <!-- outdated translation 5583629669864057389 -->     <string name="details_image_longitude" msgid="3792725587390654278">"Longitudo ya GPS:"</string>
+    <string name="details_image_latitude" msgid="58222150203989546">"Latitudo ya GPS:"</string>
+    <string name="details_image_longitude" msgid="3792725587390654278">"Longitudo ya GPS:"</string>
     <string name="details_image_location" msgid="6460201074393148978">"Mahali:"</string>
     <string name="details_duration" msgid="1028116471387901402">"Muda:"</string>
     <string name="details_date_taken" msgid="348356840586463178">"Tarehe ilipopigwa:"</string>
@@ -134,9 +134,9 @@
     <string name="video_context_menu_header" msgid="7318971116949475029">"Chaguo za video"</string>
     <string name="multiface_crop_help" msgid="2554690102655855657">"Gusa sura ili kuanza."</string>
     <string name="photos_gallery_title" msgid="6914406246471015448">"Matunzio"</string>
-    <!-- outdated translation 12912682424915943 -->     <string name="pick_photos_gallery_title" msgid="8356086704733473321">"Chagua picha"</string>
+    <string name="pick_photos_gallery_title" msgid="8356086704733473321">"Chagua picha"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"Matunzio"</string>
-    <!-- outdated translation 326727095201227333 -->     <string name="pick_videos_gallery_title" msgid="568436323607491495">"Chagua video"</string>
+    <string name="pick_videos_gallery_title" msgid="568436323607491495">"Chagua video"</string>
     <string name="sendImage" msgid="7279510542799399570">"Shikiriki picha kupitia"</string>
     <string name="setImage" msgid="7246975856983303047">"Weka picha kama"</string>
     <string name="sendVideo" msgid="3598567735831863073">"Shiriki video kupitia"</string>
@@ -144,8 +144,7 @@
     <string name="movieviewlabel" msgid="7363495772706775465">"Filamu"</string>
     <string name="loading_video" msgid="4013492720121891585">"Inapakia video..."</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"Endelea na video"</string>
-    <!-- no translation found for resume_playing_message (8480340146814638566) -->
-    <skip />
+    <string name="resume_playing_message" msgid="8480340146814638566">"Endelea kucheza video kutoka <xliff:g id="DURATION">%s</xliff:g>?"</string>
     <string name="resume_playing_resume" msgid="3847915469173852416">"Endelea kucheza"</string>
     <string name="resume_playing_restart" msgid="5471008499835769292">"Anza tena"</string>
     <string name="gadget_title" msgid="259405922673466798">"Fremu ya picha"</string>
@@ -154,5 +153,5 @@
     <string name="multiselect_share" msgid="5261644537749253581">"Shiriki"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"Futa"</string>
     <string name="multiselect_cancel" msgid="5969428692864002165">"Ghairi"</string>
-    <!-- outdated translation 4504926868037899430 -->     <string name="delete_images_message" msgid="2332683687700452577">"Inafuta picha, tafadhali subiri..."</string>
+    <string name="delete_images_message" msgid="2332683687700452577">"Inafuta picha..."</string>
 </resources>

@@ -28,8 +28,8 @@
     <string name="view_label" msgid="4450531507947335704">"Zobraziť fotografiu"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Nastavenia fotoaparátu"</string>
     <string name="wait" msgid="8600187532323801552">"Čakajte, prosím..."</string>
-    <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Pred použitím fotoaparátu musíte pripojiť zdieľaný ukladací priestor."</string>
-    <string name="no_storage" product="default" msgid="6680362958795677723">"Predtým používaním fotoaparáta musíte vložiť kartu SD."</string>
+    <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Pred použitím fotoaparátu musíte pripojiť zdieľané úložisko."</string>
+    <string name="no_storage" product="default" msgid="6680362958795677723">"Pred použitím fotoaparátu musíte vložiť kartu SD."</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Zdieľaný ukladací priestor je plný."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"Vaša karta SD je plná."</string>
     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Prebieha príprava zdieľaného ukladacieho priestoru..."</string>

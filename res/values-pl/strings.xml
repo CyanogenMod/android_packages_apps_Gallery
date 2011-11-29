@@ -28,8 +28,8 @@
     <string name="view_label" msgid="4450531507947335704">"Wyświetl zdjęcie"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Ustawienia aparatu"</string>
     <string name="wait" msgid="8600187532323801552">"Proszę czekać…"</string>
-    <!-- outdated translation 5876548364041592119 -->     <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Przed użyciem aparatu podłącz nośnik USB."</string>
-    <!-- outdated translation 5876548364041592119 -->     <string name="no_storage" product="default" msgid="6680362958795677723">"Przed użyciem aparatu podłącz nośnik USB."</string>
+    <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Przed użyciem aparatu podłącz pamięć współdzieloną."</string>
+    <string name="no_storage" product="default" msgid="6680362958795677723">"Przed użyciem aparatu włóż kartę SD."</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Pamięć udostępniona jest pełna."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"Karta SD jest pełna."</string>
     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Trwa przygotowywanie pamięci udostępnionej…"</string>
@@ -50,9 +50,9 @@
     <string name="crop_save_text" msgid="8140440041190264400">"Zapisz"</string>
     <string name="crop_discard_text" msgid="5303657888280340603">"Odrzuć"</string>
     <string name="confirm_delete_title" msgid="263478358046514887">"Usuń"</string>
-    <!-- outdated translation 4161389939579284604 -->     <string name="confirm_delete_message" msgid="2141726810668595858">"Zdjęcie zostanie usunięte."</string>
-    <!-- outdated translation 5796154324948010221 -->     <string name="confirm_delete_video_message" msgid="800016540763376529">"Film wideo zostanie usunięty."</string>
-    <!-- outdated translation 5962369828035778779 -->     <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"Te pliki multimedialne zostaną usunięte."</string>
+    <string name="confirm_delete_message" msgid="2141726810668595858">"Usunąć zdjęcie?"</string>
+    <string name="confirm_delete_video_message" msgid="800016540763376529">"Usunąć film?"</string>
+    <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"Usunąć pliki multimedialne?"</string>
     <string name="camera_toss" msgid="3781186798552460833">"Usuń"</string>
     <string name="camera_share" msgid="8207701858325694182">"Prześlij"</string>
     <string name="camera_set" msgid="3422192914806971182">"Ustaw jako"</string>
@@ -60,30 +60,30 @@
     <string name="camera_attach" msgid="4048659554893435232">"Załącz"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"Anuluj"</string>
     <string name="camera_crop" msgid="5584000454518174632">"Przytnij"</string>
-    <!-- outdated translation 5011985309980187927 -->     <string name="no_way_to_share_image" msgid="7980215622010396797">"Brak dostępnej aplikacji do udostępnienia zdjęcia."</string>
-    <!-- outdated translation 3684571102267072206 -->     <string name="no_way_to_share_video" msgid="4506167265329982928">"Brak dostępnej aplikacji do udostępnienia filmu wideo."</string>
-    <!-- outdated translation 863323712875014752 -->     <string name="no_way_to_share" msgid="5276805314940059662">"Brak dostępnej aplikacji do udostępnienia plików multimedialnych."</string>
+    <string name="no_way_to_share_image" msgid="7980215622010396797">"Brak aplikacji do udostępnienia zdjęcia"</string>
+    <string name="no_way_to_share_video" msgid="4506167265329982928">"Brak aplikacji do udostępnienia filmu"</string>
+    <string name="no_way_to_share" msgid="5276805314940059662">"Brak aplikacji do udostępnienia plików multimedialnych"</string>
     <string name="video_play" msgid="5287787282508002895">"Odtwórz"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"Zdjęcia"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"Tapeta"</string>
     <string name="pref_gallery_category" msgid="5826488887237959433">"Ustawienia ogólne"</string>
     <string name="pref_slideshow_category" msgid="9097962086335681667">"Ustawienia pokazu slajdów"</string>
     <string name="pref_gallery_size_title" msgid="1363406603879434418">"Rozmiar zdjęć i filmów"</string>
-    <!-- outdated translation 8179967445295243638 -->     <string name="pref_gallery_size_summary" msgid="7365675768755956361">"Ustaw wyświetlany rozmiar zdjęć i filmów"</string>
+    <string name="pref_gallery_size_summary" msgid="7365675768755956361">"Wybierz rozmiar wyświetlanych zdjęć i filmów"</string>
     <string name="pref_gallery_size_dialogtitle" msgid="757380558320647503">"Rozmiar"</string>
   <string-array name="pref_gallery_size_choices">
     <item msgid="7157691836846678936">"Duży"</item>
     <item msgid="1033164600689216410">"Mały"</item>
   </string-array>
     <string name="pref_gallery_sort_title" msgid="7447949250045443386">"Kolejność sortowania"</string>
-    <!-- outdated translation 6644398051645595214 -->     <string name="pref_gallery_sort_summary" msgid="4406174975925645225">"Wybierz kolejność sortowania zdjęć i filmów"</string>
+    <string name="pref_gallery_sort_summary" msgid="4406174975925645225">"Wybierz kolejność sortowania zdjęć i filmów."</string>
     <string name="pref_gallery_sort_dialogtitle" msgid="5787417105532562739">"Sortowanie zdjęć"</string>
   <string-array name="pref_gallery_sort_choices">
     <item msgid="5546009539334018063">"Od najnowszego"</item>
     <item msgid="7931283047572866748">"Od najstarszego"</item>
   </string-array>
     <string name="pref_gallery_slideshow_interval_title" msgid="6534904787962619832">"Interwał pokazu slajdów"</string>
-    <!-- outdated translation 329876327077905033 -->     <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"Wybierz, jak długo mają być wyświetlane poszczególne zdjęcia w pokazie slajdów"</string>
+    <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"Wybierz czas wyświetlania każdego slajdu w pokazie."</string>
     <string name="pref_gallery_slideshow_interval_dialogtitle" msgid="6775543119826248900">"Interwał pokazu slajdów"</string>
   <string-array name="pref_gallery_slideshow_interval_choices">
     <item msgid="3089037742117543119">"2 sekundy"</item>
@@ -91,7 +91,7 @@
     <item msgid="5670078787463530498">"4 sekundy"</item>
   </string-array>
     <string name="pref_gallery_slideshow_transition_title" msgid="3235158556228218846">"Efekty pokazu slajdów"</string>
-    <!-- outdated translation 2390320265891546846 -->     <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"Wybierz efekt używany przy przejściu z jednego zdjęcia do kolejnego"</string>
+    <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"Wybierz efekt stosowany podczas przechodzenia między slajdami."</string>
     <string name="pref_gallery_slideshow_transition_dialogtitle" msgid="5483406447721500371">"Efekty pokazu slajdów"</string>
   <string-array name="pref_gallery_slideshow_transition_choices">
     <item msgid="2825716730899894863">"Pojawianie i znikanie"</item>
@@ -107,15 +107,15 @@
     <string name="image_gallery_NoImageView_text" msgid="409595259802877447">"Brak plików"</string>
     <string name="pref_gallery_confirm_delete_title" msgid="642429032687845907">"Potwierdzanie usuwania"</string>
     <string name="pref_gallery_confirm_delete_summary" msgid="5253456492765525245">"Wyświetl potwierdzenie przed usunięciem zdjęcia lub filmu"</string>
-    <!-- outdated translation 6929172123058811834 -->     <string name="no_location_image" msgid="8907867717568887559">"Brak informacji o lokalizacji zapisanych w pliku zdjęcia."</string>
+    <string name="no_location_image" msgid="8907867717568887559">"W pliku zdjęcia nie ma informacji o lokalizacji."</string>
     <string name="details_panel_title" msgid="4753347516759338122">"Szczegóły"</string>
     <string name="details_file_size" msgid="2468878774843246797">"Rozmiar pliku:"</string>
     <string name="details_image_resolution" msgid="8773315928100529437">"Rozdzielczość:"</string>
     <string name="details_image_make" msgid="2888477930210903540">"Producent:"</string>
     <string name="details_image_model" msgid="3608007849933924336">"Model:"</string>
     <string name="details_image_whitebalance" msgid="4412514247882436065">"Balans bieli:"</string>
-    <!-- outdated translation 6701704806314765468 -->     <string name="details_image_latitude" msgid="58222150203989546">"Szerokość geograficzna GPS:"</string>
-    <!-- outdated translation 5583629669864057389 -->     <string name="details_image_longitude" msgid="3792725587390654278">"Długość geograficzna GPS:"</string>
+    <string name="details_image_latitude" msgid="58222150203989546">"Szerokość geograficzna GPS:"</string>
+    <string name="details_image_longitude" msgid="3792725587390654278">"Długość geograficzna GPS:"</string>
     <string name="details_image_location" msgid="6460201074393148978">"Lokalizacja:"</string>
     <string name="details_duration" msgid="1028116471387901402">"Czas trwania:"</string>
     <string name="details_date_taken" msgid="348356840586463178">"Data zrobienia zdjęcia:"</string>
@@ -134,9 +134,9 @@
     <string name="video_context_menu_header" msgid="7318971116949475029">"Opcje wideo"</string>
     <string name="multiface_crop_help" msgid="2554690102655855657">"Dotknij twarzy, aby rozpocząć."</string>
     <string name="photos_gallery_title" msgid="6914406246471015448">"Galeria"</string>
-    <!-- outdated translation 12912682424915943 -->     <string name="pick_photos_gallery_title" msgid="8356086704733473321">"Wybierz zdjęcie"</string>
+    <string name="pick_photos_gallery_title" msgid="8356086704733473321">"Wybierz zdjęcie"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"Galeria"</string>
-    <!-- outdated translation 326727095201227333 -->     <string name="pick_videos_gallery_title" msgid="568436323607491495">"Wybierz film wideo"</string>
+    <string name="pick_videos_gallery_title" msgid="568436323607491495">"Wybierz film"</string>
     <string name="sendImage" msgid="7279510542799399570">"Prześlij zdjęcie następującą drogą:"</string>
     <string name="setImage" msgid="7246975856983303047">"Ustaw zdjęcie jako"</string>
     <string name="sendVideo" msgid="3598567735831863073">"Prześlij film następującą drogą:"</string>
@@ -144,8 +144,7 @@
     <string name="movieviewlabel" msgid="7363495772706775465">"Filmy"</string>
     <string name="loading_video" msgid="4013492720121891585">"Ładowanie filmu..."</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"Wznów film"</string>
-    <!-- no translation found for resume_playing_message (8480340146814638566) -->
-    <skip />
+    <string name="resume_playing_message" msgid="8480340146814638566">"Wznowić odtwarzanie filmu od momentu <xliff:g id="DURATION">%s</xliff:g>?"</string>
     <string name="resume_playing_resume" msgid="3847915469173852416">"Wznów odtwarzanie"</string>
     <string name="resume_playing_restart" msgid="5471008499835769292">"Rozpocznij"</string>
     <string name="gadget_title" msgid="259405922673466798">"Ramka ze zdjęciem"</string>
@@ -154,5 +153,5 @@
     <string name="multiselect_share" msgid="5261644537749253581">"Udostępnij"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"Usuń"</string>
     <string name="multiselect_cancel" msgid="5969428692864002165">"Anuluj"</string>
-    <!-- outdated translation 4504926868037899430 -->     <string name="delete_images_message" msgid="2332683687700452577">"Trwa usuwanie zdjęć, czekaj…"</string>
+    <string name="delete_images_message" msgid="2332683687700452577">"Usuwanie zdjęć..."</string>
 </resources>

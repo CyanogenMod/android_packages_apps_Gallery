@@ -60,9 +60,9 @@
     <string name="camera_attach" msgid="4048659554893435232">"Pripni"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"Prekliči"</string>
     <string name="camera_crop" msgid="5584000454518174632">"Obreži"</string>
-    <string name="no_way_to_share_image" msgid="7980215622010396797">"Ni programa za deljenje slike."</string>
-    <string name="no_way_to_share_video" msgid="4506167265329982928">"Ni programa za deljenje videoposnetka."</string>
-    <string name="no_way_to_share" msgid="5276805314940059662">"Ni programa za deljenje predstavnostnih datotek."</string>
+    <string name="no_way_to_share_image" msgid="7980215622010396797">"Ni programa za skupno rabo slike."</string>
+    <string name="no_way_to_share_video" msgid="4506167265329982928">"Ni programa za skupno rabo videoposnetka."</string>
+    <string name="no_way_to_share" msgid="5276805314940059662">"Ni programa za skupno rabo predstavnostnih datotek."</string>
     <string name="video_play" msgid="5287787282508002895">"Predvajaj"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"Slike"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"Slika za ozadje"</string>

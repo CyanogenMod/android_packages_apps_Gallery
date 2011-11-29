@@ -62,7 +62,7 @@
     <string name="camera_crop" msgid="5584000454518174632">"Recortar"</string>
     <string name="no_way_to_share_image" msgid="7980215622010396797">"No hay aplicaciones disponibles para compartir la imagen."</string>
     <string name="no_way_to_share_video" msgid="4506167265329982928">"No hay aplicaciones disponibles para compartir el video."</string>
-    <string name="no_way_to_share" msgid="5276805314940059662">"No hay aplicaciones disponibles para compartir el(los) archivo(s) multimedia."</string>
+    <string name="no_way_to_share" msgid="5276805314940059662">"No hay aplicaciones disponibles para compartir los archivos multimedia."</string>
     <string name="video_play" msgid="5287787282508002895">"Reproducir"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"Imágenes"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"Papel tapiz"</string>
@@ -91,7 +91,7 @@
     <item msgid="5670078787463530498">"4 segundos"</item>
   </string-array>
     <string name="pref_gallery_slideshow_transition_title" msgid="3235158556228218846">"Transic. de la present."</string>
-    <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"Selecciona el efecto que se debe utilizar para pasar de una diapositiva a otra"</string>
+    <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"Selecciona el efecto que se debe utilizar para pasar de una diapositiva a otra."</string>
     <string name="pref_gallery_slideshow_transition_dialogtitle" msgid="5483406447721500371">"Transición de la present. .de diapositivas"</string>
   <string-array name="pref_gallery_slideshow_transition_choices">
     <item msgid="2825716730899894863">"Fundido de entrada/salida"</item>
@@ -134,7 +134,7 @@
     <string name="video_context_menu_header" msgid="7318971116949475029">"Opciones de video"</string>
     <string name="multiface_crop_help" msgid="2554690102655855657">"Toca una cara para comenzar."</string>
     <string name="photos_gallery_title" msgid="6914406246471015448">"Galería"</string>
-    <string name="pick_photos_gallery_title" msgid="8356086704733473321">"Elige la imagen"</string>
+    <string name="pick_photos_gallery_title" msgid="8356086704733473321">"Elige la imagen."</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"Galería"</string>
     <string name="pick_videos_gallery_title" msgid="568436323607491495">"Elegir video"</string>
     <string name="sendImage" msgid="7279510542799399570">"Compartir imagen mediante"</string>

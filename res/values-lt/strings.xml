@@ -28,8 +28,8 @@
     <string name="view_label" msgid="4450531507947335704">"Žiūrėti paveikslėlį"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Fotoaparato nustatymai"</string>
     <string name="wait" msgid="8600187532323801552">"Palaukite..."</string>
-    <!-- outdated translation 5876548364041592119 -->     <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Prieš naudodami fotokamerą prijunkite USB atmintinę."</string>
-    <!-- outdated translation 5876548364041592119 -->     <string name="no_storage" product="default" msgid="6680362958795677723">"Prieš naudodami fotokamerą prijunkite USB atmintinę."</string>
+    <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Prieš naudodami fotoaparatą įdėkite bendrinamą atmintinę."</string>
+    <string name="no_storage" product="default" msgid="6680362958795677723">"Prieš naudodami fotoaparatą įdėkite SD kortelę."</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Bendrinama atmintinė pilna."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"Jūsų SD kortelė pilna."</string>
     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Ruošiama bendrinama atmintinė..."</string>
@@ -50,9 +50,9 @@
     <string name="crop_save_text" msgid="8140440041190264400">"Išsaugoti"</string>
     <string name="crop_discard_text" msgid="5303657888280340603">"Atmesti"</string>
     <string name="confirm_delete_title" msgid="263478358046514887">"Ištrinti"</string>
-    <!-- outdated translation 4161389939579284604 -->     <string name="confirm_delete_message" msgid="2141726810668595858">"Paveikslėlis bus ištrintas."</string>
-    <!-- outdated translation 5796154324948010221 -->     <string name="confirm_delete_video_message" msgid="800016540763376529">"Vaizdo įrašas bus ištrintas."</string>
-    <!-- outdated translation 5962369828035778779 -->     <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"Šie medijos failai bus ištrinti."</string>
+    <string name="confirm_delete_message" msgid="2141726810668595858">"Ištrinti šią nuotrauką?"</string>
+    <string name="confirm_delete_video_message" msgid="800016540763376529">"Ištrinti šį vaizdo įrašą?"</string>
+    <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"Ištrinti šiuos medijos failus?"</string>
     <string name="camera_toss" msgid="3781186798552460833">"Ištrinti"</string>
     <string name="camera_share" msgid="8207701858325694182">"Bendrinti"</string>
     <string name="camera_set" msgid="3422192914806971182">"Nustatyti kaip"</string>
@@ -60,30 +60,30 @@
     <string name="camera_attach" msgid="4048659554893435232">"Pridėti"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"Atšaukti"</string>
     <string name="camera_crop" msgid="5584000454518174632">"Apkarpyti"</string>
-    <!-- outdated translation 5011985309980187927 -->     <string name="no_way_to_share_image" msgid="7980215622010396797">"Nėra galimos programos bendrinti paveikslėlį."</string>
-    <!-- outdated translation 3684571102267072206 -->     <string name="no_way_to_share_video" msgid="4506167265329982928">"Nėra vaizdo įrašui bendrinti galimos programos."</string>
-    <!-- outdated translation 863323712875014752 -->     <string name="no_way_to_share" msgid="5276805314940059662">"Nėra medijos failui (-ams) bendrinti reikalingos programos."</string>
+    <string name="no_way_to_share_image" msgid="7980215622010396797">"Nėra galimos programos paveikslėliui bendrinti."</string>
+    <string name="no_way_to_share_video" msgid="4506167265329982928">"Nėra galimos programos vaizdo įrašui bendrinti."</string>
+    <string name="no_way_to_share" msgid="5276805314940059662">"Nėra galimos programos medijos failui (-ams) bendrinti."</string>
     <string name="video_play" msgid="5287787282508002895">"Paleisti"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"Paveikslėliai"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"Darbalaukio fonas"</string>
     <string name="pref_gallery_category" msgid="5826488887237959433">"Bendri nustatymai"</string>
     <string name="pref_slideshow_category" msgid="9097962086335681667">"Skaidrių demonstracijos nustatymai"</string>
     <string name="pref_gallery_size_title" msgid="1363406603879434418">"Pateikties dydis"</string>
-    <!-- outdated translation 8179967445295243638 -->     <string name="pref_gallery_size_summary" msgid="7365675768755956361">"Pasirinkite paveikslėlių ir vaizdo įrašų pateikties dydį"</string>
+    <string name="pref_gallery_size_summary" msgid="7365675768755956361">"Pasirinkite paveikslėlių ir vaizdo įrašų pateikties dydį"</string>
     <string name="pref_gallery_size_dialogtitle" msgid="757380558320647503">"Paveikslėlio dydis"</string>
   <string-array name="pref_gallery_size_choices">
     <item msgid="7157691836846678936">"Didelis"</item>
     <item msgid="1033164600689216410">"Mažas"</item>
   </string-array>
     <string name="pref_gallery_sort_title" msgid="7447949250045443386">"Rūšiavimo tvarka"</string>
-    <!-- outdated translation 6644398051645595214 -->     <string name="pref_gallery_sort_summary" msgid="4406174975925645225">"Pasirinkti paveikslėlių ir vaizdo įrašų rūšiavimo tvarką"</string>
+    <string name="pref_gallery_sort_summary" msgid="4406174975925645225">"Pasirinkite paveikslėlių ir vaizdo įrašų rūšiavimo tvarką"</string>
     <string name="pref_gallery_sort_dialogtitle" msgid="5787417105532562739">"Paveikslėlių rūšiavimas"</string>
   <string-array name="pref_gallery_sort_choices">
     <item msgid="5546009539334018063">"Pirmiausia naujausias"</item>
     <item msgid="7931283047572866748">"Naujausias paskutinis"</item>
   </string-array>
     <string name="pref_gallery_slideshow_interval_title" msgid="6534904787962619832">"Skaidrių demonstracijos intervalas"</string>
-    <!-- outdated translation 329876327077905033 -->     <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"Pasirinkite, kiek laiko bus rodoma kiekviena peržiūros skaidrė"</string>
+    <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"Pasirinkite, kiek laiko bus rodoma kiekviena peržiūros skaidrė"</string>
     <string name="pref_gallery_slideshow_interval_dialogtitle" msgid="6775543119826248900">"Skaidrių demonstracijos intervalas"</string>
   <string-array name="pref_gallery_slideshow_interval_choices">
     <item msgid="3089037742117543119">"2 sek."</item>
@@ -91,7 +91,7 @@
     <item msgid="5670078787463530498">"4 sek."</item>
   </string-array>
     <string name="pref_gallery_slideshow_transition_title" msgid="3235158556228218846">"Skaidrių demonstracijos perėjimas"</string>
-    <!-- outdated translation 2390320265891546846 -->     <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"Pasirinkti efektą, kuris bus naudojamas pereinant iš vienos skaidrės į kitą"</string>
+    <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"Pasirinkite efektą, kuris bus naudojamas pereinant iš vienos skaidrės į kitą"</string>
     <string name="pref_gallery_slideshow_transition_dialogtitle" msgid="5483406447721500371">"Skaidrių demonstracijos perėjimas"</string>
   <string-array name="pref_gallery_slideshow_transition_choices">
     <item msgid="2825716730899894863">"Pamažu išryškėti ir išnykti"</item>
@@ -107,15 +107,15 @@
     <string name="image_gallery_NoImageView_text" msgid="409595259802877447">"Nerasta medijos."</string>
     <string name="pref_gallery_confirm_delete_title" msgid="642429032687845907">"Patvirtinti ištrynimus"</string>
     <string name="pref_gallery_confirm_delete_summary" msgid="5253456492765525245">"Prieš ištrinant paveikslėlį ar vaizdo įrašą rodyti patvirtinimą"</string>
-    <!-- outdated translation 6929172123058811834 -->     <string name="no_location_image" msgid="8907867717568887559">"Šiame vaizde nėra vietos informacijos."</string>
+    <string name="no_location_image" msgid="8907867717568887559">"Šiame vaizde nesaugoma jokia vietos informacija."</string>
     <string name="details_panel_title" msgid="4753347516759338122">"Išsami informacija"</string>
     <string name="details_file_size" msgid="2468878774843246797">"Failo dydis:"</string>
     <string name="details_image_resolution" msgid="8773315928100529437">"Skyra:"</string>
     <string name="details_image_make" msgid="2888477930210903540">"Gamintojas:"</string>
     <string name="details_image_model" msgid="3608007849933924336">"Modelis:"</string>
     <string name="details_image_whitebalance" msgid="4412514247882436065">"Baltos spalvos balansas:"</string>
-    <!-- outdated translation 6701704806314765468 -->     <string name="details_image_latitude" msgid="58222150203989546">"GPS platuma:"</string>
-    <!-- outdated translation 5583629669864057389 -->     <string name="details_image_longitude" msgid="3792725587390654278">"GPS ilguma:"</string>
+    <string name="details_image_latitude" msgid="58222150203989546">"GPS platuma:"</string>
+    <string name="details_image_longitude" msgid="3792725587390654278">"GPS ilguma:"</string>
     <string name="details_image_location" msgid="6460201074393148978">"Vieta:"</string>
     <string name="details_duration" msgid="1028116471387901402">"Trukmė:"</string>
     <string name="details_date_taken" msgid="348356840586463178">"Fotografavimo data:"</string>
@@ -134,9 +134,9 @@
     <string name="video_context_menu_header" msgid="7318971116949475029">"Vaizdo įrašo parinktys"</string>
     <string name="multiface_crop_help" msgid="2554690102655855657">"Jei norite pradėti, palieskite veidą."</string>
     <string name="photos_gallery_title" msgid="6914406246471015448">"Galerija"</string>
-    <!-- outdated translation 12912682424915943 -->     <string name="pick_photos_gallery_title" msgid="8356086704733473321">"Pasirinkti paveikslėlį"</string>
+    <string name="pick_photos_gallery_title" msgid="8356086704733473321">"Pasirinkite paveikslėlį"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"Galerija"</string>
-    <!-- outdated translation 326727095201227333 -->     <string name="pick_videos_gallery_title" msgid="568436323607491495">"Pasirinkti vaizdo įrašą"</string>
+    <string name="pick_videos_gallery_title" msgid="568436323607491495">"Pasirinkti vaizdo įrašą"</string>
     <string name="sendImage" msgid="7279510542799399570">"Bendrinti paveikslėlį naudojant"</string>
     <string name="setImage" msgid="7246975856983303047">"Nustatyti paveikslėlį kaip"</string>
     <string name="sendVideo" msgid="3598567735831863073">"Bendrinti vaizdo įrašą naudojant"</string>
@@ -144,8 +144,7 @@
     <string name="movieviewlabel" msgid="7363495772706775465">"Filmai"</string>
     <string name="loading_video" msgid="4013492720121891585">"Įkeliamas vaizdo įrašas..."</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"Atnaujinti vaizdo įrašą"</string>
-    <!-- no translation found for resume_playing_message (8480340146814638566) -->
-    <skip />
+    <string name="resume_playing_message" msgid="8480340146814638566">"Atnaujinti vaizdo įrašo leidimą nuo <xliff:g id="DURATION">%s</xliff:g>?"</string>
     <string name="resume_playing_resume" msgid="3847915469173852416">"Atnaujinti grojimą"</string>
     <string name="resume_playing_restart" msgid="5471008499835769292">"Pradėti iš naujo"</string>
     <string name="gadget_title" msgid="259405922673466798">"Paveikslėlio rėmelis"</string>
@@ -154,5 +153,5 @@
     <string name="multiselect_share" msgid="5261644537749253581">"Bendrinti"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"Ištrinti"</string>
     <string name="multiselect_cancel" msgid="5969428692864002165">"Atšaukti"</string>
-    <!-- outdated translation 4504926868037899430 -->     <string name="delete_images_message" msgid="2332683687700452577">"Trinami vaizdai, palaukite..."</string>
+    <string name="delete_images_message" msgid="2332683687700452577">"Trinami vaizdai..."</string>
 </resources>

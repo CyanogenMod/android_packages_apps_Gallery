@@ -28,8 +28,8 @@
     <string name="view_label" msgid="4450531507947335704">"चित्र देखें"</string>
     <string name="preferences_label" msgid="5955678162525051163">"कैमरा सेटिंग"</string>
     <string name="wait" msgid="8600187532323801552">"कृपया प्रतीक्षा करें..."</string>
-    <!-- outdated translation 5876548364041592119 -->     <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"कृपया कैमरे का उपयोग करने से पहले USB संग्रहण माउंट करें."</string>
-    <!-- outdated translation 5876548364041592119 -->     <string name="no_storage" product="default" msgid="6680362958795677723">"कृपया कैमरे का उपयोग करने से पहले USB संग्रहण माउंट करें."</string>
+    <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"आपको कैमरे का उपयोग करने से पहले साझा संग्रहण को माउंट करना होगा."</string>
+    <string name="no_storage" product="default" msgid="6680362958795677723">"आपको कैमरे का उपयोग करने से पहले SD कार्ड डालना होगा."</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"आपका शेयर किया गया संग्रहण पूरा भरा हुआ है."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"आपका SD कार्ड भरा हुआ है."</string>
     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"शेयर किया गया संग्रहण तैयार कर रहा है…"</string>
@@ -48,11 +48,11 @@
     <string name="capture_picture" msgid="4114265595549284643">"चित्र कैप्चर करें"</string>
     <string name="capture_video" msgid="4047046282358697155">"वीडियो कैप्चर करें"</string>
     <string name="crop_save_text" msgid="8140440041190264400">"सहेजें"</string>
-    <string name="crop_discard_text" msgid="5303657888280340603">"छोड़ें"</string>
+    <string name="crop_discard_text" msgid="5303657888280340603">"छोड़ें"</string>
     <string name="confirm_delete_title" msgid="263478358046514887">"हटाएं"</string>
-    <!-- outdated translation 4161389939579284604 -->     <string name="confirm_delete_message" msgid="2141726810668595858">"चित्र हटाया जाएगा."</string>
-    <!-- outdated translation 5796154324948010221 -->     <string name="confirm_delete_video_message" msgid="800016540763376529">"वीडियो हटाया जाएगा."</string>
-    <!-- outdated translation 5962369828035778779 -->     <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"ये मीडिया फ़ाइलें हटा दी जाएंगी."</string>
+    <string name="confirm_delete_message" msgid="2141726810668595858">"यह चित्र हटाएं?"</string>
+    <string name="confirm_delete_video_message" msgid="800016540763376529">"यह वीडियो हटाएं?"</string>
+    <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"इन मीडिया फ़ाइलों को हटाएं?"</string>
     <string name="camera_toss" msgid="3781186798552460833">"हटाएं"</string>
     <string name="camera_share" msgid="8207701858325694182">"शेयर करें"</string>
     <string name="camera_set" msgid="3422192914806971182">"इस रूप में सेट करें"</string>
@@ -60,30 +60,30 @@
     <string name="camera_attach" msgid="4048659554893435232">"अनुलग्न करें"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"रद्द करें"</string>
     <string name="camera_crop" msgid="5584000454518174632">"काटें"</string>
-    <!-- outdated translation 5011985309980187927 -->     <string name="no_way_to_share_image" msgid="7980215622010396797">"चित्र शेयर करने के लिए कोई एप्लिकेशन उपलब्ध नहीं है."</string>
-    <!-- outdated translation 3684571102267072206 -->     <string name="no_way_to_share_video" msgid="4506167265329982928">"वीडियो शेयर करने के लिए कोई एप्लिकेशन उपलब्ध नहीं है."</string>
-    <!-- outdated translation 863323712875014752 -->     <string name="no_way_to_share" msgid="5276805314940059662">"मीडिया फ़ाइल (फ़ाइलें) शेयर करने के लिए कोई एप्लिकेशन उपलब्ध नहीं है."</string>
+    <string name="no_way_to_share_image" msgid="7980215622010396797">"चित्र साझा करने के लिए कोई एप्‍लिकेशन उपलब्‍ध नहीं है."</string>
+    <string name="no_way_to_share_video" msgid="4506167265329982928">"वीडियो को साझा करने के लिए कोई एप्‍लिकेशन उपलब्‍ध नहीं है."</string>
+    <string name="no_way_to_share" msgid="5276805314940059662">"मीडिया फ़ाइल (फ़ाइलों) को साझा करने के लिए कोई एप्‍लिकेशन उपलब्‍ध नहीं हैं."</string>
     <string name="video_play" msgid="5287787282508002895">"चलाएं"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"चित्र"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"वॉलपेपर"</string>
     <string name="pref_gallery_category" msgid="5826488887237959433">"सामान्य सेटिंग"</string>
     <string name="pref_slideshow_category" msgid="9097962086335681667">"स्लाइडशो सेटिंग"</string>
     <string name="pref_gallery_size_title" msgid="1363406603879434418">"प्रदर्शन आकार"</string>
-    <!-- outdated translation 8179967445295243638 -->     <string name="pref_gallery_size_summary" msgid="7365675768755956361">"चित्र और वीडियो के प्रदर्शन आकार का चयन करें"</string>
+    <string name="pref_gallery_size_summary" msgid="7365675768755956361">"चित्र और वीडियो का प्रदर्शन आकार चुनें"</string>
     <string name="pref_gallery_size_dialogtitle" msgid="757380558320647503">"चित्र आकार"</string>
   <string-array name="pref_gallery_size_choices">
     <item msgid="7157691836846678936">"बड़ा"</item>
     <item msgid="1033164600689216410">"छोटा"</item>
   </string-array>
     <string name="pref_gallery_sort_title" msgid="7447949250045443386">"क्रमित करने का क्रम"</string>
-    <!-- outdated translation 6644398051645595214 -->     <string name="pref_gallery_sort_summary" msgid="4406174975925645225">"चित्रों और वीडियो को क्रमित करने के क्रम का चयन करें"</string>
+    <string name="pref_gallery_sort_summary" msgid="4406174975925645225">"चित्रों और वीडियो को क्रमित करने का क्रम चुनें"</string>
     <string name="pref_gallery_sort_dialogtitle" msgid="5787417105532562739">"चित्र क्रमित करें"</string>
   <string-array name="pref_gallery_sort_choices">
     <item msgid="5546009539334018063">"नवीनतम सबसे पहले"</item>
     <item msgid="7931283047572866748">"नवीनतम अंत में"</item>
   </string-array>
     <string name="pref_gallery_slideshow_interval_title" msgid="6534904787962619832">"स्लाइडशो अंतराल"</string>
-    <!-- outdated translation 329876327077905033 -->     <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"चयन करें कि शो में हर स्लाइड कितने समय तक प्रदर्शित हो"</string>
+    <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"चुनें कि शो में प्रत्येक स्लाइड कितने समय तक प्रदर्शित हो"</string>
     <string name="pref_gallery_slideshow_interval_dialogtitle" msgid="6775543119826248900">"स्लाइडशो अंतराल"</string>
   <string-array name="pref_gallery_slideshow_interval_choices">
     <item msgid="3089037742117543119">"2 सेकंड"</item>
@@ -91,7 +91,7 @@
     <item msgid="5670078787463530498">"4 सेकंड"</item>
   </string-array>
     <string name="pref_gallery_slideshow_transition_title" msgid="3235158556228218846">"स्लाइडशो संक्रमण"</string>
-    <!-- outdated translation 2390320265891546846 -->     <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"एक स्लाइड से अगली पर ले जाने पर उपयोग किया जाने वाले प्रभाव का चयन करें"</string>
+    <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"एक स्लाइड से अगली पर ले जाने पर उपयोग किया जाने वाले प्रभाव चुनें"</string>
     <string name="pref_gallery_slideshow_transition_dialogtitle" msgid="5483406447721500371">"स्लाइडशो संक्रमण"</string>
   <string-array name="pref_gallery_slideshow_transition_choices">
     <item msgid="2825716730899894863">"फ़ेड इन और आउट करें"</item>
@@ -107,15 +107,15 @@
     <string name="image_gallery_NoImageView_text" msgid="409595259802877447">"कोई मीडिया नहीं मिला."</string>
     <string name="pref_gallery_confirm_delete_title" msgid="642429032687845907">"हटाने की पुष्टि करें"</string>
     <string name="pref_gallery_confirm_delete_summary" msgid="5253456492765525245">"कोई चित्र या वीडियो हटाने से पहले पुष्टिकरण दिखाएं"</string>
-    <!-- outdated translation 6929172123058811834 -->     <string name="no_location_image" msgid="8907867717568887559">"इस छवि में कोई स्थान जानकारी नहीं."</string>
+    <string name="no_location_image" msgid="8907867717568887559">"इस छवि में कोई स्‍थान जानकारी संग्रहीत नहीं है."</string>
     <string name="details_panel_title" msgid="4753347516759338122">"विवरण"</string>
     <string name="details_file_size" msgid="2468878774843246797">"फ़ाइल आकार:"</string>
     <string name="details_image_resolution" msgid="8773315928100529437">"रिज़ॉल्यूशन:"</string>
     <string name="details_image_make" msgid="2888477930210903540">"निर्माता:"</string>
     <string name="details_image_model" msgid="3608007849933924336">"मॉडल:"</string>
     <string name="details_image_whitebalance" msgid="4412514247882436065">"श्वेत संतुलन:"</string>
-    <!-- outdated translation 6701704806314765468 -->     <string name="details_image_latitude" msgid="58222150203989546">"GPS अक्षांश:"</string>
-    <!-- outdated translation 5583629669864057389 -->     <string name="details_image_longitude" msgid="3792725587390654278">"GPS देशांतर:"</string>
+    <string name="details_image_latitude" msgid="58222150203989546">"GPS अक्षांश:"</string>
+    <string name="details_image_longitude" msgid="3792725587390654278">"GPS देशांतर:"</string>
     <string name="details_image_location" msgid="6460201074393148978">"स्थान:"</string>
     <string name="details_duration" msgid="1028116471387901402">"अवधि:"</string>
     <string name="details_date_taken" msgid="348356840586463178">"लेने का दिनांक:"</string>
@@ -134,9 +134,9 @@
     <string name="video_context_menu_header" msgid="7318971116949475029">"वीडियो विकल्प"</string>
     <string name="multiface_crop_help" msgid="2554690102655855657">"शुरू करने के लिए कोई चेहरा स्‍पर्श करें."</string>
     <string name="photos_gallery_title" msgid="6914406246471015448">"गैलरी"</string>
-    <!-- outdated translation 12912682424915943 -->     <string name="pick_photos_gallery_title" msgid="8356086704733473321">"चित्र का चयन करें"</string>
+    <string name="pick_photos_gallery_title" msgid="8356086704733473321">"चित्र चुनें"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"गैलरी"</string>
-    <!-- outdated translation 326727095201227333 -->     <string name="pick_videos_gallery_title" msgid="568436323607491495">"वीडियो चयन करें"</string>
+    <string name="pick_videos_gallery_title" msgid="568436323607491495">"वीडियो चुनें"</string>
     <string name="sendImage" msgid="7279510542799399570">"इसके द्वारा चित्र शेयर करें"</string>
     <string name="setImage" msgid="7246975856983303047">"चित्र इस रूप में सेट करें"</string>
     <string name="sendVideo" msgid="3598567735831863073">"इसके द्वारा वीडियो शेयर करें"</string>
@@ -144,8 +144,7 @@
     <string name="movieviewlabel" msgid="7363495772706775465">"फिल्में"</string>
     <string name="loading_video" msgid="4013492720121891585">"वीडियो लोड हो रहा है..."</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"वीडियो फिर से शुरू करें"</string>
-    <!-- no translation found for resume_playing_message (8480340146814638566) -->
-    <skip />
+    <string name="resume_playing_message" msgid="8480340146814638566">"<xliff:g id="DURATION">%s</xliff:g> से वीडियो चलाना फिर से शुरू करें?"</string>
     <string name="resume_playing_resume" msgid="3847915469173852416">"चलाना फिर से शुरू करें"</string>
     <string name="resume_playing_restart" msgid="5471008499835769292">"पुन: प्रारंभ करें"</string>
     <string name="gadget_title" msgid="259405922673466798">"चित्र फ़्रेम"</string>
@@ -154,5 +153,5 @@
     <string name="multiselect_share" msgid="5261644537749253581">"शेयर करें"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"हटाएं"</string>
     <string name="multiselect_cancel" msgid="5969428692864002165">"रद्द करें"</string>
-    <!-- outdated translation 4504926868037899430 -->     <string name="delete_images_message" msgid="2332683687700452577">"छवियां हटा रहा है, कृपया प्रतीक्षा करें…"</string>
+    <string name="delete_images_message" msgid="2332683687700452577">"छवियां हटा रहा है…"</string>
 </resources>

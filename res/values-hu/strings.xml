@@ -115,7 +115,7 @@
     <string name="details_image_model" msgid="3608007849933924336">"Modell:"</string>
     <string name="details_image_whitebalance" msgid="4412514247882436065">"Fehéregyensúly:"</string>
     <string name="details_image_latitude" msgid="58222150203989546">"GPS szélességi fok:"</string>
-    <string name="details_image_longitude" msgid="3792725587390654278">"GPS hosszúsági kör:"</string>
+    <string name="details_image_longitude" msgid="3792725587390654278">"GPS hosszúsági fok:"</string>
     <string name="details_image_location" msgid="6460201074393148978">"Hely:"</string>
     <string name="details_duration" msgid="1028116471387901402">"Időtartam:"</string>
     <string name="details_date_taken" msgid="348356840586463178">"Felvétel dátuma:"</string>
