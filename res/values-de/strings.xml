@@ -60,9 +60,9 @@
     <string name="camera_attach" msgid="4048659554893435232">"Anhängen"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"Abbrechen"</string>
     <string name="camera_crop" msgid="5584000454518174632">"Zuschneiden"</string>
-    <string name="no_way_to_share_image" msgid="5011985309980187927">"Keine Anwendung zum Teilen des Bildes verfügbar"</string>
-    <string name="no_way_to_share_video" msgid="3684571102267072206">"Keine Anwendung zum Teilen des Videos verfügbar"</string>
-    <string name="no_way_to_share" msgid="863323712875014752">"Keine Anwendung zum Teilen der Mediendatei(en) verfügbar"</string>
+    <string name="no_way_to_share_image" msgid="5011985309980187927">"Keine App zum Teilen des Bildes verfügbar"</string>
+    <string name="no_way_to_share_video" msgid="3684571102267072206">"Keine App zum Teilen des Videos verfügbar"</string>
+    <string name="no_way_to_share" msgid="863323712875014752">"Keine App zum Teilen der Mediendatei(en) verfügbar"</string>
     <string name="video_play" msgid="5287787282508002895">"Wiedergeben"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"Bilder"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"Hintergrund"</string>
@@ -127,7 +127,7 @@
     <string name="details_ms" msgid="7574063760642857397">"<xliff:g id="MINUTES">%1$02d</xliff:g>:<xliff:g id="SECONDS">%2$02d</xliff:g>"</string>
     <string name="details_hms" msgid="772340067838331166">"<xliff:g id="HOURS">%1$d</xliff:g>:<xliff:g id="MINUTES">%2$02d</xliff:g>:<xliff:g id="SECONDS">%3$02d</xliff:g>"</string>
     <string name="details_fps" msgid="5450871169477340537">"<xliff:g id="FRAMES">%1$d</xliff:g> fps"</string>
-    <string name="details_kbps" msgid="1515369011744784592">"<xliff:g id="SPEED">%1$d</xliff:g> Kbit/s"</string>
+    <string name="details_kbps" msgid="1515369011744784592">"<xliff:g id="SPEED">%1$d</xliff:g> kbit/s"</string>
     <string name="details_mbps" msgid="3291428849607323284">"<xliff:g id="SPEED">%1$g</xliff:g> Mbit/s"</string>
     <string name="details_ok" msgid="6848594369924424312">"OK"</string>
     <string name="context_menu_header" msgid="1185348426222302182">"Bildoptionen"</string>
