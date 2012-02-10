@@ -28,11 +28,14 @@
     <string name="view_label" msgid="4450531507947335704">"Mussar il maletg"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Parameters da la camera"</string>
     <string name="wait" msgid="8600187532323801552">"Spetgar..."</string>
-    <!-- outdated translation 820691042667338625 -->     <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Inseri per plaschair ina carta SD avant che utilisar la camera."</string>
+    <!-- no translation found for no_storage (852782056902429852) -->
+    <skip />
     <string name="no_storage" product="default" msgid="820691042667338625">"Inseri per plaschair ina carta SD avant che utilisar la camera."</string>
-    <!-- outdated translation 6655334407957844653 -->     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Vossa carta SD è plaina."</string>
+    <!-- no translation found for not_enough_space (7966388882416357252) -->
+    <skip />
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"Vossa carta SD è plaina."</string>
-    <!-- outdated translation 2914969119574812666 -->     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Preparar la carta SD..."</string>
+    <!-- no translation found for preparing_sd (183917364005592061) -->
+    <skip />
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"Preparar la carta SD..."</string>
     <string name="wallpaper" msgid="9222901738515471972">"La culissa vegn configurada. Spetgai per plaschair..."</string>
     <string name="savingImage" msgid="3051745378545909260">"Memorisar il maletg..."</string>
