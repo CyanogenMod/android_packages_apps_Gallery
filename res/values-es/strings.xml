@@ -120,7 +120,7 @@
     <string name="details_duration" msgid="1028116471387901402">"Duración:"</string>
     <string name="details_date_taken" msgid="348356840586463178">"Fecha de realización:"</string>
     <string name="details_frame_rate" msgid="122397836963498191">"Frecuencia de imagen:"</string>
-    <string name="details_bit_rate" msgid="5632311789455402186">"Velocidad binaria:"</string>
+    <string name="details_bit_rate" msgid="5632311789455402186">"Tasa de bits:"</string>
     <string name="details_codec" msgid="5580300450432398126">"Códec:"</string>
     <string name="details_format" msgid="3700860266600796363">"Formato:"</string>
     <string name="details_dimension_x" msgid="4923037334136168978">"<xliff:g id="WIDTH">%1$d</xliff:g> x <xliff:g id="HEIGHT">%2$d</xliff:g>"</string>
