@@ -27,7 +27,7 @@
     <string name="crop_label" msgid="521114301871349328">"Beskær billede"</string>
     <string name="view_label" msgid="4450531507947335704">"Vis billede"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Indstillinger for kamera"</string>
-    <string name="wait" msgid="8600187532323801552">"Vent ..."</string>
+    <string name="wait" msgid="8600187532323801552">"Vent..."</string>
     <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Du skal montere det delte lager, før du kan bruge kameraet."</string>
     <string name="no_storage" product="default" msgid="6680362958795677723">"Du skal indsætte et SD-kort, før du kan bruge kameraet."</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Din delte hukommelse er fuld."</string>
@@ -36,7 +36,7 @@
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"Forbereder SD-kort ..."</string>
     <string name="wallpaper" msgid="140165383777262070">"Angiver baggrund..."</string>
     <string name="savingImage" msgid="3051745378545909260">"Gemmer billede..."</string>
-    <string name="runningFaceDetection" msgid="2293932204708167704">"Vent ..."</string>
+    <string name="runningFaceDetection" msgid="2293932204708167704">"Vent..."</string>
     <string name="view" msgid="6277795271119411881">"Vis"</string>
     <string name="details" msgid="8415120088556445230">"Detaljer"</string>
     <string name="show_on_map" msgid="441725587731006228">"Vis i Maps"</string>
