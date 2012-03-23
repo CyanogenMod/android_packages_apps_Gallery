@@ -60,9 +60,9 @@
     <string name="camera_attach" msgid="4048659554893435232">"附件"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"取消"</string>
     <string name="camera_crop" msgid="5584000454518174632">"修剪"</string>
-    <string name="no_way_to_share_image" msgid="7980215622010396797">"没有任何可用于分享照片的应用程序。"</string>
-    <string name="no_way_to_share_video" msgid="4506167265329982928">"没有任何可用于分享视频的应用程序。"</string>
-    <string name="no_way_to_share" msgid="5276805314940059662">"没有任何可用于分享媒体文件的应用程序。"</string>
+    <string name="no_way_to_share_image" msgid="7980215622010396797">"没有任何可用于分享照片的应用。"</string>
+    <string name="no_way_to_share_video" msgid="4506167265329982928">"没有任何可用于分享视频的应用。"</string>
+    <string name="no_way_to_share" msgid="5276805314940059662">"没有任何可用于分享媒体文件的应用。"</string>
     <string name="video_play" msgid="5287787282508002895">"播放"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"照片"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"壁纸"</string>
