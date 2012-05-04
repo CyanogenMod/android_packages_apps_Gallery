@@ -119,7 +119,7 @@
     <string name="details_image_location" msgid="6460201074393148978">"Poloha:"</string>
     <string name="details_duration" msgid="1028116471387901402">"Délka:"</string>
     <string name="details_date_taken" msgid="348356840586463178">"Datum pořízení:"</string>
-    <string name="details_frame_rate" msgid="122397836963498191">"Počet snímků za sekundu:"</string>
+    <string name="details_frame_rate" msgid="122397836963498191">"Snímky za sekundu:"</string>
     <string name="details_bit_rate" msgid="5632311789455402186">"Bitová rychlost:"</string>
     <string name="details_codec" msgid="5580300450432398126">"Kodek:"</string>
     <string name="details_format" msgid="3700860266600796363">"Formát:"</string>
