@@ -45,7 +45,7 @@
     <string name="rotate_right" msgid="6776325835923384839">"Otočit doprava"</string>
     <string name="slide_show" msgid="1965192737233824143">"Prezentace"</string>
     <string name="multiselect" msgid="4761682939945434146">"Režim Multiselect"</string>
-    <string name="capture_picture" msgid="4114265595549284643">"Fotografovat"</string>
+    <string name="capture_picture" msgid="4114265595549284643">"Pořídit fotku"</string>
     <string name="capture_video" msgid="4047046282358697155">"Natočit video"</string>
     <string name="crop_save_text" msgid="8140440041190264400">"Uložit"</string>
     <string name="crop_discard_text" msgid="5303657888280340603">"Zahodit"</string>
