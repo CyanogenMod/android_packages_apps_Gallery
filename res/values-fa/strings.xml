@@ -16,7 +16,7 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="all_images" msgid="1195501551939178807">"همه عکس ها"</string>
+    <string name="all_images" msgid="1195501551939178807">"همه عکس‌ها"</string>
     <string name="all_videos" msgid="3380966619230896013">"همه ویدیوها"</string>
     <string name="camera_label" msgid="6346560772074764302">"دوربین"</string>
     <string name="gallery_picker_label" msgid="3080425245006492787">"گالری"</string>
