@@ -104,7 +104,7 @@
     <string name="pref_gallery_slideshow_shuffle_title" msgid="3677508579783015598">"ترتیب تصادفی اسلایدها"</string>
     <string name="pref_gallery_slideshow_shuffle_summary" msgid="8566948749149325715">"نمایش تصاویر به ترتیب تصادفی"</string>
     <string name="camerasettings" msgid="2433519618178453928">"تنظیمات"</string>
-    <string name="image_gallery_NoImageView_text" msgid="409595259802877447">"رسانه ای یافت نشد."</string>
+    <string name="image_gallery_NoImageView_text" msgid="409595259802877447">"رسانه‌ای یافت نشد."</string>
     <string name="pref_gallery_confirm_delete_title" msgid="642429032687845907">"تأیید حذف ها"</string>
     <string name="pref_gallery_confirm_delete_summary" msgid="5253456492765525245">"نمایش پیکربندی قبل از حذف یک تصویر یا ویدئو"</string>
     <string name="no_location_image" msgid="8907867717568887559">"هیچ اطلاعات محل ذخیره شده‌ای در این تصویر وجود ندارد."</string>
