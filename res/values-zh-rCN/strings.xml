@@ -134,7 +134,7 @@
     <string name="video_context_menu_header" msgid="7318971116949475029">"视频选项"</string>
     <string name="multiface_crop_help" msgid="2554690102655855657">"触摸一张脸开始裁剪。"</string>
     <string name="photos_gallery_title" msgid="6914406246471015448">"图库"</string>
-    <string name="pick_photos_gallery_title" msgid="8356086704733473321">"选择照片"</string>
+    <string name="pick_photos_gallery_title" msgid="8356086704733473321">"选择图片"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"图库"</string>
     <string name="pick_videos_gallery_title" msgid="568436323607491495">"选择视频"</string>
     <string name="sendImage" msgid="7279510542799399570">"照片分享方式"</string>

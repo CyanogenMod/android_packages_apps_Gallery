@@ -45,7 +45,7 @@
     <string name="rotate_right" msgid="6776325835923384839">"Otočit doprava"</string>
     <string name="slide_show" msgid="1965192737233824143">"Prezentace"</string>
     <string name="multiselect" msgid="4761682939945434146">"Režim Multiselect"</string>
-    <string name="capture_picture" msgid="4114265595549284643">"Fotografovat"</string>
+    <string name="capture_picture" msgid="4114265595549284643">"Pořídit fotku"</string>
     <string name="capture_video" msgid="4047046282358697155">"Natočit video"</string>
     <string name="crop_save_text" msgid="8140440041190264400">"Uložit"</string>
     <string name="crop_discard_text" msgid="5303657888280340603">"Zahodit"</string>
@@ -119,7 +119,7 @@
     <string name="details_image_location" msgid="6460201074393148978">"Poloha:"</string>
     <string name="details_duration" msgid="1028116471387901402">"Délka:"</string>
     <string name="details_date_taken" msgid="348356840586463178">"Datum pořízení:"</string>
-    <string name="details_frame_rate" msgid="122397836963498191">"Počet snímků za sekundu:"</string>
+    <string name="details_frame_rate" msgid="122397836963498191">"Snímky za sekundu:"</string>
     <string name="details_bit_rate" msgid="5632311789455402186">"Bitová rychlost:"</string>
     <string name="details_codec" msgid="5580300450432398126">"Kodek:"</string>
     <string name="details_format" msgid="3700860266600796363">"Formát:"</string>
@@ -134,11 +134,11 @@
     <string name="video_context_menu_header" msgid="7318971116949475029">"Možnosti videa"</string>
     <string name="multiface_crop_help" msgid="2554690102655855657">"Začněte klepnutím na obličej."</string>
     <string name="photos_gallery_title" msgid="6914406246471015448">"Galerie"</string>
-    <string name="pick_photos_gallery_title" msgid="8356086704733473321">"Vyberte obrázek"</string>
+    <string name="pick_photos_gallery_title" msgid="8356086704733473321">"Vybrat obrázek"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"Galerie"</string>
     <string name="pick_videos_gallery_title" msgid="568436323607491495">"Výběr videa"</string>
     <string name="sendImage" msgid="7279510542799399570">"Sdílet fotografii pomocí"</string>
-    <string name="setImage" msgid="7246975856983303047">"Fotografie bude použita jako"</string>
+    <string name="setImage" msgid="7246975856983303047">"Nastavit fotografii jako"</string>
     <string name="sendVideo" msgid="3598567735831863073">"Sdílet video pomocí"</string>
     <string name="send_media_files" msgid="8201083279723850611">"Sdílení souborů médií pomocí"</string>
     <string name="movieviewlabel" msgid="7363495772706775465">"Filmy"</string>
