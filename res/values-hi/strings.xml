@@ -44,7 +44,7 @@
     <string name="rotate_left" msgid="5888273317282539839">"बाएं घुमाएं"</string>
     <string name="rotate_right" msgid="6776325835923384839">"दाएं घुमाएं"</string>
     <string name="slide_show" msgid="1965192737233824143">"स्लाइडशो"</string>
-    <string name="multiselect" msgid="4761682939945434146">"एकाधिक चयन करें"</string>
+    <string name="multiselect" msgid="4761682939945434146">"एकाधिक चुनें"</string>
     <string name="capture_picture" msgid="4114265595549284643">"चित्र कैप्चर करें"</string>
     <string name="capture_video" msgid="4047046282358697155">"वीडियो कैप्चर करें"</string>
     <string name="crop_save_text" msgid="8140440041190264400">"सहेजें"</string>
