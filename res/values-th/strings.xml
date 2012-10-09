@@ -18,7 +18,7 @@
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="all_images" msgid="1195501551939178807">"ภาพทั้งหมด"</string>
     <string name="all_videos" msgid="3380966619230896013">"วิดีโอทั้งหมด"</string>
-    <string name="camera_label" msgid="6346560772074764302">"กล้อง\nถ่ายรูป"</string>
+    <string name="camera_label" msgid="6346560772074764302">"กล้อง"</string>
     <string name="gallery_picker_label" msgid="3080425245006492787">"แกลเลอรี"</string>
     <string name="gallery_label" msgid="7119609703856708011">"แกลเลอรี"</string>
     <string name="gallery_camera_bucket_name" msgid="2924618424339240831">"ภาพจากกล้องถ่ายรูป"</string>

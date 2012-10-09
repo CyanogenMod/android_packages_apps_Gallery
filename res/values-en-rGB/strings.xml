@@ -141,7 +141,7 @@
     <string name="setImage" msgid="7246975856983303047">"Set picture as"</string>
     <string name="sendVideo" msgid="3598567735831863073">"Share video via"</string>
     <string name="send_media_files" msgid="8201083279723850611">"Share media files via"</string>
-    <string name="movieviewlabel" msgid="7363495772706775465">"Films"</string>
+    <string name="movieviewlabel" msgid="7363495772706775465">"Movies"</string>
     <string name="loading_video" msgid="4013492720121891585">"Loading video…"</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"Resume video"</string>
     <string name="resume_playing_message" msgid="8480340146814638566">"Resume playing video from <xliff:g id="DURATION">%s</xliff:g>?"</string>
