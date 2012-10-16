@@ -54,7 +54,7 @@
     <string name="confirm_delete_video_message" msgid="800016540763376529">"यह वीडियो हटाएं?"</string>
     <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"इन मीडिया फ़ाइलों को हटाएं?"</string>
     <string name="camera_toss" msgid="3781186798552460833">"हटाएं"</string>
-    <string name="camera_share" msgid="8207701858325694182">"शेयर करें"</string>
+    <string name="camera_share" msgid="8207701858325694182">"साझा करें"</string>
     <string name="camera_set" msgid="3422192914806971182">"इस रूप में सेट करें"</string>
     <string name="camera_play" msgid="8248000517869959980">"चलाएं"</string>
     <string name="camera_attach" msgid="4048659554893435232">"अनुलग्न करें"</string>
@@ -137,10 +137,10 @@
     <string name="pick_photos_gallery_title" msgid="8356086704733473321">"चित्र चुनें"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"गैलरी"</string>
     <string name="pick_videos_gallery_title" msgid="568436323607491495">"वीडियो चुनें"</string>
-    <string name="sendImage" msgid="7279510542799399570">"इसके द्वारा चित्र शेयर करें"</string>
+    <string name="sendImage" msgid="7279510542799399570">"इसके द्वारा चित्र साझा करें"</string>
     <string name="setImage" msgid="7246975856983303047">"चित्र इस रूप में सेट करें"</string>
-    <string name="sendVideo" msgid="3598567735831863073">"इसके द्वारा वीडियो शेयर करें"</string>
-    <string name="send_media_files" msgid="8201083279723850611">"इसके द्वारा मीडिया फ़ाइलें शेयर करें"</string>
+    <string name="sendVideo" msgid="3598567735831863073">"इसके द्वारा वीडियो साझा करें"</string>
+    <string name="send_media_files" msgid="8201083279723850611">"इसके द्वारा मीडिया फ़ाइलें साझा करें"</string>
     <string name="movieviewlabel" msgid="7363495772706775465">"फिल्में"</string>
     <string name="loading_video" msgid="4013492720121891585">"वीडियो लोड हो रहा है..."</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"वीडियो फिर से शुरू करें"</string>
@@ -150,7 +150,7 @@
     <string name="gadget_title" msgid="259405922673466798">"चित्र फ़्रेम"</string>
     <string name="file_info_title" msgid="1628963357466012538">"फ़ाइल जानकारी:"</string>
     <string name="video_exceed_mms_limit" msgid="3835075281230780010">"आपके द्वारा रिकॉर्ड किया गया वीडियो, MMS द्वारा भेजने में बहुत बड़ा है. छोटी अवधि वाली क्लिप रिकॉर्ड करने का प्रयास करें."</string>
-    <string name="multiselect_share" msgid="5261644537749253581">"शेयर करें"</string>
+    <string name="multiselect_share" msgid="5261644537749253581">"साझा करें"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"हटाएं"</string>
     <string name="multiselect_cancel" msgid="5969428692864002165">"रद्द करें"</string>
     <string name="delete_images_message" msgid="2332683687700452577">"छवियां हटा रहा है…"</string>
