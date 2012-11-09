@@ -26,7 +26,7 @@
     <string name="gallery_camera_media_bucket_name" msgid="5560926838411387511">"Медіа з камери"</string>
     <string name="crop_label" msgid="521114301871349328">"Обрізати фото"</string>
     <string name="view_label" msgid="4450531507947335704">"Перегл. фото"</string>
-    <string name="preferences_label" msgid="5955678162525051163">"Налашт-ня камери"</string>
+    <string name="preferences_label" msgid="5955678162525051163">"Налаштування камери"</string>
     <string name="wait" msgid="8600187532323801552">"Зачекайте…"</string>
     <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Перед тим як користуватися камерою, потрібно підключити спільну пам’ять."</string>
     <string name="no_storage" product="default" msgid="6680362958795677723">"Перед тим як користуватися камерою, потрібно вставити карту SD."</string>
@@ -103,7 +103,7 @@
     <string name="pref_gallery_slideshow_repeat_summary" msgid="8289230397431855268">"Відтвор. слайд-шоу кілька разів"</string>
     <string name="pref_gallery_slideshow_shuffle_title" msgid="3677508579783015598">"Перемішати слайди"</string>
     <string name="pref_gallery_slideshow_shuffle_summary" msgid="8566948749149325715">"Показ. фото в довільн. порядку"</string>
-    <string name="camerasettings" msgid="2433519618178453928">"Налаштув-ня"</string>
+    <string name="camerasettings" msgid="2433519618178453928">"Налаштування"</string>
     <string name="image_gallery_NoImageView_text" msgid="409595259802877447">"Немає медіа-файлів"</string>
     <string name="pref_gallery_confirm_delete_title" msgid="642429032687845907">"Підтверд. видалення"</string>
     <string name="pref_gallery_confirm_delete_summary" msgid="5253456492765525245">"Показувати підтвердж. перед видаленням фото чи відео"</string>
