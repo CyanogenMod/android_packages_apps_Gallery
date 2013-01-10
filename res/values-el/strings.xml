@@ -27,16 +27,16 @@
     <string name="crop_label" msgid="521114301871349328">"Περικοπή εικόνας"</string>
     <string name="view_label" msgid="4450531507947335704">"Προβολή εικόνας"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Ρυθμίσεις φωτογραφικής μηχανής"</string>
-    <string name="wait" msgid="8600187532323801552">"Περιμένετε..."</string>
+    <string name="wait" msgid="8600187532323801552">"Περιμένετε\u2026"</string>
     <string name="no_storage" product="nosdcard" msgid="852782056902429852">"Προσαρτήστε τον κοινόχρηστο αποθηκευτικό χώρο προτού κάνετε χρήση της φωτογραφικής μηχανής."</string>
     <string name="no_storage" product="default" msgid="820691042667338625">"Πριν χρησιμοποιήσετε τη φωτογραφική μηχανή, εισάγετε μία κάρτα SD."</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Ο κοινόχρηστος χώρος αποθήκευσής σας είναι πλήρης."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"Η κάρτα SD είναι πλήρης."</string>
-    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Προετοιμασία κοινόχρηστου χώρου αποθήκευσης…"</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Προετοιμασία κοινόχρηστου χώρου αποθήκευσης\u2026"</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"Προετοιμασία κάρτας SD…"</string>
-    <string name="wallpaper" msgid="9222901738515471972">"Ρύθμιση ταπετσαρίας, περιμένετε..."</string>
-    <string name="savingImage" msgid="3051745378545909260">"Αποθήκευση εικόνας..."</string>
-    <string name="runningFaceDetection" msgid="2293932204708167704">"Περιμένετε..."</string>
+    <string name="wallpaper" msgid="9222901738515471972">"Ρύθμιση ταπετσαρίας, περιμένετε\u2026"</string>
+    <string name="savingImage" msgid="3051745378545909260">"Αποθήκευση εικόνας\u2026."</string>
+    <string name="runningFaceDetection" msgid="2293932204708167704">"Περιμένετε\u2026"</string>
     <string name="view" msgid="6277795271119411881">"Προβολή"</string>
     <string name="details" msgid="8415120088556445230">"Λεπτομέρειες"</string>
     <string name="show_on_map" msgid="441725587731006228">"Προβολή στους Χάρτες"</string>
@@ -142,7 +142,7 @@
     <string name="sendVideo" msgid="3598567735831863073">"Κοινή χρήση βίντεο μέσω"</string>
     <string name="send_media_files" msgid="8201083279723850611">"Κοινή χρήση αρχείων μέσων μέσω"</string>
     <string name="movieviewlabel" msgid="7363495772706775465">"Ταινίες"</string>
-    <string name="loading_video" msgid="4013492720121891585">"Φόρτωση βίντεο..."</string>
+    <string name="loading_video" msgid="4013492720121891585">"Φόρτωση βίντεο\u2026"</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"Συνέχιση βίντεο"</string>
     <string name="resume_playing_message" msgid="7293000708492271389">"Συνέχιση αναπαραγωγής από το <xliff:g id="DURATION">%s</xliff:g> ;"</string>
     <string name="resume_playing_resume" msgid="3847915469173852416">"Συνέχιση αναπαραγωγής"</string>
@@ -153,5 +153,5 @@
     <string name="multiselect_share" msgid="5261644537749253581">"Κοινή χρήση"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"Διαγραφή"</string>
     <string name="multiselect_cancel" msgid="5969428692864002165">"Ακύρωση"</string>
-    <string name="delete_images_message" msgid="4504926868037899430">"Πραγματοποιείται διαγραφή εικόνων, περιμένετε…"</string>
+    <string name="delete_images_message" msgid="4504926868037899430">"Πραγματοποιείται διαγραφή εικόνων, περιμένετε\u2026"</string>
 </resources>
