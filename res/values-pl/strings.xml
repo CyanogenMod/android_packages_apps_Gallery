@@ -137,9 +137,9 @@
     <string name="pick_photos_gallery_title" msgid="8356086704733473321">"Wybierz zdjęcie"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"Galeria"</string>
     <string name="pick_videos_gallery_title" msgid="568436323607491495">"Wybierz film"</string>
-    <string name="sendImage" msgid="7279510542799399570">"Prześlij zdjęcie następującą drogą:"</string>
+    <string name="sendImage" msgid="7279510542799399570">"Prześlij zdjęcie przez:"</string>
     <string name="setImage" msgid="7246975856983303047">"Ustaw zdjęcie jako"</string>
-    <string name="sendVideo" msgid="3598567735831863073">"Prześlij film następującą drogą:"</string>
+    <string name="sendVideo" msgid="3598567735831863073">"Prześlij film przez:"</string>
     <string name="send_media_files" msgid="8201083279723850611">"Udostępnij pliki multimedialne za pośrednictwem"</string>
     <string name="movieviewlabel" msgid="7363495772706775465">"Filmy"</string>
     <string name="loading_video" msgid="4013492720121891585">"Ładowanie filmu..."</string>
