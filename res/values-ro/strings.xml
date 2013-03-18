@@ -49,11 +49,11 @@
     <string name="capture_video" msgid="4047046282358697155">"Realizaţi un videoclip"</string>
     <string name="crop_save_text" msgid="8140440041190264400">"Salvaţi"</string>
     <string name="crop_discard_text" msgid="5303657888280340603">"Renunţaţi"</string>
-    <string name="confirm_delete_title" msgid="263478358046514887">"Ştergeţi"</string>
-    <string name="confirm_delete_message" msgid="2141726810668595858">"Ştergeţi această imagine?"</string>
-    <string name="confirm_delete_video_message" msgid="800016540763376529">"Ştergeţi acest videoclip?"</string>
-    <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"Ştergeţi aceste fişiere media?"</string>
-    <string name="camera_toss" msgid="3781186798552460833">"Ştergeţi"</string>
+    <string name="confirm_delete_title" msgid="263478358046514887">"Ștergeţi"</string>
+    <string name="confirm_delete_message" msgid="2141726810668595858">"Ștergeţi această imagine?"</string>
+    <string name="confirm_delete_video_message" msgid="800016540763376529">"Ștergeţi acest videoclip?"</string>
+    <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"Ștergeţi aceste fişiere media?"</string>
+    <string name="camera_toss" msgid="3781186798552460833">"Ștergeţi"</string>
     <string name="camera_share" msgid="8207701858325694182">"Distribuiţi"</string>
     <string name="camera_set" msgid="3422192914806971182">"Setaţi ca"</string>
     <string name="camera_play" msgid="8248000517869959980">"Redaţi"</string>
@@ -151,7 +151,7 @@
     <string name="file_info_title" msgid="1628963357466012538">"Informaţii fişier:"</string>
     <string name="video_exceed_mms_limit" msgid="3835075281230780010">"Videoclipul înregistrat este prea mare pentru a fi trimis prim MMS. Încercaţi înregistrare unui videoclip mai scurt."</string>
     <string name="multiselect_share" msgid="5261644537749253581">"Distribuiţi"</string>
-    <string name="multiselect_delete" msgid="9113461994546744603">"Ştergeţi"</string>
+    <string name="multiselect_delete" msgid="9113461994546744603">"Ștergeţi"</string>
     <string name="multiselect_cancel" msgid="5969428692864002165">"Anulaţi"</string>
     <string name="delete_images_message" msgid="2332683687700452577">"Se şterg imaginile..."</string>
 </resources>

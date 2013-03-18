@@ -142,7 +142,7 @@
     <string name="sendVideo" msgid="3598567735831863073">"分享视频的方式"</string>
     <string name="send_media_files" msgid="8201083279723850611">"媒体文件分享方式："</string>
     <string name="movieviewlabel" msgid="7363495772706775465">"电影"</string>
-    <string name="loading_video" msgid="4013492720121891585">"正在载入视频..."</string>
+    <string name="loading_video" msgid="4013492720121891585">"正在加载视频..."</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"继续播放视频"</string>
     <string name="resume_playing_message" msgid="8480340146814638566">"要从 <xliff:g id="DURATION">%s</xliff:g> 开始继续播放视频吗？"</string>
     <string name="resume_playing_resume" msgid="3847915469173852416">"继续播放"</string>
