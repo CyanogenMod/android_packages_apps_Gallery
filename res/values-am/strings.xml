@@ -23,7 +23,7 @@
     <string name="gallery_label" msgid="7119609703856708011">"የሥነ ጥበብ ማዕከል"</string>
     <string name="gallery_camera_bucket_name" msgid="2924618424339240831">"የካሜራ ምስሎች"</string>
     <string name="gallery_camera_videos_bucket_name" msgid="3369151581398551623">"የካሜራ ቫዲዮዎች"</string>
-    <string name="gallery_camera_media_bucket_name" msgid="5560926838411387511">"የካሜራ ማህደረመረጃ"</string>
+    <string name="gallery_camera_media_bucket_name" msgid="5560926838411387511">"የካሜራ  ማህደረ መረጃ"</string>
     <string name="crop_label" msgid="521114301871349328">"ፎቶ ክፈፍ"</string>
     <string name="view_label" msgid="4450531507947335704">"ፎቶዎች ዕይ"</string>
     <string name="preferences_label" msgid="5955678162525051163">"የካሜራ ቅንብሮች"</string>
