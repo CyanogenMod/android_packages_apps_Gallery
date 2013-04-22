@@ -59,7 +59,7 @@
     <string name="camera_play" msgid="8248000517869959980">"Воспроизвести"</string>
     <string name="camera_attach" msgid="4048659554893435232">"Прикрепить файл"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"Отмена"</string>
-    <string name="camera_crop" msgid="5584000454518174632">"Обрезать"</string>
+    <string name="camera_crop" msgid="5584000454518174632">"Кадрировать"</string>
     <string name="no_way_to_share_image" msgid="7980215622010396797">"Нет приложений для публикации изображений."</string>
     <string name="no_way_to_share_video" msgid="4506167265329982928">"Нет приложений для публикации видео."</string>
     <string name="no_way_to_share" msgid="5276805314940059662">"Нет приложений для публикации файлов."</string>
