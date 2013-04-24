@@ -24,7 +24,7 @@
     <string name="gallery_camera_bucket_name" msgid="2924618424339240831">"कैमरा चित्र"</string>
     <string name="gallery_camera_videos_bucket_name" msgid="3369151581398551623">"कैमरा वीडियो"</string>
     <string name="gallery_camera_media_bucket_name" msgid="5560926838411387511">"कैमरा मीडिया"</string>
-    <string name="crop_label" msgid="521114301871349328">"चित्र काटें"</string>
+    <string name="crop_label" msgid="521114301871349328">"चित्र काट-छांट करें"</string>
     <string name="view_label" msgid="4450531507947335704">"चित्र देखें"</string>
     <string name="preferences_label" msgid="5955678162525051163">"कैमरा सेटिंग"</string>
     <string name="wait" msgid="8600187532323801552">"कृपया प्रतीक्षा करें..."</string>
@@ -59,7 +59,7 @@
     <string name="camera_play" msgid="8248000517869959980">"चलाएं"</string>
     <string name="camera_attach" msgid="4048659554893435232">"अनुलग्न करें"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"रद्द करें"</string>
-    <string name="camera_crop" msgid="5584000454518174632">"काटें"</string>
+    <string name="camera_crop" msgid="5584000454518174632">"काट-छांट करें"</string>
     <string name="no_way_to_share_image" msgid="7980215622010396797">"चित्र साझा करने के लिए कोई एप्‍लिकेशन उपलब्‍ध नहीं है."</string>
     <string name="no_way_to_share_video" msgid="4506167265329982928">"वीडियो को साझा करने के लिए कोई एप्‍लिकेशन उपलब्‍ध नहीं है."</string>
     <string name="no_way_to_share" msgid="5276805314940059662">"मीडिया फ़ाइल (फ़ाइलों) को साझा करने के लिए कोई एप्‍लिकेशन उपलब्‍ध नहीं हैं."</string>
