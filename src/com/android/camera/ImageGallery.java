@@ -594,11 +594,6 @@ public class ImageGallery extends NoSearchActivity implements
                         | ImageManager.INCLUDE_VIDEOS)
                         & extras.getInt("mediaTypes", mInclusion);
             }
-
-            if (extras != null && extras.getBoolean("pick-drm")) {
-                Log.d(TAG, "pick-drm is true");
-                mInclusion = ImageManager.INCLUDE_DRM_IMAGES;
-            }
         }
     }
 
