@@ -25,7 +25,7 @@
     <string name="gallery_camera_videos_bucket_name" msgid="3369151581398551623">"Videoer fra kamera"</string>
     <string name="gallery_camera_media_bucket_name" msgid="5560926838411387511">"Kameramedier"</string>
     <string name="crop_label" msgid="521114301871349328">"Beskjær bilde"</string>
-    <string name="view_label" msgid="4450531507947335704">"Se på bilde"</string>
+    <string name="view_label" msgid="4450531507947335704">"Se bildet"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Kamerainnstillinger"</string>
     <string name="wait" msgid="8600187532323801552">"Vent litt…"</string>
     <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Sett inn enhet for delt lagring før du bruker kameraet."</string>
