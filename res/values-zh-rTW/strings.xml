@@ -32,9 +32,9 @@
     <string name="no_storage" product="default" msgid="6680362958795677723">"使用相機前，必須先插入 SD 卡。"</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"您的共用儲存裝置已滿。"</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"SD 卡已滿。"</string>
-    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"正在準備共用儲存裝置..."</string>
-    <string name="preparing_sd" product="default" msgid="2914969119574812666">"正在準備 SD 卡..."</string>
-    <string name="wallpaper" msgid="140165383777262070">"正在設定桌布..."</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"正在準備共用儲存裝置…"</string>
+    <string name="preparing_sd" product="default" msgid="2914969119574812666">"正在準備 SD 卡…"</string>
+    <string name="wallpaper" msgid="140165383777262070">"正在設定桌布…"</string>
     <string name="savingImage" msgid="3051745378545909260">"儲存相片中…"</string>
     <string name="runningFaceDetection" msgid="2293932204708167704">"請稍候…"</string>
     <string name="view" msgid="6277795271119411881">"檢視"</string>

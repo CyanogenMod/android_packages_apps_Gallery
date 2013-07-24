@@ -83,7 +83,7 @@
     <item msgid="7931283047572866748">"החדשה ביותר אחרונה"</item>
   </string-array>
     <string name="pref_gallery_slideshow_interval_title" msgid="6534904787962619832">"מרווח זמן במצגת"</string>
-    <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"בחר את משך הזמן להצגת כל שקופית במצגת"</string>
+    <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"בחר את משך הזמן להצגת כל שקף במצגת"</string>
     <string name="pref_gallery_slideshow_interval_dialogtitle" msgid="6775543119826248900">"מרווח זמן במצגת"</string>
   <string-array name="pref_gallery_slideshow_interval_choices">
     <item msgid="3089037742117543119">"2 שניות"</item>
@@ -91,7 +91,7 @@
     <item msgid="5670078787463530498">"4 שניות"</item>
   </string-array>
     <string name="pref_gallery_slideshow_transition_title" msgid="3235158556228218846">"מעבר במצגת"</string>
-    <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"בחר את האפקט הרצוי למעבר משקופית לשקופית"</string>
+    <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"בחר את האפקט הרצוי למעבר בין שקפים"</string>
     <string name="pref_gallery_slideshow_transition_dialogtitle" msgid="5483406447721500371">"מעבר במצגת"</string>
   <string-array name="pref_gallery_slideshow_transition_choices">
     <item msgid="2825716730899894863">"מופיעה ונעלמת בהדרגה"</item>
