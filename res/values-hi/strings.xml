@@ -129,7 +129,7 @@
     <string name="details_fps" msgid="5450871169477340537">"<xliff:g id="FRAMES">%1$d</xliff:g> fps"</string>
     <string name="details_kbps" msgid="1515369011744784592">"<xliff:g id="SPEED">%1$d</xliff:g> Kbps"</string>
     <string name="details_mbps" msgid="3291428849607323284">"<xliff:g id="SPEED">%1$g</xliff:g> Mbps"</string>
-    <string name="details_ok" msgid="6848594369924424312">"ठीक"</string>
+    <string name="details_ok" msgid="6848594369924424312">"ठीक है"</string>
     <string name="context_menu_header" msgid="1185348426222302182">"चित्र विकल्प"</string>
     <string name="video_context_menu_header" msgid="7318971116949475029">"वीडियो विकल्प"</string>
     <string name="multiface_crop_help" msgid="2554690102655855657">"शुरू करने के लिए कोई चेहरा स्‍पर्श करें."</string>
