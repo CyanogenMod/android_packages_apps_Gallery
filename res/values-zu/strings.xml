@@ -60,9 +60,9 @@
     <string name="camera_attach" msgid="4048659554893435232">"Namathisela"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"Khansela"</string>
     <string name="camera_crop" msgid="5584000454518174632">"Nqampuna"</string>
-    <string name="no_way_to_share_image" msgid="7980215622010396797">"Ayikho insiza etholakalayo ukwbelana ngesithombe."</string>
-    <string name="no_way_to_share_video" msgid="4506167265329982928">"Ayikho insiza etholakalayo ukwbelana ngevidyo."</string>
-    <string name="no_way_to_share" msgid="5276805314940059662">"Ayikho insiza etholakalayo ukwbelana ngevidyo."</string>
+    <string name="no_way_to_share_image" msgid="7980215622010396797">"Ayikho uhlelo lokusebenza etholakalayo ukwbelana ngesithombe."</string>
+    <string name="no_way_to_share_video" msgid="4506167265329982928">"Ayikho uhlelo lokusebenza etholakalayo ukwbelana ngevidyo."</string>
+    <string name="no_way_to_share" msgid="5276805314940059662">"Ayikho uhlelo lokusebenza etholakalayo ukwbelana ngevidyo."</string>
     <string name="video_play" msgid="5287787282508002895">"Dlala"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"Izithombe"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"Iphephadonga"</string>
