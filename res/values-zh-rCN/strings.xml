@@ -24,7 +24,7 @@
     <string name="gallery_camera_bucket_name" msgid="2924618424339240831">"用相机拍摄的照片"</string>
     <string name="gallery_camera_videos_bucket_name" msgid="3369151581398551623">"用相机拍摄的视频"</string>
     <string name="gallery_camera_media_bucket_name" msgid="5560926838411387511">"相机媒体"</string>
-    <string name="crop_label" msgid="521114301871349328">"修剪照片"</string>
+    <string name="crop_label" msgid="521114301871349328">"剪裁照片"</string>
     <string name="view_label" msgid="4450531507947335704">"查看照片"</string>
     <string name="preferences_label" msgid="5955678162525051163">"相机设置"</string>
     <string name="wait" msgid="8600187532323801552">"请稍候..."</string>
@@ -59,7 +59,7 @@
     <string name="camera_play" msgid="8248000517869959980">"播放"</string>
     <string name="camera_attach" msgid="4048659554893435232">"附件"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"取消"</string>
-    <string name="camera_crop" msgid="5584000454518174632">"修剪"</string>
+    <string name="camera_crop" msgid="5584000454518174632">"剪裁"</string>
     <string name="no_way_to_share_image" msgid="7980215622010396797">"没有任何可用于分享照片的应用。"</string>
     <string name="no_way_to_share_video" msgid="4506167265329982928">"没有任何可用于分享视频的应用。"</string>
     <string name="no_way_to_share" msgid="5276805314940059662">"没有任何可用于分享媒体文件的应用。"</string>
