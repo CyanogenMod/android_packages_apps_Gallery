@@ -70,7 +70,7 @@
     <string name="pref_slideshow_category" msgid="9097962086335681667">"幻灯片播放设置"</string>
     <string name="pref_gallery_size_title" msgid="1363406603879434418">"显示大小"</string>
     <string name="pref_gallery_size_summary" msgid="7365675768755956361">"选择照片和视频的显示大小"</string>
-    <string name="pref_gallery_size_dialogtitle" msgid="757380558320647503">"照片大小"</string>
+    <string name="pref_gallery_size_dialogtitle" msgid="757380558320647503">"照片尺寸"</string>
   <string-array name="pref_gallery_size_choices">
     <item msgid="7157691836846678936">"大"</item>
     <item msgid="1033164600689216410">"小"</item>
