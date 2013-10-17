@@ -60,9 +60,9 @@
     <string name="camera_attach" msgid="4048659554893435232">"जोड़ें"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"रद्द करें"</string>
     <string name="camera_crop" msgid="5584000454518174632">"काट-छांट करें"</string>
-    <string name="no_way_to_share_image" msgid="7980215622010396797">"चित्र साझा करने के लिए कोई एप्‍स उपलब्‍ध नहीं है."</string>
-    <string name="no_way_to_share_video" msgid="4506167265329982928">"वीडियो को साझा करने के लिए कोई एप्‍स उपलब्‍ध नहीं है."</string>
-    <string name="no_way_to_share" msgid="5276805314940059662">"मीडिया फ़ाइल (फ़ाइलों) को साझा करने के लिए कोई एप्‍स उपलब्‍ध नहीं हैं."</string>
+    <string name="no_way_to_share_image" msgid="7980215622010396797">"चित्र साझा करने के लिए कोई ऐप्स उपलब्‍ध नहीं है."</string>
+    <string name="no_way_to_share_video" msgid="4506167265329982928">"वीडियो को साझा करने के लिए कोई ऐप्स उपलब्‍ध नहीं है."</string>
+    <string name="no_way_to_share" msgid="5276805314940059662">"मीडिया फ़ाइल (फ़ाइलों) को साझा करने के लिए कोई ऐप्स उपलब्‍ध नहीं हैं."</string>
     <string name="video_play" msgid="5287787282508002895">"चलाएं"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"चित्र"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"वॉलपेपर"</string>
