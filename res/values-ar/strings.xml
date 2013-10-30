@@ -29,11 +29,11 @@
     <string name="preferences_label" msgid="5955678162525051163">"إعدادات الكاميرا"</string>
     <string name="wait" msgid="8600187532323801552">"يرجى الانتظار…"</string>
     <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"يجب تحميل وحدة التخزين المشتركة قبل استخدام الكاميرا."</string>
-    <string name="no_storage" product="default" msgid="6680362958795677723">"يجب إدراج بطاقة SD حتى تتمكن من استخدام الكاميرا."</string>
+    <string name="no_storage" product="default" msgid="6680362958795677723">"‏يجب إدراج بطاقة SD حتى تتمكن من استخدام الكاميرا."</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"وحدة التخزين المشتركة ممتلئة."</string>
-    <string name="not_enough_space" product="default" msgid="6655334407957844653">"بطاقة SD ممتلئة."</string>
+    <string name="not_enough_space" product="default" msgid="6655334407957844653">"‏بطاقة SD ممتلئة."</string>
     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"جارٍ تحضير وحدة التخزين المشتركة…"</string>
-    <string name="preparing_sd" product="default" msgid="2914969119574812666">"جارٍ تحضير بطاقة SD…"</string>
+    <string name="preparing_sd" product="default" msgid="2914969119574812666">"‏جارٍ تحضير بطاقة SD…"</string>
     <string name="wallpaper" msgid="140165383777262070">"جارٍ تعيين الخلفية..."</string>
     <string name="savingImage" msgid="3051745378545909260">"جارٍ حفظ الصورة..."</string>
     <string name="runningFaceDetection" msgid="2293932204708167704">"يرجى الانتظار…"</string>
@@ -114,8 +114,8 @@
     <string name="details_image_make" msgid="2888477930210903540">"المُصنِّع:"</string>
     <string name="details_image_model" msgid="3608007849933924336">"الطراز:"</string>
     <string name="details_image_whitebalance" msgid="4412514247882436065">"موازنة اللون الأبيض:"</string>
-    <string name="details_image_latitude" msgid="58222150203989546">"خط عرض GPS:"</string>
-    <string name="details_image_longitude" msgid="3792725587390654278">"خط طول GPS:"</string>
+    <string name="details_image_latitude" msgid="58222150203989546">"‏خط عرض GPS:"</string>
+    <string name="details_image_longitude" msgid="3792725587390654278">"‏خط طول GPS:"</string>
     <string name="details_image_location" msgid="6460201074393148978">"الموقع:"</string>
     <string name="details_duration" msgid="1028116471387901402">"المدة:"</string>
     <string name="details_date_taken" msgid="348356840586463178">"تاريخ الالتقاط:"</string>
