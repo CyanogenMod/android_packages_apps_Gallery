@@ -60,9 +60,9 @@
     <string name="camera_attach" msgid="4048659554893435232">"צרף"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"ביטול"</string>
     <string name="camera_crop" msgid="5584000454518174632">"חתוך"</string>
-    <string name="no_way_to_share_image" msgid="7980215622010396797">"אין יישום זמין לשיתוף התמונה."</string>
-    <string name="no_way_to_share_video" msgid="4506167265329982928">"אין יישום זמין לשיתוף הסרטון."</string>
-    <string name="no_way_to_share" msgid="5276805314940059662">"אין יישום זמין לשיתוף קובצי המדיה."</string>
+    <string name="no_way_to_share_image" msgid="7980215622010396797">"אין אפליקציה זמינה לשיתוף התמונה."</string>
+    <string name="no_way_to_share_video" msgid="4506167265329982928">"אין אפליקציה זמינה לשיתוף הסרטון."</string>
+    <string name="no_way_to_share" msgid="5276805314940059662">"אין אפליקציה זמינה לשיתוף קובצי המדיה."</string>
     <string name="video_play" msgid="5287787282508002895">"הפעל"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"תמונות"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"טפט"</string>
