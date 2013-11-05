@@ -29,17 +29,17 @@
     <string name="preferences_label" msgid="5955678162525051163">"הגדרות מצלמה"</string>
     <string name="wait" msgid="8600187532323801552">"המתן..."</string>
     <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"לפני השימוש במצלמה, עליך לטעון את אמצעי האחסון המשותף."</string>
-    <string name="no_storage" product="default" msgid="6680362958795677723">"לפני השימוש במצלמה עליך להכניס כרטיס SD."</string>
+    <string name="no_storage" product="default" msgid="6680362958795677723">"‏לפני השימוש במצלמה עליך להכניס כרטיס SD."</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"אמצעי האחסון המשותף מלא."</string>
-    <string name="not_enough_space" product="default" msgid="6655334407957844653">"כרטיס SD מלא."</string>
+    <string name="not_enough_space" product="default" msgid="6655334407957844653">"‏כרטיס SD מלא."</string>
     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"מכין אמצעי אחסון משותף..."</string>
-    <string name="preparing_sd" product="default" msgid="2914969119574812666">"מכין כרטיס SD..."</string>
+    <string name="preparing_sd" product="default" msgid="2914969119574812666">"‏מכין כרטיס SD..."</string>
     <string name="wallpaper" msgid="140165383777262070">"מגדיר טפט..."</string>
     <string name="savingImage" msgid="3051745378545909260">"שומר תמונה..."</string>
     <string name="runningFaceDetection" msgid="2293932204708167704">"המתן..."</string>
     <string name="view" msgid="6277795271119411881">"הצג"</string>
     <string name="details" msgid="8415120088556445230">"פרטים"</string>
-    <string name="show_on_map" msgid="441725587731006228">"הצג ב\'מפות Google\'"</string>
+    <string name="show_on_map" msgid="441725587731006228">"‏הצג ב\'מפות Google\'"</string>
     <string name="rotate" msgid="460017689320955494">"סיבוב"</string>
     <string name="rotate_left" msgid="5888273317282539839">"סובב שמאלה"</string>
     <string name="rotate_right" msgid="6776325835923384839">"סובב ימינה"</string>
@@ -114,8 +114,8 @@
     <string name="details_image_make" msgid="2888477930210903540">"יצרן:"</string>
     <string name="details_image_model" msgid="3608007849933924336">"דגם:"</string>
     <string name="details_image_whitebalance" msgid="4412514247882436065">"WhiteBalance:"</string>
-    <string name="details_image_latitude" msgid="58222150203989546">"קו רוחב ב-GPS:"</string>
-    <string name="details_image_longitude" msgid="3792725587390654278">"קו אורך ב-GPS:"</string>
+    <string name="details_image_latitude" msgid="58222150203989546">"‏קו רוחב ב-GPS:"</string>
+    <string name="details_image_longitude" msgid="3792725587390654278">"‏קו אורך ב-GPS:"</string>
     <string name="details_image_location" msgid="6460201074393148978">"מיקום:"</string>
     <string name="details_duration" msgid="1028116471387901402">"משך:"</string>
     <string name="details_date_taken" msgid="348356840586463178">"תאריך הצילום:"</string>
@@ -149,7 +149,7 @@
     <string name="resume_playing_restart" msgid="5471008499835769292">"התחל מחדש"</string>
     <string name="gadget_title" msgid="259405922673466798">"מסגרת תמונה"</string>
     <string name="file_info_title" msgid="1628963357466012538">"פרטי קובץ:"</string>
-    <string name="video_exceed_mms_limit" msgid="3835075281230780010">"סרטון הווידאו שהקלטת גדול מדי לשליחה באמצעות MMS. נסה להקליט קליפ קצר יותר."</string>
+    <string name="video_exceed_mms_limit" msgid="3835075281230780010">"‏סרטון הווידאו שהקלטת גדול מדי לשליחה באמצעות MMS. נסה להקליט קליפ קצר יותר."</string>
     <string name="multiselect_share" msgid="5261644537749253581">"שתף"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"מחק"</string>
     <string name="multiselect_cancel" msgid="5969428692864002165">"ביטול"</string>
