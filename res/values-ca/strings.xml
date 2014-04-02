@@ -25,7 +25,7 @@
     <string name="gallery_camera_videos_bucket_name" msgid="3369151581398551623">"Vídeos de la càmera"</string>
     <string name="gallery_camera_media_bucket_name" msgid="5560926838411387511">"Fitxers multimèdia de la càmera"</string>
     <string name="crop_label" msgid="521114301871349328">"Retalla"</string>
-    <string name="view_label" msgid="4450531507947335704">"Visualitza la imatge"</string>
+    <string name="view_label" msgid="4450531507947335704">"Mostra la imatge"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Configuració de la càmera"</string>
     <string name="wait" msgid="8600187532323801552">"Espereu-vos…"</string>
     <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Has d\'activar l\'emmagatzematge compartit abans no comencis a fer servir la càmera."</string>
@@ -37,7 +37,7 @@
     <string name="wallpaper" msgid="140165383777262070">"S\'està establint el fons de pantalla..."</string>
     <string name="savingImage" msgid="3051745378545909260">"S\'està desant la imatge..."</string>
     <string name="runningFaceDetection" msgid="2293932204708167704">"Espereu-vos…"</string>
-    <string name="view" msgid="6277795271119411881">"Visualitza"</string>
+    <string name="view" msgid="6277795271119411881">"Mostra"</string>
     <string name="details" msgid="8415120088556445230">"Detalls"</string>
     <string name="show_on_map" msgid="441725587731006228">"Mostra a Google Maps"</string>
     <string name="rotate" msgid="460017689320955494">"Gira"</string>

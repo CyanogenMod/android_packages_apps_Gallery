@@ -55,7 +55,7 @@
     <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"Vil du slette disse mediefiler?"</string>
     <string name="camera_toss" msgid="3781186798552460833">"Slet"</string>
     <string name="camera_share" msgid="8207701858325694182">"Del"</string>
-    <string name="camera_set" msgid="3422192914806971182">"Angiv som"</string>
+    <string name="camera_set" msgid="3422192914806971182">"Anvend som"</string>
     <string name="camera_play" msgid="8248000517869959980">"Afspil"</string>
     <string name="camera_attach" msgid="4048659554893435232">"Vedhæft"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"Annuller"</string>
@@ -90,7 +90,7 @@
     <item msgid="738579316565625730">"3 sekunder"</item>
     <item msgid="5670078787463530498">"4 sekunder"</item>
   </string-array>
-    <string name="pref_gallery_slideshow_transition_title" msgid="3235158556228218846">"Diasshowovergang"</string>
+    <string name="pref_gallery_slideshow_transition_title" msgid="3235158556228218846">"Diasovergang"</string>
     <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"Vælg den effekt, der skal bruges ved diasskift"</string>
     <string name="pref_gallery_slideshow_transition_dialogtitle" msgid="5483406447721500371">"Diasshowovergang"</string>
   <string-array name="pref_gallery_slideshow_transition_choices">
@@ -138,7 +138,7 @@
     <string name="videos_gallery_title" msgid="6150354029982749479">"Galleri"</string>
     <string name="pick_videos_gallery_title" msgid="568436323607491495">"Vælg video"</string>
     <string name="sendImage" msgid="7279510542799399570">"Del billede via"</string>
-    <string name="setImage" msgid="7246975856983303047">"Angiv billedet som"</string>
+    <string name="setImage" msgid="7246975856983303047">"Anvend billede som"</string>
     <string name="sendVideo" msgid="3598567735831863073">"Del video via"</string>
     <string name="send_media_files" msgid="8201083279723850611">"Del mediefiler via"</string>
     <string name="movieviewlabel" msgid="7363495772706775465">"Film"</string>
