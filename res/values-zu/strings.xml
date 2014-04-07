@@ -86,9 +86,9 @@
     <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"Khetha ukuthi islaydi ngasinye sizoboniswa isikhathi esingakanini embukisweni"</string>
     <string name="pref_gallery_slideshow_interval_dialogtitle" msgid="6775543119826248900">"Isikhawu sombukiso weslaydi"</string>
   <string-array name="pref_gallery_slideshow_interval_choices">
-    <item msgid="3089037742117543119">"amasekhondi ang-2"</item>
-    <item msgid="738579316565625730">"amasekhondi angu-3"</item>
-    <item msgid="5670078787463530498">"amasekhondi angu-4"</item>
+    <item msgid="3089037742117543119">"2 amasekhondi"</item>
+    <item msgid="738579316565625730">"3 amasekhondi"</item>
+    <item msgid="5670078787463530498">"4 amasekhondi"</item>
   </string-array>
     <string name="pref_gallery_slideshow_transition_title" msgid="3235158556228218846">"Ukuguquka kombukiso wamaslaydi"</string>
     <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"Khetha inguquko esebenziswayo uma usuka eslaydini esisodwa uya kwesilandelayo"</string>
