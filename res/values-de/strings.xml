@@ -39,7 +39,7 @@
     <string name="runningFaceDetection" msgid="2293932204708167704">"Bitte warten..."</string>
     <string name="view" msgid="6277795271119411881">"Anzeigen"</string>
     <string name="details" msgid="8415120088556445230">"Details"</string>
-    <string name="show_on_map" msgid="441725587731006228">"In Google Maps anzeigen"</string>
+    <string name="show_on_map" msgid="441725587731006228">"In Google Maps ansehen"</string>
     <string name="rotate" msgid="460017689320955494">"Drehen"</string>
     <string name="rotate_left" msgid="5888273317282539839">"Nach links drehen"</string>
     <string name="rotate_right" msgid="6776325835923384839">"Nach rechts drehen"</string>
