@@ -54,15 +54,15 @@
     <string name="confirm_delete_video_message" msgid="800016540763376529">"Διαγραφή αυτού του βίντεο;"</string>
     <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"Να διαγραφούν αυτά τα αρχεία μέσων;"</string>
     <string name="camera_toss" msgid="3781186798552460833">"Διαγραφή"</string>
-    <string name="camera_share" msgid="8207701858325694182">"Κοινή χρήση"</string>
+    <string name="camera_share" msgid="8207701858325694182">"Κοινοποίηση"</string>
     <string name="camera_set" msgid="3422192914806971182">"Ορισμός ως"</string>
     <string name="camera_play" msgid="8248000517869959980">"Αναπαραγωγή"</string>
     <string name="camera_attach" msgid="4048659554893435232">"Επισύναψη"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"Ακύρωση"</string>
     <string name="camera_crop" msgid="5584000454518174632">"Περικοπή"</string>
-    <string name="no_way_to_share_image" msgid="7980215622010396797">"Δεν υπάρχει διαθέσιμη εφαρμογή για την κοινή χρήση της εικόνας."</string>
-    <string name="no_way_to_share_video" msgid="4506167265329982928">"Δεν υπάρχει διαθέσιμη εφαρμογή για την κοινή χρήση του βίντεο."</string>
-    <string name="no_way_to_share" msgid="5276805314940059662">"Δεν υπάρχει διαθέσιμη εφαρμογή για την κοινή χρήση των αρχείων μέσων."</string>
+    <string name="no_way_to_share_image" msgid="7980215622010396797">"Δεν υπάρχει διαθέσιμη εφαρμογή για την κοινοποίηση της εικόνας."</string>
+    <string name="no_way_to_share_video" msgid="4506167265329982928">"Δεν υπάρχει διαθέσιμη εφαρμογή για την κοινοποίηση του βίντεο."</string>
+    <string name="no_way_to_share" msgid="5276805314940059662">"Δεν υπάρχει διαθέσιμη εφαρμογή για την κοινοποίηση των αρχείων μέσων."</string>
     <string name="video_play" msgid="5287787282508002895">"Αναπαραγωγή"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"Εικόνες"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"Ταπετσαρία"</string>
@@ -137,10 +137,10 @@
     <string name="pick_photos_gallery_title" msgid="8356086704733473321">"Επιλογή εικόνας"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"Συλλογή"</string>
     <string name="pick_videos_gallery_title" msgid="568436323607491495">"Επιλέξτε βίντεο"</string>
-    <string name="sendImage" msgid="7279510542799399570">"Κοινή χρήση εικόνας μέσω"</string>
+    <string name="sendImage" msgid="7279510542799399570">"Κοινοποίηση εικόνας μέσω"</string>
     <string name="setImage" msgid="7246975856983303047">"Ορισμός εικόνας ως"</string>
-    <string name="sendVideo" msgid="3598567735831863073">"Κοινή χρήση βίντεο μέσω"</string>
-    <string name="send_media_files" msgid="8201083279723850611">"Κοινή χρήση αρχείων μέσων μέσω"</string>
+    <string name="sendVideo" msgid="3598567735831863073">"Κοινοποίηση βίντεο μέσω"</string>
+    <string name="send_media_files" msgid="8201083279723850611">"Κοινοποίηση αρχείων μέσων μέσω"</string>
     <string name="movieviewlabel" msgid="7363495772706775465">"Ταινίες"</string>
     <string name="loading_video" msgid="4013492720121891585">"Φόρτωση βίντεο..."</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"Συνέχιση βίντεο"</string>
@@ -150,7 +150,7 @@
     <string name="gadget_title" msgid="259405922673466798">"Πλαίσιο εικόνας"</string>
     <string name="file_info_title" msgid="1628963357466012538">"Πληροφορίες αρχείου:"</string>
     <string name="video_exceed_mms_limit" msgid="3835075281230780010">"Το βίντεο που εγγράψατε είναι πολύ μεγάλο για να αποσταλεί μέσω μηνύματος MMS. Δοκιμάστε να εγγράψετε μικρότερου μεγέθους βίντεο."</string>
-    <string name="multiselect_share" msgid="5261644537749253581">"Κοινή χρήση"</string>
+    <string name="multiselect_share" msgid="5261644537749253581">"Κοινοποίηση"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"Διαγραφή"</string>
     <string name="multiselect_cancel" msgid="5969428692864002165">"Ακύρωση"</string>
     <string name="delete_images_message" msgid="2332683687700452577">"Διαγραφή εικόνων…"</string>

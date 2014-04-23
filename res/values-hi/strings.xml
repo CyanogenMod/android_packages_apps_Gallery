@@ -39,7 +39,7 @@
     <string name="runningFaceDetection" msgid="2293932204708167704">"कृपया प्रतीक्षा करें..."</string>
     <string name="view" msgid="6277795271119411881">"देखें"</string>
     <string name="details" msgid="8415120088556445230">"विवरण"</string>
-    <string name="show_on_map" msgid="441725587731006228">"मानचित्र पर दिखाएं"</string>
+    <string name="show_on_map" msgid="441725587731006228">"नक्शे पर दिखाएं"</string>
     <string name="rotate" msgid="460017689320955494">"घुमाएं"</string>
     <string name="rotate_left" msgid="5888273317282539839">"बाएं घुमाएं"</string>
     <string name="rotate_right" msgid="6776325835923384839">"दाएं घुमाएं"</string>
@@ -57,12 +57,12 @@
     <string name="camera_share" msgid="8207701858325694182">"साझा करें"</string>
     <string name="camera_set" msgid="3422192914806971182">"इस रूप में सेट करें"</string>
     <string name="camera_play" msgid="8248000517869959980">"चलाएं"</string>
-    <string name="camera_attach" msgid="4048659554893435232">"अनुलग्न करें"</string>
+    <string name="camera_attach" msgid="4048659554893435232">"जोड़ें"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"रद्द करें"</string>
     <string name="camera_crop" msgid="5584000454518174632">"काट-छांट करें"</string>
-    <string name="no_way_to_share_image" msgid="7980215622010396797">"चित्र साझा करने के लिए कोई एप्‍लिकेशन उपलब्‍ध नहीं है."</string>
-    <string name="no_way_to_share_video" msgid="4506167265329982928">"वीडियो को साझा करने के लिए कोई एप्‍लिकेशन उपलब्‍ध नहीं है."</string>
-    <string name="no_way_to_share" msgid="5276805314940059662">"मीडिया फ़ाइल (फ़ाइलों) को साझा करने के लिए कोई एप्‍लिकेशन उपलब्‍ध नहीं हैं."</string>
+    <string name="no_way_to_share_image" msgid="7980215622010396797">"चित्र साझा करने के लिए कोई ऐप्स उपलब्‍ध नहीं है."</string>
+    <string name="no_way_to_share_video" msgid="4506167265329982928">"वीडियो को साझा करने के लिए कोई ऐप्स उपलब्‍ध नहीं है."</string>
+    <string name="no_way_to_share" msgid="5276805314940059662">"मीडिया फ़ाइल (फ़ाइलों) को साझा करने के लिए कोई ऐप्स उपलब्‍ध नहीं हैं."</string>
     <string name="video_play" msgid="5287787282508002895">"चलाएं"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"चित्र"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"वॉलपेपर"</string>
@@ -129,7 +129,7 @@
     <string name="details_fps" msgid="5450871169477340537">"<xliff:g id="FRAMES">%1$d</xliff:g> fps"</string>
     <string name="details_kbps" msgid="1515369011744784592">"<xliff:g id="SPEED">%1$d</xliff:g> Kbps"</string>
     <string name="details_mbps" msgid="3291428849607323284">"<xliff:g id="SPEED">%1$g</xliff:g> Mbps"</string>
-    <string name="details_ok" msgid="6848594369924424312">"ठीक"</string>
+    <string name="details_ok" msgid="6848594369924424312">"ठीक है"</string>
     <string name="context_menu_header" msgid="1185348426222302182">"चित्र विकल्प"</string>
     <string name="video_context_menu_header" msgid="7318971116949475029">"वीडियो विकल्प"</string>
     <string name="multiface_crop_help" msgid="2554690102655855657">"शुरू करने के लिए कोई चेहरा स्‍पर्श करें."</string>
