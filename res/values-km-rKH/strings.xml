@@ -54,11 +54,11 @@
     <string name="confirm_delete_video_message" msgid="800016540763376529">"លុប​វីដេអូ​នេះ​​?"</string>
     <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"លុប​ឯកសារ​មេឌៀ​នេះ​​?"</string>
     <string name="camera_toss" msgid="3781186798552460833">"លុប"</string>
-    <string name="camera_share" msgid="8207701858325694182">"ចែក​រំលែក"</string>
+    <string name="camera_share" msgid="8207701858325694182">"ចែក​រំលែក​"</string>
     <string name="camera_set" msgid="3422192914806971182">"កំណត់​ជា"</string>
     <string name="camera_play" msgid="8248000517869959980">"លេង"</string>
     <string name="camera_attach" msgid="4048659554893435232">"ភ្ជាប់"</string>
-    <string name="camera_cancel" msgid="8203341746672085747">"បោះ​បង់"</string>
+    <string name="camera_cancel" msgid="8203341746672085747">"បោះ​បង់​"</string>
     <string name="camera_crop" msgid="5584000454518174632">"ច្រឹប"</string>
     <string name="no_way_to_share_image" msgid="7980215622010396797">"គ្មាន​កម្មវិធី ដើម្បី​ចែករំលែក​រូបភាព។"</string>
     <string name="no_way_to_share_video" msgid="4506167265329982928">"មិន​មាន​កម្មវិធី ដើម្បី​ចែករំលែក​វីដេអូ។"</string>
@@ -69,7 +69,7 @@
     <string name="pref_gallery_category" msgid="5826488887237959433">"ការ​កំណត់​ទូទៅ"</string>
     <string name="pref_slideshow_category" msgid="9097962086335681667">"កំណត់​ការ​បញ្ចាំង​ស្លាយ"</string>
     <string name="pref_gallery_size_title" msgid="1363406603879434418">"ទំហំ​បង្ហាញ"</string>
-    <string name="pref_gallery_size_summary" msgid="7365675768755956361">"ជ្រើស​ទំហំ​បង្ហាញ​រូបភាព និង​វីដេអូ"</string>
+    <string name="pref_gallery_size_summary" msgid="7365675768755956361">"ជ្រើស​ទំហំ​បង្ហាញ​រូបភាព និង​វីដេអូ​"</string>
     <string name="pref_gallery_size_dialogtitle" msgid="757380558320647503">"ទំហំ​រូបភាព"</string>
   <string-array name="pref_gallery_size_choices">
     <item msgid="7157691836846678936">"ធំ"</item>
@@ -83,7 +83,7 @@
     <item msgid="7931283047572866748">"ថ្មី​បំផុត​ចុង​ក្រោយ"</item>
   </string-array>
     <string name="pref_gallery_slideshow_interval_title" msgid="6534904787962619832">"ចន្លោះ​ពេល​​បញ្ចាំង​ស្លាយ"</string>
-    <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"ជ្រើស​រយៈ​ពេល​ដែល​ស្លាយ​នីមួយៗ​បង្ហាញ"</string>
+    <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"ជ្រើស​រយៈ​ពេល​ដែល​ស្លាយ​នីមួយៗ​បង្ហាញ​"</string>
     <string name="pref_gallery_slideshow_interval_dialogtitle" msgid="6775543119826248900">"ចន្លោះ​ពេល​​​បញ្ចាំង​ស្លាយ"</string>
   <string-array name="pref_gallery_slideshow_interval_choices">
     <item msgid="3089037742117543119">"២ វិនាទី"</item>
@@ -129,7 +129,7 @@
     <string name="details_fps" msgid="5450871169477340537">"<xliff:g id="FRAMES">%1$d</xliff:g> fps"</string>
     <string name="details_kbps" msgid="1515369011744784592">"<xliff:g id="SPEED">%1$d</xliff:g> Kbps"</string>
     <string name="details_mbps" msgid="3291428849607323284">"<xliff:g id="SPEED">%1$g</xliff:g> Mbps"</string>
-    <string name="details_ok" msgid="6848594369924424312">"យល់​ព្រម"</string>
+    <string name="details_ok" msgid="6848594369924424312">"យល់​ព្រម​"</string>
     <string name="context_menu_header" msgid="1185348426222302182">"ជម្រើស​រូបភាព"</string>
     <string name="video_context_menu_header" msgid="7318971116949475029">"ជម្រើស​វីដេអូ"</string>
     <string name="multiface_crop_help" msgid="2554690102655855657">"ប៉ះ​មុខ​ ដើម្បី​ចាប់ផ្ដើម​​។"</string>
@@ -137,7 +137,7 @@
     <string name="pick_photos_gallery_title" msgid="8356086704733473321">"ជ្រើស​រូបភាព"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"វិចិត្រ​សាល"</string>
     <string name="pick_videos_gallery_title" msgid="568436323607491495">"ជ្រើស​វីដេអូ"</string>
-    <string name="sendImage" msgid="7279510542799399570">"ចែករំលែក​រូបភាព​តាម"</string>
+    <string name="sendImage" msgid="7279510542799399570">"ចែករំលែក​រូបភាព​តាម​"</string>
     <string name="setImage" msgid="7246975856983303047">"កំណត់​រូបភាព​ជា"</string>
     <string name="sendVideo" msgid="3598567735831863073">"ចែករំលែក​វីដេអូ​តាម"</string>
     <string name="send_media_files" msgid="8201083279723850611">"ចែករំលែក​ឯកសារ​មេឌៀ​តាម"</string>
@@ -146,12 +146,12 @@
     <string name="resume_playing_title" msgid="8996677350649355013">"បន្ត​វីដេអូ"</string>
     <string name="resume_playing_message" msgid="8480340146814638566">"ចាក់​វីដេអូ​បន្ត​ពី <xliff:g id="DURATION">%s</xliff:g>?"</string>
     <string name="resume_playing_resume" msgid="3847915469173852416">"បន្ត​ការ​ចាក់"</string>
-    <string name="resume_playing_restart" msgid="5471008499835769292">"ចាប់ផ្ដើម"</string>
+    <string name="resume_playing_restart" msgid="5471008499835769292">"ចាប់ផ្ដើម​​"</string>
     <string name="gadget_title" msgid="259405922673466798">"ស៊ុម​រូបភាព"</string>
     <string name="file_info_title" msgid="1628963357466012538">"ព័ត៌មាន​ឯកសារ៖"</string>
     <string name="video_exceed_mms_limit" msgid="3835075281230780010">"វីដេអូ​ដែល​អ្នក​បាន​ថត​ធំ​ពេក​ មិន​អាច​ផ្ញើ​តាម MMS ។ ព្យាយាម​ថត​ឈុត​វីដេអូ​ដែល​ខ្លី​ជាង​នេះ។"</string>
-    <string name="multiselect_share" msgid="5261644537749253581">"ចែក​រំលែក"</string>
+    <string name="multiselect_share" msgid="5261644537749253581">"ចែក​រំលែក​"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"លុប"</string>
-    <string name="multiselect_cancel" msgid="5969428692864002165">"បោះ​បង់"</string>
+    <string name="multiselect_cancel" msgid="5969428692864002165">"បោះ​បង់​"</string>
     <string name="delete_images_message" msgid="2332683687700452577">"កំពុង​លុប​រូបភាព..."</string>
 </resources>
