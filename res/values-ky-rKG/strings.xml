@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- no translation found for all_images (1195501551939178807) -->
+    <skip />
+    <!-- no translation found for all_videos (3380966619230896013) -->
+    <skip />
+    <!-- no translation found for camera_label (6346560772074764302) -->
+    <skip />
+    <!-- no translation found for gallery_picker_label (3080425245006492787) -->
+    <skip />
+    <!-- no translation found for gallery_label (7119609703856708011) -->
+    <skip />
+    <!-- no translation found for gallery_camera_bucket_name (2924618424339240831) -->
+    <skip />
+    <!-- no translation found for gallery_camera_videos_bucket_name (3369151581398551623) -->
+    <skip />
+    <!-- no translation found for gallery_camera_media_bucket_name (5560926838411387511) -->
+    <skip />
+    <!-- no translation found for crop_label (521114301871349328) -->
+    <skip />
+    <!-- no translation found for view_label (4450531507947335704) -->
+    <skip />
+    <!-- no translation found for preferences_label (5955678162525051163) -->
+    <skip />
+    <!-- no translation found for wait (8600187532323801552) -->
+    <skip />
+    <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Камераны колдоноордон мурун, бөлүшмө сактагычты орнотушуңуз керек."</string>
+    <string name="no_storage" product="default" msgid="6680362958795677723">"Камераны колдонуп баштаардан мурун SD-картаны туташтырыңыз керек болот."</string>
+    <!-- no translation found for not_enough_space (7966388882416357252) -->
+    <skip />
+    <!-- no translation found for not_enough_space (6655334407957844653) -->
+    <skip />
+    <!-- no translation found for preparing_sd (183917364005592061) -->
+    <skip />
+    <!-- no translation found for preparing_sd (2914969119574812666) -->
+    <skip />
+    <string name="wallpaper" msgid="140165383777262070">"Тушкагаз орнотулууда…"</string>
+    <!-- no translation found for savingImage (3051745378545909260) -->
+    <skip />
+    <!-- no translation found for runningFaceDetection (2293932204708167704) -->
+    <skip />
+    <!-- no translation found for view (6277795271119411881) -->
+    <skip />
+    <!-- no translation found for details (8415120088556445230) -->
+    <skip />
+    <!-- no translation found for show_on_map (441725587731006228) -->
+    <skip />
+    <!-- no translation found for rotate (460017689320955494) -->
+    <skip />
+    <!-- no translation found for rotate_left (5888273317282539839) -->
+    <skip />
+    <!-- no translation found for rotate_right (6776325835923384839) -->
+    <skip />
+    <!-- no translation found for slide_show (1965192737233824143) -->
+    <skip />
+    <!-- no translation found for multiselect (4761682939945434146) -->
+    <skip />
+    <!-- no translation found for capture_picture (4114265595549284643) -->
+    <skip />
+    <!-- no translation found for capture_video (4047046282358697155) -->
+    <skip />
+    <!-- no translation found for crop_save_text (8140440041190264400) -->
+    <skip />
+    <!-- no translation found for crop_discard_text (5303657888280340603) -->
+    <skip />
+    <!-- no translation found for confirm_delete_title (263478358046514887) -->
+    <skip />
+    <string name="confirm_delete_message" msgid="2141726810668595858">"Бул сүрөт өчүрүлсүнбү?"</string>
+    <string name="confirm_delete_video_message" msgid="800016540763376529">"Бул видео өчүрүлсүнбү?"</string>
+    <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"Бул медиа файл өчүрүлсүнбү?"</string>
+    <!-- no translation found for camera_toss (3781186798552460833) -->
+    <skip />
+    <!-- no translation found for camera_share (8207701858325694182) -->
+    <skip />
+    <!-- no translation found for camera_set (3422192914806971182) -->
+    <skip />
+    <!-- no translation found for camera_play (8248000517869959980) -->
+    <skip />
+    <!-- no translation found for camera_attach (4048659554893435232) -->
+    <skip />
+    <!-- no translation found for camera_cancel (8203341746672085747) -->
+    <skip />
+    <!-- no translation found for camera_crop (5584000454518174632) -->
+    <skip />
+    <string name="no_way_to_share_image" msgid="7980215622010396797">"Бул сүрөттү бөлүшө алуучу бир дагы колдонмо жок."</string>
+    <string name="no_way_to_share_video" msgid="4506167265329982928">"Бул видеону бөлүшкөнгө жарактуу колдонмо жок."</string>
+    <string name="no_way_to_share" msgid="5276805314940059662">"Бул медиа(лар)ны бөлүшө алуучу бир дагы колдонмо жок."</string>
+    <!-- no translation found for video_play (5287787282508002895) -->
+    <skip />
+    <!-- no translation found for camera_pick_wallpaper (7026385960511811641) -->
+    <skip />
+    <!-- no translation found for camera_setas_wallpaper (797463183863414289) -->
+    <skip />
+    <!-- no translation found for pref_gallery_category (5826488887237959433) -->
+    <skip />
+    <!-- no translation found for pref_slideshow_category (9097962086335681667) -->
+    <skip />
+    <!-- no translation found for pref_gallery_size_title (1363406603879434418) -->
+    <skip />
+    <string name="pref_gallery_size_summary" msgid="7365675768755956361">"Сүрөттөрдүн жана видеолордун экран ченемин тандоо"</string>
+    <!-- no translation found for pref_gallery_size_dialogtitle (757380558320647503) -->
+    <skip />
+    <!-- no translation found for pref_gallery_size_choices:0 (7157691836846678936) -->
+    <!-- no translation found for pref_gallery_size_choices:1 (1033164600689216410) -->
+    <!-- no translation found for pref_gallery_sort_title (7447949250045443386) -->
+    <skip />
+    <string name="pref_gallery_sort_summary" msgid="4406174975925645225">"Сүрөттөрдү жана видеолорду иргөө иретин тандоо"</string>
+    <!-- no translation found for pref_gallery_sort_dialogtitle (5787417105532562739) -->
+    <skip />
+    <!-- no translation found for pref_gallery_sort_choices:0 (5546009539334018063) -->
+    <!-- no translation found for pref_gallery_sort_choices:1 (7931283047572866748) -->
+    <!-- no translation found for pref_gallery_slideshow_interval_title (6534904787962619832) -->
+    <skip />
+    <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"Шоуда ар бир слайд канча убакыт көргөзүлүшүн тандоо"</string>
+    <!-- no translation found for pref_gallery_slideshow_interval_dialogtitle (6775543119826248900) -->
+    <skip />
+    <!-- no translation found for pref_gallery_slideshow_interval_choices:0 (3089037742117543119) -->
+    <!-- no translation found for pref_gallery_slideshow_interval_choices:1 (738579316565625730) -->
+    <!-- no translation found for pref_gallery_slideshow_interval_choices:2 (5670078787463530498) -->
+    <!-- no translation found for pref_gallery_slideshow_transition_title (3235158556228218846) -->
+    <skip />
+    <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"Бир слайддан экинчисине өткөндө кубулуштар канча убакыт көргөзүлүшүн тандоо"</string>
+    <!-- no translation found for pref_gallery_slideshow_transition_dialogtitle (5483406447721500371) -->
+    <skip />
+    <!-- no translation found for pref_gallery_slideshow_transition_choices:0 (2825716730899894863) -->
+    <!-- no translation found for pref_gallery_slideshow_transition_choices:1 (403116336404005687) -->
+    <!-- no translation found for pref_gallery_slideshow_transition_choices:2 (4901733079450971731) -->
+    <!-- no translation found for pref_gallery_slideshow_transition_choices:3 (9006732482485375438) -->
+    <!-- no translation found for pref_gallery_slideshow_repeat_title (6512135022461429738) -->
+    <skip />
+    <!-- no translation found for pref_gallery_slideshow_repeat_summary (8289230397431855268) -->
+    <skip />
+    <!-- no translation found for pref_gallery_slideshow_shuffle_title (3677508579783015598) -->
+    <skip />
+    <!-- no translation found for pref_gallery_slideshow_shuffle_summary (8566948749149325715) -->
+    <skip />
+    <!-- no translation found for camerasettings (2433519618178453928) -->
+    <skip />
+    <!-- no translation found for image_gallery_NoImageView_text (409595259802877447) -->
+    <skip />
+    <!-- no translation found for pref_gallery_confirm_delete_title (642429032687845907) -->
+    <skip />
+    <!-- no translation found for pref_gallery_confirm_delete_summary (5253456492765525245) -->
+    <skip />
+    <string name="no_location_image" msgid="8907867717568887559">"Бул сүрөткө жайгашуу маалыматы киргизилген эмес."</string>
+    <!-- no translation found for details_panel_title (4753347516759338122) -->
+    <skip />
+    <!-- no translation found for details_file_size (2468878774843246797) -->
+    <skip />
+    <!-- no translation found for details_image_resolution (8773315928100529437) -->
+    <skip />
+    <!-- no translation found for details_image_make (2888477930210903540) -->
+    <skip />
+    <!-- no translation found for details_image_model (3608007849933924336) -->
+    <skip />
+    <!-- no translation found for details_image_whitebalance (4412514247882436065) -->
+    <skip />
+    <string name="details_image_latitude" msgid="58222150203989546">"GPS кеңдиги:"</string>
+    <string name="details_image_longitude" msgid="3792725587390654278">"GPS узундугу:"</string>
+    <!-- no translation found for details_image_location (6460201074393148978) -->
+    <skip />
+    <!-- no translation found for details_duration (1028116471387901402) -->
+    <skip />
+    <!-- no translation found for details_date_taken (348356840586463178) -->
+    <skip />
+    <!-- no translation found for details_frame_rate (122397836963498191) -->
+    <skip />
+    <!-- no translation found for details_bit_rate (5632311789455402186) -->
+    <skip />
+    <!-- no translation found for details_codec (5580300450432398126) -->
+    <skip />
+    <!-- no translation found for details_format (3700860266600796363) -->
+    <skip />
+    <!-- no translation found for details_dimension_x (4923037334136168978) -->
+    <skip />
+    <!-- no translation found for details_ms (7574063760642857397) -->
+    <skip />
+    <!-- no translation found for details_hms (772340067838331166) -->
+    <skip />
+    <!-- no translation found for details_fps (5450871169477340537) -->
+    <skip />
+    <!-- no translation found for details_kbps (1515369011744784592) -->
+    <skip />
+    <!-- no translation found for details_mbps (3291428849607323284) -->
+    <skip />
+    <!-- no translation found for details_ok (6848594369924424312) -->
+    <skip />
+    <!-- no translation found for context_menu_header (1185348426222302182) -->
+    <skip />
+    <!-- no translation found for video_context_menu_header (7318971116949475029) -->
+    <skip />
+    <string name="multiface_crop_help" msgid="2554690102655855657">"Башташ үчүн бетине тийиңиз."</string>
+    <!-- no translation found for photos_gallery_title (6914406246471015448) -->
+    <skip />
+    <string name="pick_photos_gallery_title" msgid="8356086704733473321">"Сүрөт тандоо"</string>
+    <!-- no translation found for videos_gallery_title (6150354029982749479) -->
+    <skip />
+    <string name="pick_videos_gallery_title" msgid="568436323607491495">"Видео тандоо"</string>
+    <!-- no translation found for sendImage (7279510542799399570) -->
+    <skip />
+    <!-- no translation found for setImage (7246975856983303047) -->
+    <skip />
+    <!-- no translation found for sendVideo (3598567735831863073) -->
+    <skip />
+    <!-- no translation found for send_media_files (8201083279723850611) -->
+    <skip />
+    <!-- no translation found for movieviewlabel (7363495772706775465) -->
+    <skip />
+    <!-- no translation found for loading_video (4013492720121891585) -->
+    <skip />
+    <!-- no translation found for resume_playing_title (8996677350649355013) -->
+    <skip />
+    <string name="resume_playing_message" msgid="8480340146814638566">"<xliff:g id="DURATION">%s</xliff:g> баштап видеону ойнотууну уланталыбы?"</string>
+    <!-- no translation found for resume_playing_resume (3847915469173852416) -->
+    <skip />
+    <!-- no translation found for resume_playing_restart (5471008499835769292) -->
+    <skip />
+    <!-- no translation found for gadget_title (259405922673466798) -->
+    <skip />
+    <!-- no translation found for file_info_title (1628963357466012538) -->
+    <skip />
+    <!-- no translation found for video_exceed_mms_limit (3835075281230780010) -->
+    <skip />
+    <!-- no translation found for multiselect_share (5261644537749253581) -->
+    <skip />
+    <!-- no translation found for multiselect_delete (9113461994546744603) -->
+    <skip />
+    <!-- no translation found for multiselect_cancel (5969428692864002165) -->
+    <skip />
+    <string name="delete_images_message" msgid="2332683687700452577">"Сүрөттөр жок кылынууда…"</string>
+</resources>
