@@ -25,9 +25,9 @@
     <string name="gallery_camera_videos_bucket_name" msgid="3369151581398551623">"Vídeos de la càmera"</string>
     <string name="gallery_camera_media_bucket_name" msgid="5560926838411387511">"Fitxers multimèdia de la càmera"</string>
     <string name="crop_label" msgid="521114301871349328">"Retalla"</string>
-    <string name="view_label" msgid="4450531507947335704">"Visualitza la imatge"</string>
+    <string name="view_label" msgid="4450531507947335704">"Mostra la imatge"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Configuració de la càmera"</string>
-    <string name="wait" msgid="8600187532323801552">"Espereu-vos…"</string>
+    <string name="wait" msgid="8600187532323801552">"Espera…"</string>
     <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Has d\'activar l\'emmagatzematge compartit abans no comencis a fer servir la càmera."</string>
     <string name="no_storage" product="default" msgid="6680362958795677723">"Has d\'inserir una targeta SD abans no facis servir la càmera."</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"L\'emmagatzematge compartit és ple."</string>
@@ -37,7 +37,7 @@
     <string name="wallpaper" msgid="140165383777262070">"S\'està establint el fons de pantalla..."</string>
     <string name="savingImage" msgid="3051745378545909260">"S\'està desant la imatge..."</string>
     <string name="runningFaceDetection" msgid="2293932204708167704">"Espereu-vos…"</string>
-    <string name="view" msgid="6277795271119411881">"Visualitza"</string>
+    <string name="view" msgid="6277795271119411881">"Mostra"</string>
     <string name="details" msgid="8415120088556445230">"Detalls"</string>
     <string name="show_on_map" msgid="441725587731006228">"Mostra a Google Maps"</string>
     <string name="rotate" msgid="460017689320955494">"Gira"</string>
@@ -82,7 +82,7 @@
     <item msgid="5546009539334018063">"La més recent primer"</item>
     <item msgid="7931283047572866748">"La més recent en darrer lloc"</item>
   </string-array>
-    <string name="pref_gallery_slideshow_interval_title" msgid="6534904787962619832">"Interval de la presentació de diapositives"</string>
+    <string name="pref_gallery_slideshow_interval_title" msgid="6534904787962619832">"Interval de la presentació"</string>
     <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"Selecciona durant quant de temps es visualitza cada diapositiva a la presentació"</string>
     <string name="pref_gallery_slideshow_interval_dialogtitle" msgid="6775543119826248900">"Interval de la presentació de diapositives"</string>
   <string-array name="pref_gallery_slideshow_interval_choices">
@@ -90,18 +90,18 @@
     <item msgid="738579316565625730">"3 segons"</item>
     <item msgid="5670078787463530498">"4 segons"</item>
   </string-array>
-    <string name="pref_gallery_slideshow_transition_title" msgid="3235158556228218846">"Transició de presentació de diapositives"</string>
+    <string name="pref_gallery_slideshow_transition_title" msgid="3235158556228218846">"Transició de diapositives"</string>
     <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"Selecciona l\'efecte que s\'utilitzarà en passar d\'una diapositiva a la següent"</string>
-    <string name="pref_gallery_slideshow_transition_dialogtitle" msgid="5483406447721500371">"Transició de presentació de diapositives"</string>
+    <string name="pref_gallery_slideshow_transition_dialogtitle" msgid="5483406447721500371">"Transició de diapositives"</string>
   <string-array name="pref_gallery_slideshow_transition_choices">
     <item msgid="2825716730899894863">"Obertura de negre i fosa en negre"</item>
-    <item msgid="403116336404005687">"Desplaça a l\'esquerra - a la dreta"</item>
+    <item msgid="403116336404005687">"Desplaça d\'esquerra a dreta"</item>
     <item msgid="4901733079450971731">"Desplaça amunt - avall"</item>
     <item msgid="9006732482485375438">"Selecció aleatòria"</item>
   </string-array>
-    <string name="pref_gallery_slideshow_repeat_title" msgid="6512135022461429738">"Repeteix la presentació de diapositives"</string>
+    <string name="pref_gallery_slideshow_repeat_title" msgid="6512135022461429738">"Repeteix la presentació"</string>
     <string name="pref_gallery_slideshow_repeat_summary" msgid="8289230397431855268">"Reprodueix la presentació de diapositives més d\'un cop"</string>
-    <string name="pref_gallery_slideshow_shuffle_title" msgid="3677508579783015598">"Ordre aleatori de les diapositives"</string>
+    <string name="pref_gallery_slideshow_shuffle_title" msgid="3677508579783015598">"Ordre aleatori"</string>
     <string name="pref_gallery_slideshow_shuffle_summary" msgid="8566948749149325715">"Mostra les imatges en ordre aleatori"</string>
     <string name="camerasettings" msgid="2433519618178453928">"Configuració"</string>
     <string name="image_gallery_NoImageView_text" msgid="409595259802877447">"No s\'ha trobat cap fitxer multimèdia."</string>
@@ -138,7 +138,7 @@
     <string name="videos_gallery_title" msgid="6150354029982749479">"Galeria"</string>
     <string name="pick_videos_gallery_title" msgid="568436323607491495">"Selecció d\'un vídeo"</string>
     <string name="sendImage" msgid="7279510542799399570">"Comparteix la imatge mitjançant"</string>
-    <string name="setImage" msgid="7246975856983303047">"Defineix la imatge com a"</string>
+    <string name="setImage" msgid="7246975856983303047">"Estableix com a"</string>
     <string name="sendVideo" msgid="3598567735831863073">"Comparteix el vídeo mitjançant"</string>
     <string name="send_media_files" msgid="8201083279723850611">"Comparteix els fitxers multimèdia mitjançant"</string>
     <string name="movieviewlabel" msgid="7363495772706775465">"Pel·lícules"</string>
