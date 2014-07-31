@@ -29,11 +29,11 @@
     <string name="preferences_label" msgid="5955678162525051163">"相机设置"</string>
     <string name="wait" msgid="8600187532323801552">"请稍候..."</string>
     <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"您需要先装载共享存储设备，然后再使用相机。"</string>
-    <string name="no_storage" product="default" msgid="6680362958795677723">"您需要先插入 SD 卡，然后再使用相机。"</string>
+    <string name="no_storage" product="default" msgid="6680362958795677723">"您需要先插入SD卡，然后再使用相机。"</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"共享存储设备空间已满。"</string>
-    <string name="not_enough_space" product="default" msgid="6655334407957844653">"SD 卡已满。"</string>
+    <string name="not_enough_space" product="default" msgid="6655334407957844653">"SD卡已满。"</string>
     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"正在准备共享存储设备..."</string>
-    <string name="preparing_sd" product="default" msgid="2914969119574812666">"正在准备 SD 卡..."</string>
+    <string name="preparing_sd" product="default" msgid="2914969119574812666">"正在准备SD卡..."</string>
     <string name="wallpaper" msgid="140165383777262070">"正在设置壁纸..."</string>
     <string name="savingImage" msgid="3051745378545909260">"正在保存照片..."</string>
     <string name="runningFaceDetection" msgid="2293932204708167704">"请稍候..."</string>
@@ -114,8 +114,8 @@
     <string name="details_image_make" msgid="2888477930210903540">"制造商："</string>
     <string name="details_image_model" msgid="3608007849933924336">"型号："</string>
     <string name="details_image_whitebalance" msgid="4412514247882436065">"白平衡："</string>
-    <string name="details_image_latitude" msgid="58222150203989546">"GPS 纬度："</string>
-    <string name="details_image_longitude" msgid="3792725587390654278">"GPS 经度："</string>
+    <string name="details_image_latitude" msgid="58222150203989546">"GPS纬度："</string>
+    <string name="details_image_longitude" msgid="3792725587390654278">"GPS经度："</string>
     <string name="details_image_location" msgid="6460201074393148978">"地点："</string>
     <string name="details_duration" msgid="1028116471387901402">"持续时间："</string>
     <string name="details_date_taken" msgid="348356840586463178">"拍摄日期："</string>

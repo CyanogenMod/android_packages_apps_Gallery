@@ -33,7 +33,7 @@
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"မျှထားသော သိမ်းဆည်မှုနေရာ ပြည့်နေပါပြီ"</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"SD ကဒ်ပြည့်နေပါပြီ"</string>
     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"မျှဝေထားသော သိမ်းဆည်းမှု အား ပြင်ဆင်နေစဉ်…"</string>
-    <string name="preparing_sd" product="default" msgid="2914969119574812666">"SDကဒ်အအဆင်သင့်စေရန်ပြုလုပ်ခြင်း"</string>
+    <string name="preparing_sd" product="default" msgid="2914969119574812666">"SDကဒ်အအဆင်သင့်စေရန်ပြုလုပ်ခြင်း"</string>
     <string name="wallpaper" msgid="140165383777262070">"နောက်ခံ ရွေးနေစဉ်"</string>
     <string name="savingImage" msgid="3051745378545909260">"ပုံအားသိမ်းနေစဉ်…"</string>
     <string name="runningFaceDetection" msgid="2293932204708167704">"ကျေးဇူးပြု၍ ခဏစောင့်ပါ…"</string>
@@ -86,9 +86,9 @@
     <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"စလိုက်တစ်ခုချင်းပြသချိန် ရွေးရန်"</string>
     <string name="pref_gallery_slideshow_interval_dialogtitle" msgid="6775543119826248900">"စလိုက်များကြားကြာချိန်"</string>
   <string-array name="pref_gallery_slideshow_interval_choices">
-    <item msgid="3089037742117543119">"၂ စက္ကန့်"</item>
+    <item msgid="3089037742117543119">"၂ စက္ကန့်"</item>
     <item msgid="738579316565625730">"၃ စက္ကန့်"</item>
-    <item msgid="5670078787463530498">"၄ စက္ကန့်"</item>
+    <item msgid="5670078787463530498">"၄ စက္ကန့်"</item>
   </string-array>
     <string name="pref_gallery_slideshow_transition_title" msgid="3235158556228218846">"စလိုက် အကူးအပြောင်း"</string>
     <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"စလိုက်တစ်ခုမှတစ်ခု ပြောင်းနေစဥ် သုံးရန် အထူးပြုလုပ်ချက်"</string>
