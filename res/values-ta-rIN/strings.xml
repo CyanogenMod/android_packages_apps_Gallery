@@ -26,7 +26,7 @@
     <string name="gallery_camera_media_bucket_name" msgid="5560926838411387511">"கேமரா மீடியா"</string>
     <string name="crop_label" msgid="521114301871349328">"படத்தைச் செதுக்கு"</string>
     <string name="view_label" msgid="4450531507947335704">"படத்தைக் காட்டு"</string>
-    <string name="preferences_label" msgid="5955678162525051163">"கேமரா அமைப்புகள்"</string>
+    <string name="preferences_label" msgid="5955678162525051163">"கேமரா அமைப்பு"</string>
     <string name="wait" msgid="8600187532323801552">"காத்திருக்கவும்…"</string>
     <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"கேமராவைப் பயன்படுத்தும் முன், பகிர்ந்த சேமிப்பிடத்தை இணைக்க வேண்டும்."</string>
     <string name="no_storage" product="default" msgid="6680362958795677723">"கேமராவைப் பயன்படுத்துவதற்கு முன், SD கார்டைச் செருக வேண்டும்."</string>
@@ -66,8 +66,8 @@
     <string name="video_play" msgid="5287787282508002895">"இயக்கு"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"படங்கள்"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"வால்பேப்பர்"</string>
-    <string name="pref_gallery_category" msgid="5826488887237959433">"பொது அமைப்புகள்"</string>
-    <string name="pref_slideshow_category" msgid="9097962086335681667">"ஸ்லைடுகாட்சி அமைப்புகள்"</string>
+    <string name="pref_gallery_category" msgid="5826488887237959433">"பொது அமைப்பு"</string>
+    <string name="pref_slideshow_category" msgid="9097962086335681667">"ஸ்லைடுகாட்சி அமைப்பு"</string>
     <string name="pref_gallery_size_title" msgid="1363406603879434418">"காட்சி அளவு"</string>
     <string name="pref_gallery_size_summary" msgid="7365675768755956361">"படங்கள் மற்றும் வீடியோக்களைக் காட்டுவதற்கான அளவைத் தேர்வுசெய்க"</string>
     <string name="pref_gallery_size_dialogtitle" msgid="757380558320647503">"பட அளவு"</string>
@@ -103,7 +103,7 @@
     <string name="pref_gallery_slideshow_repeat_summary" msgid="8289230397431855268">"ஸ்லைடுகாட்சியை ஒருமுறைக்கு மேல் இயக்கு"</string>
     <string name="pref_gallery_slideshow_shuffle_title" msgid="3677508579783015598">"ஸ்லைடுகளைக் கலக்கு"</string>
     <string name="pref_gallery_slideshow_shuffle_summary" msgid="8566948749149325715">"தோராயமான முறையில் படங்களைக் காட்டு"</string>
-    <string name="camerasettings" msgid="2433519618178453928">"அமைப்புகள்"</string>
+    <string name="camerasettings" msgid="2433519618178453928">"அமைப்பு"</string>
     <string name="image_gallery_NoImageView_text" msgid="409595259802877447">"மீடியா எதுவுமில்லை."</string>
     <string name="pref_gallery_confirm_delete_title" msgid="642429032687845907">"நீக்குதல்களை உறுதிப்படுத்து"</string>
     <string name="pref_gallery_confirm_delete_summary" msgid="5253456492765525245">"படம் அல்லது வீடியோவை நீக்கும் முன், உறுதிப்படுத்தலைக் காட்டு"</string>
