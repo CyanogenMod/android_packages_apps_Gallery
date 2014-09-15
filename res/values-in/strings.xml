@@ -101,7 +101,7 @@
   </string-array>
     <string name="pref_gallery_slideshow_repeat_title" msgid="6512135022461429738">"Ulangi rangkai slide"</string>
     <string name="pref_gallery_slideshow_repeat_summary" msgid="8289230397431855268">"Putar rangkai slide lebih dari satu kali"</string>
-    <string name="pref_gallery_slideshow_shuffle_title" msgid="3677508579783015598">"Kocok slide"</string>
+    <string name="pref_gallery_slideshow_shuffle_title" msgid="3677508579783015598">"Acak slide"</string>
     <string name="pref_gallery_slideshow_shuffle_summary" msgid="8566948749149325715">"Tampilkan gambar dengan urutan acak"</string>
     <string name="camerasettings" msgid="2433519618178453928">"Setelan"</string>
     <string name="image_gallery_NoImageView_text" msgid="409595259802877447">"Tidak ditemukan media."</string>
