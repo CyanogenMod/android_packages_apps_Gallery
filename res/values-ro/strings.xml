@@ -58,25 +58,25 @@
     <string name="camera_set" msgid="3422192914806971182">"Setaţi ca"</string>
     <string name="camera_play" msgid="8248000517869959980">"Redaţi"</string>
     <string name="camera_attach" msgid="4048659554893435232">"Ataşaţi"</string>
-    <string name="camera_cancel" msgid="8203341746672085747">"Anulaţi"</string>
+    <string name="camera_cancel" msgid="8203341746672085747">"Anulați"</string>
     <string name="camera_crop" msgid="5584000454518174632">"Decupaţi"</string>
-    <string name="no_way_to_share_image" msgid="7980215622010396797">"Nu există nicio aplicaţie disponibilă pentru a distribui imaginea."</string>
-    <string name="no_way_to_share_video" msgid="4506167265329982928">"Nu există nicio aplicaţie disponibilă pentru a distribui videoclipul."</string>
-    <string name="no_way_to_share" msgid="5276805314940059662">"Nu există nicio aplicaţie disponibilă pentru a distribui fişierele media."</string>
+    <string name="no_way_to_share_image" msgid="7980215622010396797">"Nu există nicio aplicație disponibilă pentru a distribui imaginea."</string>
+    <string name="no_way_to_share_video" msgid="4506167265329982928">"Nu există nicio aplicație disponibilă pentru a distribui videoclipul."</string>
+    <string name="no_way_to_share" msgid="5276805314940059662">"Nu există nicio aplicație disponibilă pentru a distribui fişierele media."</string>
     <string name="video_play" msgid="5287787282508002895">"Redaţi"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"Fotografii"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"Imagine de fundal"</string>
     <string name="pref_gallery_category" msgid="5826488887237959433">"Setări generale"</string>
     <string name="pref_slideshow_category" msgid="9097962086335681667">"Setări prezentare"</string>
     <string name="pref_gallery_size_title" msgid="1363406603879434418">"Dimensiune de afişare"</string>
-    <string name="pref_gallery_size_summary" msgid="7365675768755956361">"Alegeţi dimensiunea de afişare a fotografiilor şi videoclipurilor"</string>
+    <string name="pref_gallery_size_summary" msgid="7365675768755956361">"Alegeţi dimensiunea de afişare a fotografiilor și videoclipurilor"</string>
     <string name="pref_gallery_size_dialogtitle" msgid="757380558320647503">"Dimensiune fotografie"</string>
   <string-array name="pref_gallery_size_choices">
     <item msgid="7157691836846678936">"Mare"</item>
     <item msgid="1033164600689216410">"Mică"</item>
   </string-array>
     <string name="pref_gallery_sort_title" msgid="7447949250045443386">"Ordinea de sortare"</string>
-    <string name="pref_gallery_sort_summary" msgid="4406174975925645225">"Alegeţi ordinea de sortare a fotografiilor şi a videoclipurilor"</string>
+    <string name="pref_gallery_sort_summary" msgid="4406174975925645225">"Alegeţi ordinea de sortare a fotografiilor și a videoclipurilor"</string>
     <string name="pref_gallery_sort_dialogtitle" msgid="5787417105532562739">"Sortare fotografii"</string>
   <string-array name="pref_gallery_sort_choices">
     <item msgid="5546009539334018063">"Întâi cel mai nou"</item>
@@ -94,7 +94,7 @@
     <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"Alegeţi efectele pentru trecerea de la un slide la altul"</string>
     <string name="pref_gallery_slideshow_transition_dialogtitle" msgid="5483406447721500371">"Tranziţia prezentării"</string>
   <string-array name="pref_gallery_slideshow_transition_choices">
-    <item msgid="2825716730899894863">"Atenuare şi intensificare"</item>
+    <item msgid="2825716730899894863">"Atenuare și intensificare"</item>
     <item msgid="403116336404005687">"Glisaţi de la stânga la dreapta"</item>
     <item msgid="4901733079450971731">"Glisaţi de sus în jos"</item>
     <item msgid="9006732482485375438">"Selecţie aleatorie"</item>
@@ -152,6 +152,6 @@
     <string name="video_exceed_mms_limit" msgid="3835075281230780010">"Videoclipul înregistrat este prea mare pentru a fi trimis prim MMS. Încercaţi înregistrare unui videoclip mai scurt."</string>
     <string name="multiselect_share" msgid="5261644537749253581">"Distribuiţi"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"Ștergeţi"</string>
-    <string name="multiselect_cancel" msgid="5969428692864002165">"Anulaţi"</string>
+    <string name="multiselect_cancel" msgid="5969428692864002165">"Anulați"</string>
     <string name="delete_images_message" msgid="2332683687700452577">"Se şterg imaginile..."</string>
 </resources>
