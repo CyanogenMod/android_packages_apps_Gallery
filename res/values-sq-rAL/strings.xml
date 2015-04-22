@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  Copyright (C) 2007 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+ -->
+
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="all_images" msgid="1195501551939178807">"Të gjitha fotografitë"</string>
+    <string name="all_videos" msgid="3380966619230896013">"Të gjitha videot"</string>
+    <string name="camera_label" msgid="6346560772074764302">"Kamera"</string>
+    <string name="gallery_picker_label" msgid="3080425245006492787">"Galeria"</string>
+    <string name="gallery_label" msgid="7119609703856708011">"Galeria"</string>
+    <string name="gallery_camera_bucket_name" msgid="2924618424339240831">"Fotografitë e kamerës"</string>
+    <string name="gallery_camera_videos_bucket_name" msgid="3369151581398551623">"Videot e kamerës"</string>
+    <string name="gallery_camera_media_bucket_name" msgid="5560926838411387511">"Skedarët \"media\" të kamerës"</string>
+    <string name="crop_label" msgid="521114301871349328">"Prit anët e fotografisë"</string>
+    <string name="view_label" msgid="4450531507947335704">"Shiko fotografinë"</string>
+    <string name="preferences_label" msgid="5955678162525051163">"Cilësimet e kamerës"</string>
+    <string name="wait" msgid="8600187532323801552">"Qëndro në pritje..."</string>
+    <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Duhet të montosh hapësirën ruajtëse të përbashkët para se të përdorësh kamerën."</string>
+    <string name="no_storage" product="default" msgid="6680362958795677723">"Duhet të futësh një kartë SD para se të përdorësh kamerën."</string>
+    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Hapësira ruajtëse e përbashkët është plot."</string>
+    <string name="not_enough_space" product="default" msgid="6655334407957844653">"Karta SD është plot."</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Po përgatit hapësirën ruajtëse të përbashkët…"</string>
+    <string name="preparing_sd" product="default" msgid="2914969119574812666">"Po përgatit kartën SD…"</string>
+    <string name="wallpaper" msgid="140165383777262070">"Po cakton imazhin e sfondit..."</string>
+    <string name="savingImage" msgid="3051745378545909260">"Po ruan fotografinë…"</string>
+    <string name="runningFaceDetection" msgid="2293932204708167704">"Qëndro në pritje..."</string>
+    <string name="view" msgid="6277795271119411881">"Shiko"</string>
+    <string name="details" msgid="8415120088556445230">"Detajet"</string>
+    <string name="show_on_map" msgid="441725587731006228">"Shfaq te Hartat"</string>
+    <string name="rotate" msgid="460017689320955494">"Rrotullo"</string>
+    <string name="rotate_left" msgid="5888273317282539839">"Rrotullo majtas"</string>
+    <string name="rotate_right" msgid="6776325835923384839">"Rrotullo djathtas"</string>
+    <string name="slide_show" msgid="1965192737233824143">"Diafilmi"</string>
+    <string name="multiselect" msgid="4761682939945434146">"Përzgjedhje e shumëfishtë"</string>
+    <string name="capture_picture" msgid="4114265595549284643">"Shkrep një fotografi"</string>
+    <string name="capture_video" msgid="4047046282358697155">"Regjistro një video"</string>
+    <string name="crop_save_text" msgid="8140440041190264400">"Ruaj"</string>
+    <string name="crop_discard_text" msgid="5303657888280340603">"Hidh poshtë"</string>
+    <string name="confirm_delete_title" msgid="263478358046514887">"Fshi"</string>
+    <string name="confirm_delete_message" msgid="2141726810668595858">"Të fshihet fotografia?"</string>
+    <string name="confirm_delete_video_message" msgid="800016540763376529">"Të fshihet videoja?"</string>
+    <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"Të fshihen skedarët \"media\"?"</string>
+    <string name="camera_toss" msgid="3781186798552460833">"Fshi"</string>
+    <string name="camera_share" msgid="8207701858325694182">"Shpërnda"</string>
+    <string name="camera_set" msgid="3422192914806971182">"Cakto si"</string>
+    <string name="camera_play" msgid="8248000517869959980">"Luaj"</string>
+    <string name="camera_attach" msgid="4048659554893435232">"Bashkëngjit"</string>
+    <string name="camera_cancel" msgid="8203341746672085747">"Anulo"</string>
+    <string name="camera_crop" msgid="5584000454518174632">"Prit anët"</string>
+    <string name="no_way_to_share_image" msgid="7980215622010396797">"Nuk ka asnjë aplikacion që mund të përdoret për të shpërndarë fotografinë."</string>
+    <string name="no_way_to_share_video" msgid="4506167265329982928">"Nuk ka asnjë aplikacion që mund të përdoret për të shpërndarë videon."</string>
+    <string name="no_way_to_share" msgid="5276805314940059662">"Nuk ka asnjë aplikacion që mund të përdoret për të ndarë skedarin(ët) \"media\"."</string>
+    <string name="video_play" msgid="5287787282508002895">"Luaj"</string>
+    <string name="camera_pick_wallpaper" msgid="7026385960511811641">"Fotografitë"</string>
+    <string name="camera_setas_wallpaper" msgid="797463183863414289">"Imazhi i sfondit"</string>
+    <string name="pref_gallery_category" msgid="5826488887237959433">"Cilësimet e përgjithshme"</string>
+    <string name="pref_slideshow_category" msgid="9097962086335681667">"Cilësimet e diafilmit"</string>
+    <string name="pref_gallery_size_title" msgid="1363406603879434418">"Madhësia e paraqitjes"</string>
+    <string name="pref_gallery_size_summary" msgid="7365675768755956361">"Zgjidh madhësinë e paraqitjes së fotografive dhe videove"</string>
+    <string name="pref_gallery_size_dialogtitle" msgid="757380558320647503">"Madhësia e fotografisë"</string>
+  <string-array name="pref_gallery_size_choices">
+    <item msgid="7157691836846678936">"E madhe"</item>
+    <item msgid="1033164600689216410">"E vogël"</item>
+  </string-array>
+    <string name="pref_gallery_sort_title" msgid="7447949250045443386">"Mënyra e radhitjes"</string>
+    <string name="pref_gallery_sort_summary" msgid="4406174975925645225">"Zgjidh mënyrën e radhitjes së fotografive dhe videove"</string>
+    <string name="pref_gallery_sort_dialogtitle" msgid="5787417105532562739">"Radhitja e fotografive"</string>
+  <string-array name="pref_gallery_sort_choices">
+    <item msgid="5546009539334018063">"Më të rejat në fillim"</item>
+    <item msgid="7931283047572866748">"Më të rejat në fund"</item>
+  </string-array>
+    <string name="pref_gallery_slideshow_interval_title" msgid="6534904787962619832">"Intervali i diafilmit"</string>
+    <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"Zgjidh për sa kohë të shfaqet çdo diapozitiv në diafilm"</string>
+    <string name="pref_gallery_slideshow_interval_dialogtitle" msgid="6775543119826248900">"Intervali i diafilmit"</string>
+  <string-array name="pref_gallery_slideshow_interval_choices">
+    <item msgid="3089037742117543119">"2 sekonda"</item>
+    <item msgid="738579316565625730">"3 sekonda"</item>
+    <item msgid="5670078787463530498">"4 sekonda"</item>
+  </string-array>
+    <string name="pref_gallery_slideshow_transition_title" msgid="3235158556228218846">"Kalimi i diafilmit"</string>
+    <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"Zgjidh efektin që përdoret kur kalon nga një diapozitiv te tjetri"</string>
+    <string name="pref_gallery_slideshow_transition_dialogtitle" msgid="5483406447721500371">"Kalimi i diafilmit"</string>
+  <string-array name="pref_gallery_slideshow_transition_choices">
+    <item msgid="2825716730899894863">"Zbehe në hyrje dhe në dalje"</item>
+    <item msgid="403116336404005687">"Rrëshqit majtas - djathtas"</item>
+    <item msgid="4901733079450971731">"Rrëshqit lart - poshtë"</item>
+    <item msgid="9006732482485375438">"Zgjedhja e rastësishme"</item>
+  </string-array>
+    <string name="pref_gallery_slideshow_repeat_title" msgid="6512135022461429738">"Përsërite diafilmin"</string>
+    <string name="pref_gallery_slideshow_repeat_summary" msgid="8289230397431855268">"Luaje diafilmin edhe një herë"</string>
+    <string name="pref_gallery_slideshow_shuffle_title" msgid="3677508579783015598">"Përzieji diapozitivat"</string>
+    <string name="pref_gallery_slideshow_shuffle_summary" msgid="8566948749149325715">"Shfaq fotografitë në radhitje rastësore"</string>
+    <string name="camerasettings" msgid="2433519618178453928">"Cilësimet"</string>
+    <string name="image_gallery_NoImageView_text" msgid="409595259802877447">"Nuk u gjet asnjë skedar \"media\"."</string>
+    <string name="pref_gallery_confirm_delete_title" msgid="642429032687845907">"Konfirmo fshirjet"</string>
+    <string name="pref_gallery_confirm_delete_summary" msgid="5253456492765525245">"Shfaq konfirmimin para se të fshish një fotografi ose video"</string>
+    <string name="no_location_image" msgid="8907867717568887559">"Nuk ka asnjë informacion vendndodhjeje të ruajtur në këtë imazh."</string>
+    <string name="details_panel_title" msgid="4753347516759338122">"Detajet"</string>
+    <string name="details_file_size" msgid="2468878774843246797">"Madhësia e skedarit:"</string>
+    <string name="details_image_resolution" msgid="8773315928100529437">"Rezolucioni:"</string>
+    <string name="details_image_make" msgid="2888477930210903540">"Prodhuesi:"</string>
+    <string name="details_image_model" msgid="3608007849933924336">"Modeli:"</string>
+    <string name="details_image_whitebalance" msgid="4412514247882436065">"Balancimi i bardhësisë:"</string>
+    <string name="details_image_latitude" msgid="58222150203989546">"Gjerësia gjeografike e GPS-së:"</string>
+    <string name="details_image_longitude" msgid="3792725587390654278">"Gjatësia gjeografike e GPS-së:"</string>
+    <string name="details_image_location" msgid="6460201074393148978">"Vendndodhja:"</string>
+    <string name="details_duration" msgid="1028116471387901402">"Kohëzgjatja:"</string>
+    <string name="details_date_taken" msgid="348356840586463178">"Data e realizimit:"</string>
+    <string name="details_frame_rate" msgid="122397836963498191">"Shpejtësia e kuadrove"</string>
+    <string name="details_bit_rate" msgid="5632311789455402186">"Shpejtësia e kuadrove:"</string>
+    <string name="details_codec" msgid="5580300450432398126">"Kodeku:"</string>
+    <string name="details_format" msgid="3700860266600796363">"Formati:"</string>
+    <string name="details_dimension_x" msgid="4923037334136168978">"<xliff:g id="WIDTH">%1$d</xliff:g> x <xliff:g id="HEIGHT">%2$d</xliff:g>"</string>
+    <string name="details_ms" msgid="7574063760642857397">"<xliff:g id="MINUTES">%1$02d</xliff:g>:<xliff:g id="SECONDS">%2$02d</xliff:g>"</string>
+    <string name="details_hms" msgid="772340067838331166">"<xliff:g id="HOURS">%1$d</xliff:g>:<xliff:g id="MINUTES">%2$02d</xliff:g>:<xliff:g id="SECONDS">%3$02d</xliff:g>"</string>
+    <string name="details_fps" msgid="5450871169477340537">"<xliff:g id="FRAMES">%1$d</xliff:g> kuadro/sek."</string>
+    <string name="details_kbps" msgid="1515369011744784592">"<xliff:g id="SPEED">%1$d</xliff:g> kilobit/sek."</string>
+    <string name="details_mbps" msgid="3291428849607323284">"<xliff:g id="SPEED">%1$g</xliff:g> megabit/sek."</string>
+    <string name="details_ok" msgid="6848594369924424312">"Në rregull!"</string>
+    <string name="context_menu_header" msgid="1185348426222302182">"Opsionet e fotografisë"</string>
+    <string name="video_context_menu_header" msgid="7318971116949475029">"Opsionet e videos"</string>
+    <string name="multiface_crop_help" msgid="2554690102655855657">"Prek një fytyrë për të filluar."</string>
+    <string name="photos_gallery_title" msgid="6914406246471015448">"Galeria"</string>
+    <string name="pick_photos_gallery_title" msgid="8356086704733473321">"Zgjidh fotografinë"</string>
+    <string name="videos_gallery_title" msgid="6150354029982749479">"Galeria"</string>
+    <string name="pick_videos_gallery_title" msgid="568436323607491495">"Zgjidh videon"</string>
+    <string name="sendImage" msgid="7279510542799399570">"Shpërnda fotografinë nëpërmjet"</string>
+    <string name="setImage" msgid="7246975856983303047">"Vendose fotografinë si"</string>
+    <string name="sendVideo" msgid="3598567735831863073">"Shpërnda videon nëpërmjet"</string>
+    <string name="send_media_files" msgid="8201083279723850611">"Shpërnda skedarët \"media\" nëpërmjet"</string>
+    <string name="movieviewlabel" msgid="7363495772706775465">"Videot"</string>
+    <string name="loading_video" msgid="4013492720121891585">"Po ngarkon videon…"</string>
+    <string name="resume_playing_title" msgid="8996677350649355013">"Vazhdo videon"</string>
+    <string name="resume_playing_message" msgid="8480340146814638566">"Të vazhdohet luajtja e videos <xliff:g id="DURATION">%s</xliff:g>?"</string>
+    <string name="resume_playing_resume" msgid="3847915469173852416">"Vazhdo luajtjen"</string>
+    <string name="resume_playing_restart" msgid="5471008499835769292">"Fillo nga e para"</string>
+    <string name="gadget_title" msgid="259405922673466798">"Korniza e fotografisë"</string>
+    <string name="file_info_title" msgid="1628963357466012538">"Informacionet e skedarit:"</string>
+    <string name="video_exceed_mms_limit" msgid="3835075281230780010">"Videoja që regjistrove është shumë e madhe për t\'u dërguar me MMS. Provo të regjistrosh një klip me gjatësi më të shkurtër."</string>
+    <string name="multiselect_share" msgid="5261644537749253581">"Shpërnda"</string>
+    <string name="multiselect_delete" msgid="9113461994546744603">"Fshi"</string>
+    <string name="multiselect_cancel" msgid="5969428692864002165">"Anulo"</string>
+    <string name="delete_images_message" msgid="2332683687700452577">"Po fshin imazhet…"</string>
+</resources>
