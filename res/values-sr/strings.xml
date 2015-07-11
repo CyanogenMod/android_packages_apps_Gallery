@@ -142,7 +142,7 @@
     <string name="sendVideo" msgid="3598567735831863073">"Дељење видео снимка преко"</string>
     <string name="send_media_files" msgid="8201083279723850611">"Дељење датотека медија преко"</string>
     <string name="movieviewlabel" msgid="7363495772706775465">"Филмови"</string>
-    <string name="loading_video" msgid="4013492720121891585">"Учитавање видео снимка…"</string>
+    <string name="loading_video" msgid="4013492720121891585">"Учитава се видео снимак…"</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"Наставак видео снимка"</string>
     <string name="resume_playing_message" msgid="8480340146814638566">"Желите ли да наставите репродукцију видео снимка од <xliff:g id="DURATION">%s</xliff:g>?"</string>
     <string name="resume_playing_resume" msgid="3847915469173852416">"Настави репродукцију"</string>

@@ -47,14 +47,14 @@
     <string name="multiselect" msgid="4761682939945434146">"Мультизйомка"</string>
     <string name="capture_picture" msgid="4114265595549284643">"Зробити знімок"</string>
     <string name="capture_video" msgid="4047046282358697155">"Зняти відео"</string>
-    <string name="crop_save_text" msgid="8140440041190264400">"Зберег."</string>
+    <string name="crop_save_text" msgid="8140440041190264400">"Зберегти"</string>
     <string name="crop_discard_text" msgid="5303657888280340603">"Відхилити"</string>
     <string name="confirm_delete_title" msgid="263478358046514887">"Видалити"</string>
     <string name="confirm_delete_message" msgid="2141726810668595858">"Видалити це зображення?"</string>
     <string name="confirm_delete_video_message" msgid="800016540763376529">"Видалити це відео?"</string>
     <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"Видалити ці медіа-файли?"</string>
     <string name="camera_toss" msgid="3781186798552460833">"Видалити"</string>
-    <string name="camera_share" msgid="8207701858325694182">"Надісл."</string>
+    <string name="camera_share" msgid="8207701858325694182">"Надіслати"</string>
     <string name="camera_set" msgid="3422192914806971182">"Устан. як"</string>
     <string name="camera_play" msgid="8248000517869959980">"Відтворити"</string>
     <string name="camera_attach" msgid="4048659554893435232">"Вкласти"</string>
@@ -150,7 +150,7 @@
     <string name="gadget_title" msgid="259405922673466798">"Фото-рамка"</string>
     <string name="file_info_title" msgid="1628963357466012538">"Інфо про файл:"</string>
     <string name="video_exceed_mms_limit" msgid="3835075281230780010">"Записане вами відео завелике для надсилання через MMS. Спробуйте записати коротший кліп."</string>
-    <string name="multiselect_share" msgid="5261644537749253581">"Надісл."</string>
+    <string name="multiselect_share" msgid="5261644537749253581">"Надіслати"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"Видалити"</string>
     <string name="multiselect_cancel" msgid="5969428692864002165">"Скасувати"</string>
     <string name="delete_images_message" msgid="2332683687700452577">"Видалення зображень..."</string>

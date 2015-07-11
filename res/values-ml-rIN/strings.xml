@@ -28,11 +28,11 @@
     <string name="view_label" msgid="4450531507947335704">"ചിത്രം കാണുക"</string>
     <string name="preferences_label" msgid="5955678162525051163">"ക്യാമറ ക്രമീകരണങ്ങൾ"</string>
     <string name="wait" msgid="8600187532323801552">"കാത്തിരിക്കൂ…"</string>
-    <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"ക്യാമറ ഉപയോഗിക്കുന്നതിന് മുമ്പ്, നിങ്ങൾ പങ്കിട്ട സംഭരണം മൗണ്ട് ചെയ്യേണ്ടതുണ്ട്."</string>
+    <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"ക്യാമറ ഉപയോഗിക്കുന്നതിന് മുമ്പ്, നിങ്ങൾ പങ്കിട്ട സ്റ്റോറേജ്  മൗണ്ട് ചെയ്യേണ്ടതുണ്ട്."</string>
     <string name="no_storage" product="default" msgid="6680362958795677723">"ക്യാമറ ഉപയോഗിക്കുന്നതിന് മുമ്പ് നിങ്ങൾ ഒരു SD കാർഡ് ചേർക്കേണ്ടതുണ്ട്."</string>
-    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"നിങ്ങളുടെ പങ്കിട്ട സംഭരണം നിറഞ്ഞിരിക്കുന്നു."</string>
+    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"നിങ്ങളുടെ പങ്കിട്ട സ്റ്റോറേജ്  നിറഞ്ഞിരിക്കുന്നു."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"നിങ്ങളുടെ SD കാർഡ് നിറഞ്ഞിരിക്കുന്നു."</string>
-    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"പങ്കിട്ട സംഭരണം തയ്യാറാക്കുന്നു…"</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"പങ്കിട്ട സ്റ്റോറേജ്  തയ്യാറാക്കുന്നു…"</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"SD കാർഡ് തയ്യാറാക്കുന്നു..."</string>
     <string name="wallpaper" msgid="140165383777262070">"വാൾപേപ്പർ സജ്ജീകരിയ്ക്കുന്നു..."</string>
     <string name="savingImage" msgid="3051745378545909260">"ചിത്രം സംരക്ഷിക്കുക…"</string>
