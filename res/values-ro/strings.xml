@@ -29,7 +29,7 @@
     <string name="preferences_label" msgid="5955678162525051163">"Setările camerei foto"</string>
     <string name="wait" msgid="8600187532323801552">"Aşteptaţi…"</string>
     <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Înainte de a utiliza camera foto, trebuie să montaţi spaţiul de stocare distribuit."</string>
-    <string name="no_storage" product="default" msgid="6680362958795677723">"Înainte de a utiliza camera foto, trebuie să inseraţi un card SD."</string>
+    <string name="no_storage" product="default" msgid="6680362958795677723">"Înainte de a utiliza camera foto, trebuie să inserați un card SD."</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Spaţiul de stocare distribuit s-a terminat."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"Cardul SD este plin."</string>
     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Se pregăteşte stocarea distribuită..."</string>
@@ -120,7 +120,7 @@
     <string name="details_duration" msgid="1028116471387901402">"Durata:"</string>
     <string name="details_date_taken" msgid="348356840586463178">"Data realizării:"</string>
     <string name="details_frame_rate" msgid="122397836963498191">"Frecvenţa cadrelor:"</string>
-    <string name="details_bit_rate" msgid="5632311789455402186">"Rată biţi:"</string>
+    <string name="details_bit_rate" msgid="5632311789455402186">"Rată biți:"</string>
     <string name="details_codec" msgid="5580300450432398126">"Codec:"</string>
     <string name="details_format" msgid="3700860266600796363">"Format:"</string>
     <string name="details_dimension_x" msgid="4923037334136168978">"<xliff:g id="WIDTH">%1$d</xliff:g>x<xliff:g id="HEIGHT">%2$d</xliff:g>"</string>
