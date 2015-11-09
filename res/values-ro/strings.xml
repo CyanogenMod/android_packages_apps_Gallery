@@ -25,7 +25,7 @@
     <string name="gallery_camera_videos_bucket_name" msgid="3369151581398551623">"Videoclipuri cameră"</string>
     <string name="gallery_camera_media_bucket_name" msgid="5560926838411387511">"Conţinut media cameră"</string>
     <string name="crop_label" msgid="521114301871349328">"Decupaţi fotografia"</string>
-    <string name="view_label" msgid="4450531507947335704">"Vizualizaţi fotografia"</string>
+    <string name="view_label" msgid="4450531507947335704">"Vizualizați fotografia"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Setările camerei foto"</string>
     <string name="wait" msgid="8600187532323801552">"Aşteptaţi…"</string>
     <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Înainte de a utiliza camera foto, trebuie să montaţi spaţiul de stocare distribuit."</string>
@@ -37,7 +37,7 @@
     <string name="wallpaper" msgid="140165383777262070">"Se setează imaginea de fundal..."</string>
     <string name="savingImage" msgid="3051745378545909260">"Se salvează fotografia..."</string>
     <string name="runningFaceDetection" msgid="2293932204708167704">"Aşteptaţi…"</string>
-    <string name="view" msgid="6277795271119411881">"Vizualizaţi"</string>
+    <string name="view" msgid="6277795271119411881">"Vizualizați"</string>
     <string name="details" msgid="8415120088556445230">"Detalii"</string>
     <string name="show_on_map" msgid="441725587731006228">"Afişaţi pe Hărţi Google"</string>
     <string name="rotate" msgid="460017689320955494">"Rotiţi"</string>
@@ -47,7 +47,7 @@
     <string name="multiselect" msgid="4761682939945434146">"Selecţie multiplă"</string>
     <string name="capture_picture" msgid="4114265595549284643">"Realizaţi o fotografie"</string>
     <string name="capture_video" msgid="4047046282358697155">"Realizaţi un videoclip"</string>
-    <string name="crop_save_text" msgid="8140440041190264400">"Salvaţi"</string>
+    <string name="crop_save_text" msgid="8140440041190264400">"Salvați"</string>
     <string name="crop_discard_text" msgid="5303657888280340603">"Renunţaţi"</string>
     <string name="confirm_delete_title" msgid="263478358046514887">"Ștergeţi"</string>
     <string name="confirm_delete_message" msgid="2141726810668595858">"Ștergeţi această imagine?"</string>
@@ -69,21 +69,21 @@
     <string name="pref_gallery_category" msgid="5826488887237959433">"Setări generale"</string>
     <string name="pref_slideshow_category" msgid="9097962086335681667">"Setări prezentare"</string>
     <string name="pref_gallery_size_title" msgid="1363406603879434418">"Dimensiune de afişare"</string>
-    <string name="pref_gallery_size_summary" msgid="7365675768755956361">"Alegeţi dimensiunea de afişare a fotografiilor și videoclipurilor"</string>
+    <string name="pref_gallery_size_summary" msgid="7365675768755956361">"Alegeți dimensiunea de afişare a fotografiilor și videoclipurilor"</string>
     <string name="pref_gallery_size_dialogtitle" msgid="757380558320647503">"Dimensiune fotografie"</string>
   <string-array name="pref_gallery_size_choices">
     <item msgid="7157691836846678936">"Mare"</item>
     <item msgid="1033164600689216410">"Mică"</item>
   </string-array>
     <string name="pref_gallery_sort_title" msgid="7447949250045443386">"Ordinea de sortare"</string>
-    <string name="pref_gallery_sort_summary" msgid="4406174975925645225">"Alegeţi ordinea de sortare a fotografiilor și a videoclipurilor"</string>
+    <string name="pref_gallery_sort_summary" msgid="4406174975925645225">"Alegeți ordinea de sortare a fotografiilor și a videoclipurilor"</string>
     <string name="pref_gallery_sort_dialogtitle" msgid="5787417105532562739">"Sortare fotografii"</string>
   <string-array name="pref_gallery_sort_choices">
     <item msgid="5546009539334018063">"Întâi cel mai nou"</item>
     <item msgid="7931283047572866748">"Cea mai recentă ultima"</item>
   </string-array>
     <string name="pref_gallery_slideshow_interval_title" msgid="6534904787962619832">"Interval de prezentare"</string>
-    <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"Alegeţi cât timp va fi afişat fiecare slide în prezentare"</string>
+    <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"Alegeți cât timp va fi afişat fiecare slide în prezentare"</string>
     <string name="pref_gallery_slideshow_interval_dialogtitle" msgid="6775543119826248900">"Interval de prezentare"</string>
   <string-array name="pref_gallery_slideshow_interval_choices">
     <item msgid="3089037742117543119">"2 secunde"</item>
@@ -91,7 +91,7 @@
     <item msgid="5670078787463530498">"4 secunde"</item>
   </string-array>
     <string name="pref_gallery_slideshow_transition_title" msgid="3235158556228218846">"Tranziţia prezentării"</string>
-    <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"Alegeţi efectele pentru trecerea de la un slide la altul"</string>
+    <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"Alegeți efectele pentru trecerea de la un slide la altul"</string>
     <string name="pref_gallery_slideshow_transition_dialogtitle" msgid="5483406447721500371">"Tranziţia prezentării"</string>
   <string-array name="pref_gallery_slideshow_transition_choices">
     <item msgid="2825716730899894863">"Atenuare și intensificare"</item>
@@ -99,24 +99,24 @@
     <item msgid="4901733079450971731">"Glisaţi de sus în jos"</item>
     <item msgid="9006732482485375438">"Selecţie aleatorie"</item>
   </string-array>
-    <string name="pref_gallery_slideshow_repeat_title" msgid="6512135022461429738">"Repetaţi prezentarea"</string>
+    <string name="pref_gallery_slideshow_repeat_title" msgid="6512135022461429738">"Repetați prezentarea"</string>
     <string name="pref_gallery_slideshow_repeat_summary" msgid="8289230397431855268">"Redaţi prezentarea de mai multe ori"</string>
     <string name="pref_gallery_slideshow_shuffle_title" msgid="3677508579783015598">"Slide-uri redate în mod aleatoriu"</string>
     <string name="pref_gallery_slideshow_shuffle_summary" msgid="8566948749149325715">"Afişaţi fotografiile în ordine aleatorie"</string>
     <string name="camerasettings" msgid="2433519618178453928">"Setări"</string>
     <string name="image_gallery_NoImageView_text" msgid="409595259802877447">"Niciun dispozitiv media găsit."</string>
-    <string name="pref_gallery_confirm_delete_title" msgid="642429032687845907">"Confirmaţi ştergerile"</string>
+    <string name="pref_gallery_confirm_delete_title" msgid="642429032687845907">"Confirmați ștergerile"</string>
     <string name="pref_gallery_confirm_delete_summary" msgid="5253456492765525245">"Afişaţi confirmarea înaintea ştergerii unei fotografii sau a unui videoclip"</string>
-    <string name="no_location_image" msgid="8907867717568887559">"Nu există informaţii referitoare la locație stocate în această imagine."</string>
+    <string name="no_location_image" msgid="8907867717568887559">"Nu există informații referitoare la locație stocate în această imagine."</string>
     <string name="details_panel_title" msgid="4753347516759338122">"Detalii"</string>
-    <string name="details_file_size" msgid="2468878774843246797">"Dimensiune fişier:"</string>
-    <string name="details_image_resolution" msgid="8773315928100529437">"Rezoluţie:"</string>
+    <string name="details_file_size" msgid="2468878774843246797">"Dimensiune fișier:"</string>
+    <string name="details_image_resolution" msgid="8773315928100529437">"Rezoluție:"</string>
     <string name="details_image_make" msgid="2888477930210903540">"Producător:"</string>
     <string name="details_image_model" msgid="3608007849933924336">"Model:"</string>
     <string name="details_image_whitebalance" msgid="4412514247882436065">"Balanţă de alb:"</string>
     <string name="details_image_latitude" msgid="58222150203989546">"Latitudine GPS:"</string>
     <string name="details_image_longitude" msgid="3792725587390654278">"Longitudine GPS:"</string>
-    <string name="details_image_location" msgid="6460201074393148978">"Locaţie:"</string>
+    <string name="details_image_location" msgid="6460201074393148978">"Locație:"</string>
     <string name="details_duration" msgid="1028116471387901402">"Durata:"</string>
     <string name="details_date_taken" msgid="348356840586463178">"Data realizării:"</string>
     <string name="details_frame_rate" msgid="122397836963498191">"Frecvenţa cadrelor:"</string>
@@ -134,9 +134,9 @@
     <string name="video_context_menu_header" msgid="7318971116949475029">"Opţiuni video"</string>
     <string name="multiface_crop_help" msgid="2554690102655855657">"Atingeţi o față pentru a începe."</string>
     <string name="photos_gallery_title" msgid="6914406246471015448">"Galerie"</string>
-    <string name="pick_photos_gallery_title" msgid="8356086704733473321">"Alegeţi imaginea"</string>
+    <string name="pick_photos_gallery_title" msgid="8356086704733473321">"Alegeți imaginea"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"Galerie"</string>
-    <string name="pick_videos_gallery_title" msgid="568436323607491495">"Alegeţi videoclipul"</string>
+    <string name="pick_videos_gallery_title" msgid="568436323607491495">"Alegeți videoclipul"</string>
     <string name="sendImage" msgid="7279510542799399570">"Distribuiţi fotografia prin"</string>
     <string name="setImage" msgid="7246975856983303047">"Setaţi fotografia ca"</string>
     <string name="sendVideo" msgid="3598567735831863073">"Distribuiţi videoclipul prin"</string>
@@ -148,7 +148,7 @@
     <string name="resume_playing_resume" msgid="3847915469173852416">"Reluaţi redarea"</string>
     <string name="resume_playing_restart" msgid="5471008499835769292">"Începeţi din nou"</string>
     <string name="gadget_title" msgid="259405922673466798">"Ramă foto"</string>
-    <string name="file_info_title" msgid="1628963357466012538">"Informaţii fişier:"</string>
+    <string name="file_info_title" msgid="1628963357466012538">"Informații fișier:"</string>
     <string name="video_exceed_mms_limit" msgid="3835075281230780010">"Videoclipul înregistrat este prea mare pentru a fi trimis prim MMS. Încercați înregistrare unui videoclip mai scurt."</string>
     <string name="multiselect_share" msgid="5261644537749253581">"Distribuiţi"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"Ștergeţi"</string>
