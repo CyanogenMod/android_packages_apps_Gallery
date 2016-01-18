@@ -28,8 +28,8 @@
     <string name="view_label" msgid="4450531507947335704">"Bild anzeigen"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Kameraeinstellungen"</string>
     <string name="wait" msgid="8600187532323801552">"Bitte warten..."</string>
-    <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Sie müssen vor Verwendung der Kamera den gemeinsamen Speicher bereitstellen."</string>
-    <string name="no_storage" product="default" msgid="6680362958795677723">"Sie müssen vor Verwendung der Kamera eine SD-Karte einlegen."</string>
+    <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Du musst vor Verwendung der Kamera den gemeinsamen Speicher bereitstellen."</string>
+    <string name="no_storage" product="default" msgid="6680362958795677723">"Du musst vor Verwendung der Kamera eine SD-Karte einlegen."</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Ihr gemeinsamer Speicher ist voll."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"Ihre SD-Karte ist voll."</string>
     <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Gemeinsamer Speicher wird vorbereitet..."</string>
@@ -149,7 +149,7 @@
     <string name="resume_playing_restart" msgid="5471008499835769292">"Starten"</string>
     <string name="gadget_title" msgid="259405922673466798">"Bildrahmen"</string>
     <string name="file_info_title" msgid="1628963357466012538">"Dateiinfo:"</string>
-    <string name="video_exceed_mms_limit" msgid="3835075281230780010">"Das aufgenommene Video ist zu groß und kann nicht per MMS gesendet werden. Nehmen Sie einen kürzeren Clip auf."</string>
+    <string name="video_exceed_mms_limit" msgid="3835075281230780010">"Das aufgenommene Video ist zu groß und kann nicht per MMS gesendet werden. Nimm einen kürzeren Clip auf."</string>
     <string name="multiselect_share" msgid="5261644537749253581">"Teilen"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"Löschen"</string>
     <string name="multiselect_cancel" msgid="5969428692864002165">"Abbrechen"</string>
