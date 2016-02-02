@@ -26,7 +26,7 @@
     <string name="gallery_camera_media_bucket_name" msgid="5560926838411387511">"Медиуми на фотоапарат"</string>
     <string name="crop_label" msgid="521114301871349328">"Исечи слика"</string>
     <string name="view_label" msgid="4450531507947335704">"Види ја сликата"</string>
-    <string name="preferences_label" msgid="5955678162525051163">"Подесувања на фотоапарат"</string>
+    <string name="preferences_label" msgid="5955678162525051163">"Поставки на фотоапарат"</string>
     <string name="wait" msgid="8600187532323801552">"Почекај..."</string>
     <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"Треба да ја монтирате заедничката меморија пред користење на камерата."</string>
     <string name="no_storage" product="default" msgid="6680362958795677723">"Треба да вметнеш СД картичка пред да ја користиш камерата."</string>
@@ -67,7 +67,7 @@
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"Слики"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"Тапет"</string>
     <string name="pref_gallery_category" msgid="5826488887237959433">"Општи подесувања"</string>
-    <string name="pref_slideshow_category" msgid="9097962086335681667">"Подесувања на приказ на слајдови"</string>
+    <string name="pref_slideshow_category" msgid="9097962086335681667">"Поставки на приказ на слајдови"</string>
     <string name="pref_gallery_size_title" msgid="1363406603879434418">"Големина на прикажување"</string>
     <string name="pref_gallery_size_summary" msgid="7365675768755956361">"Избери големина на прикажување слики и видеа"</string>
     <string name="pref_gallery_size_dialogtitle" msgid="757380558320647503">"Големина на слика"</string>
@@ -103,7 +103,7 @@
     <string name="pref_gallery_slideshow_repeat_summary" msgid="8289230397431855268">"Пушти приказ на слајдови повеќе од еднаш"</string>
     <string name="pref_gallery_slideshow_shuffle_title" msgid="3677508579783015598">"Мешај слајдови"</string>
     <string name="pref_gallery_slideshow_shuffle_summary" msgid="8566948749149325715">"Прикажи слики по случаен редослед"</string>
-    <string name="camerasettings" msgid="2433519618178453928">"Подесувања"</string>
+    <string name="camerasettings" msgid="2433519618178453928">"Поставки"</string>
     <string name="image_gallery_NoImageView_text" msgid="409595259802877447">"Не е пронајден медиум."</string>
     <string name="pref_gallery_confirm_delete_title" msgid="642429032687845907">"Потврди бришења"</string>
     <string name="pref_gallery_confirm_delete_summary" msgid="5253456492765525245">"Прикажи потврда пред бришење слика или видео"</string>

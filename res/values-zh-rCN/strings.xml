@@ -112,7 +112,7 @@
     <string name="details_file_size" msgid="2468878774843246797">"文件大小："</string>
     <string name="details_image_resolution" msgid="8773315928100529437">"分辨率："</string>
     <string name="details_image_make" msgid="2888477930210903540">"制造商："</string>
-    <string name="details_image_model" msgid="3608007849933924336">"型号："</string>
+    <string name="details_image_model" msgid="3608007849933924336">"机型："</string>
     <string name="details_image_whitebalance" msgid="4412514247882436065">"白平衡："</string>
     <string name="details_image_latitude" msgid="58222150203989546">"GPS纬度："</string>
     <string name="details_image_longitude" msgid="3792725587390654278">"GPS经度："</string>

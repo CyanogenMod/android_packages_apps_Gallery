@@ -48,7 +48,7 @@
     <string name="capture_picture" msgid="4114265595549284643">"Suratga olish rejimi"</string>
     <string name="capture_video" msgid="4047046282358697155">"Video yozib olish rejimi"</string>
     <string name="crop_save_text" msgid="8140440041190264400">"Saqlash"</string>
-    <string name="crop_discard_text" msgid="5303657888280340603">"Ortga qaytarish"</string>
+    <string name="crop_discard_text" msgid="5303657888280340603">"Bekor qilish"</string>
     <string name="confirm_delete_title" msgid="263478358046514887">"O‘chirish"</string>
     <string name="confirm_delete_message" msgid="2141726810668595858">"Ushbu rasm o‘chirilsinmi?"</string>
     <string name="confirm_delete_video_message" msgid="800016540763376529">"Ushbu video o‘chirilsinmi?"</string>
