@@ -28,11 +28,11 @@
     <string name="view_label" msgid="4450531507947335704">"ছবি দেখুন"</string>
     <string name="preferences_label" msgid="5955678162525051163">"ক্যামেরা সেটিংস"</string>
     <string name="wait" msgid="8600187532323801552">"দয়া করে অপেক্ষা করুন..."</string>
-    <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"আপনাকে ক্যামেরা ব্যবহার করার পূর্বে ভাগ করা সঞ্চয়স্থান মাউন্ট করতে হবে।"</string>
+    <string name="no_storage" product="nosdcard" msgid="4006727786803418058">"আপনাকে ক্যামেরা ব্যবহার করার পূর্বে শেয়ার করা সঞ্চয়স্থান মাউন্ট করতে হবে।"</string>
     <string name="no_storage" product="default" msgid="6680362958795677723">"ক্যামেরা ব্যবহার করার পূর্বে আপনাকে একটি SD কার্ড ঢোকাতে হবে।"</string>
-    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"আপনার ভাগ করা সঞ্চয়স্থান পূর্ণ।"</string>
+    <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"আপনার শেয়ার করা সঞ্চয়স্থান পূর্ণ।"</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"আপনার SD কার্ড পূর্ণ।"</string>
-    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"ভাগ করা সঞ্চয়স্থান প্রস্তুত করা হচ…"</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"শেয়ার করা সঞ্চয়স্থান প্রস্তুত করা হচ…"</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"SD কার্ড প্রস্তুত করা হচ্ছে..."</string>
     <string name="wallpaper" msgid="140165383777262070">"ওয়ালপেপার সেট করা হচ্ছে..."</string>
     <string name="savingImage" msgid="3051745378545909260">"ছবি সংরক্ষণ করা হচ্ছে..."</string>
@@ -54,15 +54,15 @@
     <string name="confirm_delete_video_message" msgid="800016540763376529">"এই ভিডিওটি মুছবেন?"</string>
     <string name="confirm_delete_multiple_message" msgid="5184550162588396436">"এই মিডিয়া ফাইলগুলি মুছবেন?"</string>
     <string name="camera_toss" msgid="3781186798552460833">"মুছুন"</string>
-    <string name="camera_share" msgid="8207701858325694182">"ভাগ করুন"</string>
+    <string name="camera_share" msgid="8207701858325694182">"শেয়ার করুন"</string>
     <string name="camera_set" msgid="3422192914806971182">"হিসাবে সেট করুন"</string>
     <string name="camera_play" msgid="8248000517869959980">"প্লে করুন"</string>
     <string name="camera_attach" msgid="4048659554893435232">"সংযুক্ত করুন"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"বাতিল"</string>
     <string name="camera_crop" msgid="5584000454518174632">"ক্রপ"</string>
-    <string name="no_way_to_share_image" msgid="7980215622010396797">"ছবিটি ভাগ করার জন্য কোনো অ্যাপ্লিকেশান উপলব্ধ নেই।"</string>
-    <string name="no_way_to_share_video" msgid="4506167265329982928">"ভিডিওটি ভাগ করার জন্য কোনো অ্যাপ্লিকেশান উপলব্ধ নেই।"</string>
-    <string name="no_way_to_share" msgid="5276805314940059662">"মিডিয়া ফাইল(গুলি) ভাগ করার জন্য কোনো অ্যাপ্লিকেশান উপলব্ধ নেই।"</string>
+    <string name="no_way_to_share_image" msgid="7980215622010396797">"ছবিটি শেয়ার করার জন্য কোনো অ্যাপ্লিকেশান উপলব্ধ নেই।"</string>
+    <string name="no_way_to_share_video" msgid="4506167265329982928">"ভিডিওটি শেয়ার করার জন্য কোনো অ্যাপ্লিকেশান উপলব্ধ নেই।"</string>
+    <string name="no_way_to_share" msgid="5276805314940059662">"মিডিয়া ফাইল(গুলি) শেয়ার করার জন্য কোনো অ্যাপ্লিকেশান উপলব্ধ নেই।"</string>
     <string name="video_play" msgid="5287787282508002895">"প্লে করুন"</string>
     <string name="camera_pick_wallpaper" msgid="7026385960511811641">"ছবিগুলি"</string>
     <string name="camera_setas_wallpaper" msgid="797463183863414289">"ওয়ালপেপার"</string>
@@ -137,10 +137,10 @@
     <string name="pick_photos_gallery_title" msgid="8356086704733473321">"ছবি চয়ন করুন"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"গ্যালারি"</string>
     <string name="pick_videos_gallery_title" msgid="568436323607491495">"ভিডিও চয়ন করুন"</string>
-    <string name="sendImage" msgid="7279510542799399570">"এর মাধ্যমে ছবি ভাগ করুন"</string>
+    <string name="sendImage" msgid="7279510542799399570">"এর মাধ্যমে ছবি শেয়ার করুন"</string>
     <string name="setImage" msgid="7246975856983303047">"এই হিসাবে ছবি সেট করুন"</string>
-    <string name="sendVideo" msgid="3598567735831863073">"এর মাধ্যমে ভিডিও ভাগ করুন"</string>
-    <string name="send_media_files" msgid="8201083279723850611">"এর মাধ্যমে মিডিয়া ফাইল ভাগ করুন"</string>
+    <string name="sendVideo" msgid="3598567735831863073">"এর মাধ্যমে ভিডিও শেয়ার করুন"</string>
+    <string name="send_media_files" msgid="8201083279723850611">"এর মাধ্যমে মিডিয়া ফাইল শেয়ার করুন"</string>
     <string name="movieviewlabel" msgid="7363495772706775465">"চলচ্চিত্রগুলি"</string>
     <string name="loading_video" msgid="4013492720121891585">"ভিডিও লোড হচ্ছে..."</string>
     <string name="resume_playing_title" msgid="8996677350649355013">"ভিডিও পুনঃসূচনা করুন"</string>
@@ -150,7 +150,7 @@
     <string name="gadget_title" msgid="259405922673466798">"ছবি ফ্রেম"</string>
     <string name="file_info_title" msgid="1628963357466012538">"ফাইল তথ্য:"</string>
     <string name="video_exceed_mms_limit" msgid="3835075281230780010">"MMS এর মাধ্যমে পাঠানোর জন্য আপনার রেকর্ড করা ভিডিওটি খুব বড়। স্বল্প দৈর্ঘ্যের ক্লিপ রেকর্ড করার চেষ্টা করুন।"</string>
-    <string name="multiselect_share" msgid="5261644537749253581">"ভাগ করুন"</string>
+    <string name="multiselect_share" msgid="5261644537749253581">"শেয়ার করুন"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"মুছুন"</string>
     <string name="multiselect_cancel" msgid="5969428692864002165">"বাতিল"</string>
     <string name="delete_images_message" msgid="2332683687700452577">"চিত্রগুলি মুছে ফেলা হচ্ছে..."</string>

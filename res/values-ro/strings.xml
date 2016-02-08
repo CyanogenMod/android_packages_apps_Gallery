@@ -24,7 +24,7 @@
     <string name="gallery_camera_bucket_name" msgid="2924618424339240831">"Fotografii cameră"</string>
     <string name="gallery_camera_videos_bucket_name" msgid="3369151581398551623">"Videoclipuri cameră"</string>
     <string name="gallery_camera_media_bucket_name" msgid="5560926838411387511">"Conţinut media cameră"</string>
-    <string name="crop_label" msgid="521114301871349328">"Decupaţi fotografia"</string>
+    <string name="crop_label" msgid="521114301871349328">"Decupați fotografia"</string>
     <string name="view_label" msgid="4450531507947335704">"Vizualizați fotografia"</string>
     <string name="preferences_label" msgid="5955678162525051163">"Setările camerei foto"</string>
     <string name="wait" msgid="8600187532323801552">"Aşteptaţi…"</string>
@@ -59,7 +59,7 @@
     <string name="camera_play" msgid="8248000517869959980">"Redați"</string>
     <string name="camera_attach" msgid="4048659554893435232">"Ataşaţi"</string>
     <string name="camera_cancel" msgid="8203341746672085747">"Anulați"</string>
-    <string name="camera_crop" msgid="5584000454518174632">"Decupaţi"</string>
+    <string name="camera_crop" msgid="5584000454518174632">"Decupați"</string>
     <string name="no_way_to_share_image" msgid="7980215622010396797">"Nu există nicio aplicație disponibilă pentru a distribui imaginea."</string>
     <string name="no_way_to_share_video" msgid="4506167265329982928">"Nu există nicio aplicație disponibilă pentru a distribui videoclipul."</string>
     <string name="no_way_to_share" msgid="5276805314940059662">"Nu există nicio aplicație disponibilă pentru a distribui fişierele media."</string>
