@@ -143,9 +143,9 @@
     <string name="send_media_files" msgid="8201083279723850611">"Zdieľanie súborov médií pomocou"</string>
     <string name="movieviewlabel" msgid="7363495772706775465">"Filmy"</string>
     <string name="loading_video" msgid="4013492720121891585">"Prebieha načítavanie videa…"</string>
-    <string name="resume_playing_title" msgid="8996677350649355013">"Obnoviť prehrávanie videa"</string>
+    <string name="resume_playing_title" msgid="8996677350649355013">"Pokračovať v prehrávaní videa"</string>
     <string name="resume_playing_message" msgid="8480340146814638566">"Pokračovať v prehrávaní videa od času <xliff:g id="DURATION">%s</xliff:g>?"</string>
-    <string name="resume_playing_resume" msgid="3847915469173852416">"Obnoviť prehrávanie"</string>
+    <string name="resume_playing_resume" msgid="3847915469173852416">"Pokračovať v prehrávaní"</string>
     <string name="resume_playing_restart" msgid="5471008499835769292">"Začať odznova"</string>
     <string name="gadget_title" msgid="259405922673466798">"Rámec fotografie"</string>
     <string name="file_info_title" msgid="1628963357466012538">"Informácie o súbore:"</string>

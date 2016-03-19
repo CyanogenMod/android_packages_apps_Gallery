@@ -32,7 +32,7 @@
     <string name="no_storage" product="default" msgid="6680362958795677723">"Πριν ξεκινήσετε τη χρήση της φωτογραφικής μηχανής, θα πρέπει να τοποθετήσετε μια κάρτα SD."</string>
     <string name="not_enough_space" product="nosdcard" msgid="7966388882416357252">"Ο κοινόχρηστος χώρος αποθήκευσής σας είναι πλήρης."</string>
     <string name="not_enough_space" product="default" msgid="6655334407957844653">"Η κάρτα SD είναι πλήρης."</string>
-    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Προετοιμασία κοινόχρηστου χώρου αποθήκευσης…"</string>
+    <string name="preparing_sd" product="nosdcard" msgid="183917364005592061">"Προετοιμασία κοινόχρηστου αποθηκευτικού χώρου…"</string>
     <string name="preparing_sd" product="default" msgid="2914969119574812666">"Προετοιμασία κάρτας SD…"</string>
     <string name="wallpaper" msgid="140165383777262070">"Ορισμός ταπετσαρίας..."</string>
     <string name="savingImage" msgid="3051745378545909260">"Αποθήκευση εικόνας..."</string>

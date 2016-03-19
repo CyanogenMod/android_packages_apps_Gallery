@@ -110,7 +110,7 @@
     <string name="no_location_image" msgid="8907867717568887559">"Ushbu rasm olingan joylashuv haqida ma’lumot yo‘q."</string>
     <string name="details_panel_title" msgid="4753347516759338122">"Tafsilotlar"</string>
     <string name="details_file_size" msgid="2468878774843246797">"Fayl hajmi:"</string>
-    <string name="details_image_resolution" msgid="8773315928100529437">"Ekran hajmi:"</string>
+    <string name="details_image_resolution" msgid="8773315928100529437">"Tasvir sig‘imi:"</string>
     <string name="details_image_make" msgid="2888477930210903540">"Ishlab chiqaruvchi:"</string>
     <string name="details_image_model" msgid="3608007849933924336">"Modeli:"</string>
     <string name="details_image_whitebalance" msgid="4412514247882436065">"OqRangMuvozanati:"</string>
