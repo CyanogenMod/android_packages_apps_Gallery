@@ -86,9 +86,9 @@
     <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"اختر مدة عرض كل شريحة من الشرائح في العرض"</string>
     <string name="pref_gallery_slideshow_interval_dialogtitle" msgid="6775543119826248900">"الفاصل الزمني لعرض الشرائح"</string>
   <string-array name="pref_gallery_slideshow_interval_choices">
-    <item msgid="3089037742117543119">"2 ثوانٍ"</item>
-    <item msgid="738579316565625730">"3 ثوانٍ"</item>
-    <item msgid="5670078787463530498">"4 ثوانٍ"</item>
+    <item msgid="3089037742117543119">"۲ ثوانٍ"</item>
+    <item msgid="738579316565625730">"۳ ثوانٍ"</item>
+    <item msgid="5670078787463530498">"٤ ثوانٍ"</item>
   </string-array>
     <string name="pref_gallery_slideshow_transition_title" msgid="3235158556228218846">"نقل عرض الشرائح"</string>
     <string name="pref_gallery_slideshow_transition_summary" msgid="8294295294239125591">"اختيار التأثير المستخدم عند التنقل من شريحة إلى التي تليها"</string>
