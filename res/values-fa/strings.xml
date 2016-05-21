@@ -149,7 +149,7 @@
     <string name="resume_playing_restart" msgid="5471008499835769292">"شروع مجدد"</string>
     <string name="gadget_title" msgid="259405922673466798">"قاب عکس"</string>
     <string name="file_info_title" msgid="1628963357466012538">"اطلاعات فایل:"</string>
-    <string name="video_exceed_mms_limit" msgid="3835075281230780010">"‏ویدیویی که شما ضبط کردید برای ارسال از طریق MMS خیلی بزرگ است. یک کلیپ کوچکتر ضبط کنید."</string>
+    <string name="video_exceed_mms_limit" msgid="3835075281230780010">"ویدیویی که شما ضبط کردید برای ارسال از طریق فراپیام خیلی بزرگ است. یک کلیپ کوچکتر ضبط کنید."</string>
     <string name="multiselect_share" msgid="5261644537749253581">"اشتراک‌گذاری"</string>
     <string name="multiselect_delete" msgid="9113461994546744603">"حذف"</string>
     <string name="multiselect_cancel" msgid="5969428692864002165">"لغو"</string>

@@ -83,7 +83,7 @@
     <item msgid="7931283047572866748">"নবীনতম শেষ"</item>
   </string-array>
     <string name="pref_gallery_slideshow_interval_title" msgid="6534904787962619832">"স্লাইডশো বিরতি"</string>
-    <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"শোতে প্রতিটি স্লাইড কতক্ষণ প্রদর্শিত হবে তা চয়ন করুন"</string>
+    <string name="pref_gallery_slideshow_interval_summary" msgid="25973922639324614">"শোতে প্রতিটি স্লাইড কতক্ষণ প্রদর্শিত হবে তা বেছে নিন"</string>
     <string name="pref_gallery_slideshow_interval_dialogtitle" msgid="6775543119826248900">"স্লাইডশো বিরতি"</string>
   <string-array name="pref_gallery_slideshow_interval_choices">
     <item msgid="3089037742117543119">"২ সেকেন্ড"</item>
@@ -136,7 +136,7 @@
     <string name="photos_gallery_title" msgid="6914406246471015448">"গ্যালারি"</string>
     <string name="pick_photos_gallery_title" msgid="8356086704733473321">"ছবি চয়ন করুন"</string>
     <string name="videos_gallery_title" msgid="6150354029982749479">"গ্যালারি"</string>
-    <string name="pick_videos_gallery_title" msgid="568436323607491495">"ভিডিও চয়ন করুন"</string>
+    <string name="pick_videos_gallery_title" msgid="568436323607491495">"ভিডিও বেছে নিন"</string>
     <string name="sendImage" msgid="7279510542799399570">"এর মাধ্যমে ছবি শেয়ার করুন"</string>
     <string name="setImage" msgid="7246975856983303047">"এই হিসাবে ছবি সেট করুন"</string>
     <string name="sendVideo" msgid="3598567735831863073">"এর মাধ্যমে ভিডিও শেয়ার করুন"</string>
