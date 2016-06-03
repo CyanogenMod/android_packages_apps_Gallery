@@ -114,8 +114,8 @@
     <string name="details_image_make" msgid="2888477930210903540">"Производител:"</string>
     <string name="details_image_model" msgid="3608007849933924336">"Модел:"</string>
     <string name="details_image_whitebalance" msgid="4412514247882436065">"Баланс на бела боја:"</string>
-    <string name="details_image_latitude" msgid="58222150203989546">"Географска ширина по ГПС:"</string>
-    <string name="details_image_longitude" msgid="3792725587390654278">"Географска должина за ГПС:"</string>
+    <string name="details_image_latitude" msgid="58222150203989546">"Географска ширина по GPS:"</string>
+    <string name="details_image_longitude" msgid="3792725587390654278">"Географска должина за GPS:"</string>
     <string name="details_image_location" msgid="6460201074393148978">"Локација:"</string>
     <string name="details_duration" msgid="1028116471387901402">"Времетраење:"</string>
     <string name="details_date_taken" msgid="348356840586463178">"Датум на создавање:"</string>

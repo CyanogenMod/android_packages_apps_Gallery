@@ -106,7 +106,7 @@
     <string name="camerasettings" msgid="2433519618178453928">"सेटिङहरू"</string>
     <string name="image_gallery_NoImageView_text" msgid="409595259802877447">"कुनै मिडिया पाइएन।"</string>
     <string name="pref_gallery_confirm_delete_title" msgid="642429032687845907">"हटाउने पुष्टि गर्नुहोस्"</string>
-    <string name="pref_gallery_confirm_delete_summary" msgid="5253456492765525245">"कुनै फोटो अथवा भिडियो हटाउनुभन्दा पहले पुष्टि देखाउनुहोस्।"</string>
+    <string name="pref_gallery_confirm_delete_summary" msgid="5253456492765525245">"कुनै तस्बिर अथवा भिडियो हटाउनुभन्दा पहले पुष्टि देखाउनुहोस्।"</string>
     <string name="no_location_image" msgid="8907867717568887559">"यो तस्बिरमा कुनै स्थानको जानकारी संग्रहित छैन।"</string>
     <string name="details_panel_title" msgid="4753347516759338122">"विवरणहरू"</string>
     <string name="details_file_size" msgid="2468878774843246797">"फाइल आकार:"</string>
